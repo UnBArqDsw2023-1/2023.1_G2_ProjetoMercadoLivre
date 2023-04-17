@@ -1,10 +1,8 @@
-# RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+# 2023.1 G2 Projeto Mercado Livre
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023.
 
 ## Tecnologia
 

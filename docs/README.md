@@ -1,26 +1,22 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# 2023.1_G2_ProjetoMercadoLivre
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: G2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0013181  |  Adne Moretti Moreira |
+| 19/0084600  |  Arthur José Nascimento de Lima |
+| 19/0011602  |  Christian Fleury Alencar Siqueira |
+| 19/0085819  |  Cícero Barrozo Fernandes Filho |
+| 20/0018205  |  Gabriel Moretti de Souza  |
+| 20/0067923  |  João Henrique Marques Calzavara |
+| 20/1000379  |  Leonardo Milomes Vitoriano |
+| 19/0128712  |  Letícia Assunção Aires Moreira |
+| 20/0062379  |  Marcos Vinicius de Deus |
+| 15/0141629  |  Matheus Pimentel Leal |
+| 19/0055294  |  Thiago Siqueira Gomes  |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.

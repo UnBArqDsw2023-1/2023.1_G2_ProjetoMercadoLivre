@@ -17,7 +17,14 @@
 - Matheus Pimentel Leal
 - Thiago Siqueira Gomes
 
+## 3. Brainstorming
+- Mediador - Cícero
+- Observador - Matheus
+### 3.1 Resultados
+
+
 ## Histórico de Versão
 
-| Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |     Hora     |
-| :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | :----------: |
+| Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
+| :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
+| 1.0 | Criando documento | João Henrique | - | 18/04 |  

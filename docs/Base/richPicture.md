@@ -67,19 +67,19 @@ Figura 6 - Rich Picture <br>Autor: Gabriel Souza
 <img src="assets/RichPicture/versao1/RP_V1_AdneMoreira.jpeg">
 
 <p align='center'>
-Figura 6 - Rich Picture <br>Autor: Adne Moretti
+Figura 7 - Rich Picture <br>Autor: Adne Moretti
 </p>
 
 <img src="assets/RichPicture/versao1/RP_V1_LeticiaAires.jpeg">
 
 <p align='center'>
-Figura 6 - Rich Picture <br>Autor: Letícia Aires
+Figura 8 - Rich Picture <br>Autor: Letícia Aires
 </p>
 
 <img src="assets/RichPicture/versao1/RP_V1_CiceroFilho.jpeg">
 
 <p align='center'>
-Figura 6 - Rich Picture <br>Autor: Cícero Filho
+Figura 9 - Rich Picture <br>Autor: Cícero Filho
 </p>
 
 

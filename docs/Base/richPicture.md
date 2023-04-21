@@ -40,7 +40,7 @@ Figura 3 - Rich Picture <br>Autor: João Henrique
 figura4
 <br>
 
-<img src="assets/RichPiture/versao1/RP_V1_ThiagoGomes.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_ThiagoGomes.jpeg">
 
 <p align='center'>
 Figura 4 - Rich Picture <br>Autor: Thiago Gomes

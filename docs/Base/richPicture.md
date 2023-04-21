@@ -13,7 +13,7 @@ Com a primeira versão do Rich Picture, denominada v1 (versão 1), foi dessenvol
 A figura 1 ilusta um Rich Picture pré-compra v1.
 <br>
 
-<img src="assets/RichPicute/versao1/RP_v1_preCompra.jpg">
+<img src="assets/RichPicture/versao1/RP_v1_preCompra.jpg">
 
 <p align="center">
 Figura 1 - Rich Picture pré-compra<br>Autor: Leonardo Vitoriano
@@ -22,7 +22,7 @@ Figura 1 - Rich Picture pré-compra<br>Autor: Leonardo Vitoriano
 A figura 2 ilusta um Rich Picture pós-compra v1.
 <br>
 
-<img align="center" src="assets/RichPicute/versao1/RP_v1_posCompra.jpg">
+<img align="center" src="assets/RichPicture/versao1/RP_v1_posCompra.jpg">
 
 <p align='center'>
 Figura 2 - Rich Picture pró-compra<br>Autor: Leonardo Vitoriano
@@ -31,7 +31,7 @@ Figura 2 - Rich Picture pró-compra<br>Autor: Leonardo Vitoriano
 figura3
 <br>
 
-<img src="assets/RichPicute/versao1/RichPictureV1JoaoHenrique.jpeg">
+<img src="assets/RichPicture/versao1/RichPictureV1JoaoHenrique.jpeg">
 
 <p align='center'>
 Figura 3 - Rich Picture <br>Autor: João Henrique
@@ -40,7 +40,7 @@ Figura 3 - Rich Picture <br>Autor: João Henrique
 figura4
 <br>
 
-<img src="assets/RichPicute/versao1/RP_V1_ThiagoGomes.jpeg">
+<img src="assets/RichPiture/versao1/RP_V1_ThiagoGomes.jpeg">
 
 <p align='center'>
 Figura 4 - Rich Picture <br>Autor: Thiago Gomes
@@ -49,7 +49,7 @@ Figura 4 - Rich Picture <br>Autor: Thiago Gomes
 figura5
 <br>
 
-<img src="assets/RichPicute/versao1/RP_V1_MarcosVinicius.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_MarcosVinicius.jpeg">
 
 <p align='center'>
 Figura 5 - Rich Picture <br>Autor: Marcos Vinícius
@@ -58,11 +58,30 @@ Figura 5 - Rich Picture <br>Autor: Marcos Vinícius
 figura6
 <br>
 
-<img src="assets/RichPicute/versao1/>RP_V1_GabrielSouza.jpeg">
+<img src="assets/RichPicture/versao1/>RP_V1_GabrielSouza.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Gabriel Souza
 </p>
+
+<img src="assets/RichPicture/versao1/>RP_V1_AdneMoretti.jpeg">
+
+<p align='center'>
+Figura 6 - Rich Picture <br>Autor: Adne Moretti
+</p>
+
+<img src="assets/RichPicture/versao1/>RP_V1_LeticiaAires.jpeg">
+
+<p align='center'>
+Figura 6 - Rich Picture <br>Autor: Letícia Aires
+</p>
+
+<img src="assets/RichPicture/versao1/>RP_V1_CiceroFilho.jpeg">
+
+<p align='center'>
+Figura 6 - Rich Picture <br>Autor: Cícero Filho
+</p>
+
 
 ## Referências
 - "Introducing Rich Pictures - Rich Picture Drawing Guidelines" - Software Development Project
@@ -74,3 +93,4 @@ Figura 6 - Rich Picture <br>Autor: Gabriel Souza
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
 | 1.0    | Criando documento e adicionando rich picture v1   | Leonardo Vitoriano | - | 20/04 |
 | 1.1    | Adicionando "Introdução", "Objetivos" e mais rich pictures   | João Henrique | - | 21/04 |
+| 1.2    | Corrigindo link e adicionando rich pictures   | Adne Moretti | - | 21/04 |

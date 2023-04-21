@@ -31,7 +31,7 @@ Figura 2 - Rich Picture pró-compra<br>Autor: Leonardo Vitoriano
 figura3
 <br>
 
-<img src="assets/RichPicture/versao1/RichPictureV1JoaoHenrique.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_JoaoHenrique.jpeg">
 
 <p align='center'>
 Figura 3 - Rich Picture <br>Autor: João Henrique

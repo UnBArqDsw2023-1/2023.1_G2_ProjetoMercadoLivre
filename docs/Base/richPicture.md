@@ -47,7 +47,7 @@ Figura 4 - Rich Picture <br>Autor: Thiago Gomes
 </p>
 
 figura5
-<br
+<br>
 
 <img src="assets/RichPicute/versao1/RP_V1_MarcosVinicius.jpeg">
 

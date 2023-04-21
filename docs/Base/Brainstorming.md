@@ -20,6 +20,10 @@
 ## 3. Brainstorming
 - Mediador - Cícero
 - Observador - Matheus
+
+&emsp;&emsp; Abaixo, o brainstorming realizado na ferramenta "Miro".
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMR5ENS8=/?moveToViewport=11662,-33776,17523,8688&embedId=716684158285" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ### 3.1 Resultados
 #### *Entender o fluxo de avaliação de produtos* 
 - Seria necessário uma UI descritiva para menor confusão do usuário ao realizar a avaliação
@@ -44,8 +48,15 @@
 - Limite de tempo de edição de comentários de avaliação
 - Possibilidade de realização de operações básicas (criação, edição, remoção e visualização)
 
-## Histórico de Versão
+## 4. Gravação da reunião
+
+- https://www.youtube.com/watch?v=gkI6TRqxYHs&feature=youtu.be
+
+## 5. Histórico de Versão
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0 | Criando documento | João Henrique | - | 18/04 |  
+| 1.0 | Criando documento | João Henrique | Marcos | 18/04 |  
+| 1.1 | Adicionando imagem brainstorming | João Henrique | Gabriel | 21/04 |  
+| 1.1.1 | Adicionando link para a gravação da reunião | Marcos Vinícius | João Henrique | 21/04 |
+

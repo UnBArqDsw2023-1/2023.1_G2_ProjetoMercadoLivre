@@ -58,25 +58,25 @@ Figura 5 - Rich Picture <br>Autor: Marcos Vinícius
 figura6
 <br>
 
-<img src="assets/RichPicture/versao1/>RP_V1_GabrielSouza.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_GabrielSouza.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Gabriel Souza
 </p>
 
-<img src="assets/RichPicture/versao1/>RP_V1_AdneMoreira.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_AdneMoreira.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Adne Moretti
 </p>
 
-<img src="assets/RichPicture/versao1/>RP_V1_LeticiaAires.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_LeticiaAires.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Letícia Aires
 </p>
 
-<img src="assets/RichPicture/versao1/>RP_V1_CiceroFilho.jpeg">
+<img src="assets/RichPicture/versao1/RP_V1_CiceroFilho.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Cícero Filho

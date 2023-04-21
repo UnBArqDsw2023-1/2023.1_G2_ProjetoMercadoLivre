@@ -1,14 +1,14 @@
 ## 1. Introdução
-&emsp;&emsp;O rich picture é uma ferramenta de pré-rastreabilidade, usada para analisar problemas e idéias de maneira informal.É um desenho de uma situação que ilustra os elementos principais e relações que precisam ser levadas em consideração ao tentar criar alguma melhoria.
+&emsp;&emsp;O rich picture é uma ferramenta de pré-rastreabilidade, usada para analisar problemas e ideias de maneira informal.É um desenho de uma situação que ilustra os elementos principais e relações que precisam ser levadas em consideração ao tentar criar alguma melhoria.
 
 
 ## 2. Objetivo 
-&emsp;&emsp;O objetivo de se fazer o rich picture é se ter uma melhor idéia do que faremos no decorrer da disciplina, entendendo melhor a visão do comprador e da plataforma sobre o fluxo de avaliações do mercado livre, para isso cada um do grupo fez um rich picture, após isso, depois de analisarmos, fizermos uma versão melhorada com base na análise dos rich pictures de todos, pegamos as idéias onde todos concordamos, e fizemos em um só.
+&emsp;&emsp;O objetivo de se fazer o rich picture é se ter uma melhor ideia do que faremos no decorrer da disciplina, entendendo melhor a visão do comprador e da plataforma sobre o fluxo de avaliações do mercado livre, para isso cada um do grupo fez um rich picture, após isso, depois de analisarmos, fizermos uma versão melhorada com base na análise dos rich pictures de todos, pegamos as ideias onde todos concordamos, e fizemos em um só.
 
 
 ## 3. Rich Picture v1
 
-&emsp;&emsp;Com a primeira versão do Rich Picture, denominada v1 (versão 1), foi dessenvolvido utilizando lápis e papel, ou seja, simples o suficiente para visualizar o comportamento do sistema de maneira rápida e com poucos recursos.
+&emsp;&emsp;Com a primeira versão do Rich Picture, denominada v1 (versão 1), foi desenvolvido utilizando lápis e papel, ou seja, simples o suficiente para visualizar o comportamento do sistema de maneira rápida e com poucos recursos.
 
 #### Rich picture 1
 <br>
@@ -115,3 +115,4 @@ Figura 10 - Rich Picture <br>Autor: Arthur Lima
 | 1.2    | Corrigindo link e adicionando rich pictures   | Adne Moretti | Marcos | 21/04 |
 | 1.3    | Adicionando rich picture V2  | Adne, Gabriel, João e Marcos | - | 21/04 |
 | 1.4    | Adicionando link para gravação da reunião  | Marcos | - | 21/04 |
+| 1.5    | Corrigindo erros ortográficos | Cícero | - | 21/04|

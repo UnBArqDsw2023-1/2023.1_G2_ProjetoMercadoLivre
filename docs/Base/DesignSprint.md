@@ -1,6 +1,6 @@
 # Design Sprint
 
-## 1. Introducao
+## 1. Introdução
 
 &emsp;&emsp;
 

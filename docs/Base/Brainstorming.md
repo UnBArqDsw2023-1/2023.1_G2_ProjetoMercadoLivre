@@ -1,8 +1,8 @@
 # Brainstorming
 
-## 1. Introducao
+## 1. Introdução
 
-&emsp;&emsp;A técnica de brainstorming consiste em uma sessão de conversa bastante livre entre os engenheiros de requisistos, com o objetivo de levantar requisitos e aprender sobre novas características que os usuários gostariam no produto. Esta técnica é normalmente aplicada durante o estágio conceitual do produto, quando pouco do produto e do processo é conhecido, assim permitindo um melhor entendimento por parte dos desenvolvedores.
+&emsp;&emsp;A técnica de brainstorming consiste em uma sessão de conversa bastante livre entre os engenheiros de requisitos, com o objetivo de levantar requisitos e aprender sobre novas características que os usuários gostariam no produto. Esta técnica é normalmente aplicada durante o estágio conceitual do produto, quando pouco do produto e do processo é conhecido, assim permitindo um melhor entendimento por parte dos desenvolvedores.
 
 ## 2. Participantes
 - Adne Moretti Moreira

@@ -4,7 +4,7 @@
 
 ### [Miro](https://miro.com/pt/)
 
-<img align="center" src=docs/Assets/Ferramentas/Miro.png>
+<img width="100px" src="/Assets/Ferramentas/miro.png">
 
 &emsp;&emsp;O Miro é uma plataforma de colaboração digital projetada para facilitar a comunicação de equipes remotas e distribuídas e o gerenciamento de projetos.
 
@@ -12,11 +12,15 @@
 
 ## [GitHub](https://github.com)
 
+<img width="100px" src="/Assets/Ferramentas/github.png">
+
  &emsp;&emsp;O GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
  
  &emsp;&emsp;Foi utilizado no projeto como o local de hospedagem do projeto, onde constantemente atualizamos os arquivos.
 
 ## [Discord](https://discord.com)
+
+<img width="100px" src="/Assets/Ferramentas/discord.png">
 
 &emsp;&emsp;Discord  é uma plataforma de comunicação instantânea que permite a troca de mensagens em texto, áudio e vídeo.
 
@@ -24,17 +28,23 @@
 
 ## [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software)
 
+<img width="100px" src="/Assets/Ferramentas/teams.png">
+
 &emsp;&emsp;Microsoft Teams é uma plataforma de comunicação instantânea que permite a troca de mensagens em texto, áudio e vídeo.
 
 &emsp;&emsp;Foi utilizada no projeto para as reuniões e gravações de vídeo.
 
 ## [Whatsapp](https://www.whatsapp.com/?lang=pt_br)
 
+<img width="100px" src="/Assets/Ferramentas/whatsapp.png">
+
 &emsp;&emsp;O Whatsapp é um aplicativo multiplataforma de mensagens instantâneas e chamadas de voz para smartphones. Além de mensagens de texto, os usuários podem enviar imagens, vídeos e documentos em PDF, além de fazer ligações grátis por meio de uma conexão com a internet.
 
 &emsp;&emsp;Foi utilizado no projeto para comunicação e compartilhamento de informações ou arquivos pertinentes entre os membros do grupo.
 
 ## [Visual Studio Code](https://code.visualstudio.com)
+
+<img width="100px" src="/Assets/Ferramentas/vscode.webp">
 
 &emsp;&emsp;O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets, escrita de código cooperativa e refatoração de código.
 

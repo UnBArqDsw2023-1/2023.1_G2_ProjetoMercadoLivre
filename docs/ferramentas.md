@@ -14,15 +14,15 @@
 
 <img width="100px" src="/Assets/Ferramentas/github.png">
 
- &emsp;&emsp;O GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
- 
- &emsp;&emsp;Foi utilizado no projeto como o local de hospedagem do projeto, onde constantemente atualizamos os arquivos.
+&emsp;&emsp;O GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
+&emsp;&emsp;Foi utilizado no projeto como o local de hospedagem do projeto, onde constantemente atualizamos os arquivos.
 
 ## [Discord](https://discord.com)
 
 <img width="100px" src="/Assets/Ferramentas/discord.png">
 
-&emsp;&emsp;Discord  é uma plataforma de comunicação instantânea que permite a troca de mensagens em texto, áudio e vídeo.
+&emsp;&emsp;Discord é uma plataforma de comunicação instantânea que permite a troca de mensagens em texto, áudio e vídeo.
 
 &emsp;&emsp;Foi utilizada no projeto para a comunicação entre o grupo, e reuniões.
 
@@ -50,8 +50,17 @@
 
 &emsp;&emsp;Foi utilizado no projeto para confecção do código referente ao GitPages (ou seja, para a documentação) do projeto.
 
+## [Canva](https://www.canva.com/)
+
+<img width="100px" src="/Assets/Ferramentas/Canva.jpg">
+
+&emsp;&emsp;O Canva é uma conceituada ferramenta online para edição de imagens e designs em geral.
+
+&emsp;&emsp;Foi utilizado no projeto para confecção do storyboard e outros designs.
+
 ## Histórico de Versão
 
-| Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
-| :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0    | Criando documento e adicionando Miro, Discord, WhatsApp, Teams, GitHub e VS Code   | Gabriel, João | Adne | 21/04 |
+| Versão |                                    Alteração                                     |  Responsável  | Revisor | Data  |
+| :----: | :------------------------------------------------------------------------------: | :-----------: | :-----: | :---: |
+|  1.0   | Criando documento e adicionando Miro, Discord, WhatsApp, Teams, GitHub e VS Code | Gabriel, João |  Adne   | 21/04 |
+|  1.0   |                                Adicionando canva                                 | João Henrique | Arthur  | 21/04 |

@@ -46,4 +46,4 @@ espaço de tempo.Se divide em 4 partes sendo elas :
 | Versão |       Alteração        |  Responsável  |    Revisor    | Data  |
 | :----: | :--------------------: | :-----------: | :-----------: | :---: |
 |  1.0   |   Criando documento    | Adne Moretti  | João Henrique | 21/04 |
-|  1.1   | Adicionando introdução | João Henrique |       -       | 21/04 |
+|  1.1   | Adicionando introdução | João Henrique |       -       | 22/04 |

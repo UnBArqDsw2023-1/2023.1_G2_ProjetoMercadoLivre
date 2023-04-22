@@ -63,4 +63,4 @@
 | Versão |                                    Alteração                                     |  Responsável  | Revisor | Data  |
 | :----: | :------------------------------------------------------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   | Criando documento e adicionando Miro, Discord, WhatsApp, Teams, GitHub e VS Code | Gabriel, João |  Adne   | 21/04 |
-|  1.0   |                                Adicionando canva                                 | João Henrique | Arthur  | 21/04 |
+|  1.0   |                                Adicionando canva                                 | João Henrique | Arthur  | 22/04 |

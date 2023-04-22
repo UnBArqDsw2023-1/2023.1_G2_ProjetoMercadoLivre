@@ -5,7 +5,7 @@
 &emsp;&emsp;A técnica do "Design Sprint" foi desenvolvida pelo Google Ventures. O Design
 Sprint é uma maneira colaborativa e ágil de conceituar e concretizar uma
 ideia, um produto, suas implementações e funcionalidades em um curto
-espaço de tempo.Se divide em 4 partes sendo elas :
+espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 
 - "Unpack" fase de compreesão do problema que precisa ser resolvido, condução de pesquisas e listar as necessidades;
 - "Sketch" fase de gerar ideias de possíveis soluções;

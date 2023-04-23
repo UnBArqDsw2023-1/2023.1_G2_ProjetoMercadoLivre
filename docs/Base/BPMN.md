@@ -9,6 +9,12 @@ Esta notação foi adotada pela Object Management Group (OMG).
 Trata-se de um consórcio internacional aberto, sem fins lucrativos,
 voltado para a padronização de tecnologias.
 
+## 2. Participantes
+
+- Adne Moretti Moreira;
+- João Henrique Marques Calzavara;
+- Leonardo Milomes Vitoriano;
+
 ## Referências
 
 - https://www.omg.org/bpmn/;
@@ -21,3 +27,4 @@ voltado para a padronização de tecnologias.
 | Versão |                     Alteração                     |  Responsável  | Revisor  | Data  |
 | :----: | :-----------------------------------------------: | :-----------: | :------: | :---: |
 |  1.0   | Criação do documento com introdução e referências | João Henrique | Leonardo | 22/04 |
+|  1.1   |             Adicionando participantes             | João Henrique |   Adne   | 23/04 |

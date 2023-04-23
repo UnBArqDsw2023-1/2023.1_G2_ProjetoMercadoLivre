@@ -15,12 +15,17 @@ voltado para a padronização de tecnologias.
 - João Henrique Marques Calzavara;
 - Leonardo Milomes Vitoriano;
 
-## Referências
+## 3. Referências
 
 - https://www.omg.org/bpmn/;
 - http://iprocess.com.br/notacao-bpmn/;
 - https://edisciplinas.usp.br/pluginfile.php/4449285/mod_resource/content/0/Notacao-BPMN%202%20-%202017.pdf;
 - [slides da disciplina](https://aprender3.unb.br/pluginfile.php/2482553/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf);
+
+## 4. Reunião
+
+- [Parte 1](https://youtu.be/1-z4lZPubeQ)
+- [Parte 2](https://youtu.be/rqhsPMaOj5c)
 
 ## Histórico de versão
 

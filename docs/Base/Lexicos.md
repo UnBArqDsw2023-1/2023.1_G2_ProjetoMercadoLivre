@@ -2,14 +2,13 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Léxico é uma notação que usa descrição de termos via léxico é o LAL (Léxico
-Ampliado da Linguagem).Trata-se de uma técnica que procura descrever os símbolos de uma
+&emsp;&emsp;Léxico é uma notação que usa descrição de termos via léxico LAL (Léxico
+Ampliado da Linguagem). Trata-se de uma técnica que procura descrever os símbolos de uma
 linguagem, buscando a
 identificação de palavras ou frases peculiares ao meio social da aplicação
-sob estudo.
+sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes, usuários e profissionais de software [Sayão, Carvalho, 2006], de modo a facilitar a identificação de palavras e frases comuns ao meio social da aplicação sob o estudo.
 
-
-## 3. Léxicos
+## 2. Metodologia
 
 ### Legenda
 | **Lxx**           | nome do léxico |
@@ -18,6 +17,8 @@ sob estudo.
 | **Sinônimos**     | Sinônimos do léxico  |
 | **Noção**         | Significado do léxico    |
 | **Impacto**       | Efeitos do léxico na aplicação|
+
+## 3. Léxicos
 
 
 ### Léxico 01: Avaliar
@@ -349,6 +350,71 @@ sob estudo.
     <b>Tabela 21: Votar
         <br><small>Autor: Marcos e João</small>
 </figcaption>
+    
+### Léxico 21: Visualizar
+
+    
+    
+| **L21**           | Visualizar |
+| ----------------- | ------- |
+| **Classificação** | Verbo   |
+| **Sinônimos**     | Ver, observar    |
+| **Noção**         | Um comprador visualiza as avaliações do produto que deseja     |
+| **Impacto**       | O comprador opta em comprar o produto       |    
+    
+<figcaption align='center'>
+    <b>Tabela 21: Visualizar
+        <br><small>Autor: Letícia</small>
+</figcaption>
+    
+### Léxico 22: Responder
+    
+    
+  
+| **L22**           | Responder |
+| ----------------- | ------- |
+| **Classificação** | Verbo   |
+| **Sinônimos**     |   retornar, dar resposta a  |
+| **Noção**         | Um vendedor responde os comentários de avaliações referentes ao seu produto     |
+| **Impacto**       | O vendedor retorna resposta aos feedbacks de seus produtos       | 
+    
+<figcaption align='center'>
+    <b>Tabela 22: Responder
+        <br><small>Autor: Letícia</small>
+</figcaption>
+    
+
+### Léxico 23: Deslogar
+
+
+
+| **L23**           | Deslogar |
+| ----------------- | ------- |
+| **Classificação** | Verbo   |
+| **Sinônimos**     | Sair, efetuar logoff       |
+| **Noção**         | Um comprador gostaria de delogar de sua conta      |
+| **Impacto**       | O comprador consegue deslogar de sua conta      |
+
+<figcaption align='center'>
+    <b>Tabela 23: Deslogar
+        <br><small>Autor: Letícia</small>
+</figcaption>
+    
+### Léxico 24: Moderar
+
+
+
+| **L24**           | Moderar |
+| ----------------- | ------- |
+| **Classificação** | Verbo   |
+| **Sinônimos**     | Supervisionar, controlar      |
+| **Noção**         | A plataforma modera os comentários de avaliações em seu sistema       |
+| **Impacto**       | O comentário pode ser excluíd      |
+
+<figcaption align='center'>
+    <b>Tabela 24: Moderar
+        <br><small>Autor: Letícia</small>
+</figcaption>
 
 ## 4. Referências
 
@@ -361,3 +427,4 @@ sob estudo.
 | :----: | :----------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   | Adicionando introdução e referências | João Henrique | Marcos  | 23/04 |
 |  2.0   | Adicionando léxicos | João Henrique e Marcos Vinícius | Cícero  | 23/04 |
+|  3.0   | Adicionando léxicos | Letícia Aires | Matheus | 23/04 |    

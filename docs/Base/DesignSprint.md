@@ -45,12 +45,12 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 
 &emsp;&emsp; Na última parte, utilizando como base os fluxos presentes nos [storyboards](../Base/StoryBoard.md), criamos um [protótipo](../Base/Prototipo.md).
 
-## Referências
+## 4. Referências
 
 - [Google Ventures](http://www.gv.com/sprint/);
 - [Trabalho de um grupo semestre 2018.2](https://desenhosoftware-2018-2.github.io/wiki/designsprint)
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão |       Alteração        |  Responsável  |    Revisor    | Data  |
 | :----: | :--------------------: | :-----------: | :-----------: | :---: |

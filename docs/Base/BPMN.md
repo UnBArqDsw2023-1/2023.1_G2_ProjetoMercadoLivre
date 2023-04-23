@@ -11,9 +11,40 @@ voltado para a padronização de tecnologias.
 
 ## 2. Participantes
 
+Os participantes do desenvolvimento dos diagramas de processos com notação BPM foram:
+
 - Adne Moretti Moreira;
 - João Henrique Marques Calzavara;
 - Leonardo Milomes Vitoriano;
+
+## 3. Objetivo
+
+
+## 4. Diagramas de processos com notação BPM 
+
+
+<img align="center" src="assets/BPMN/VisaoGeral_BPMN.png">
+<p align="center">
+Figura 1 - BPMN Visão Geral<br>Autor: Elaboração Própria
+</p> <br>
+
+
+<img align="center" src="assets/BPMN/DesignSprint_BPMN.png">
+<p align="center">
+Figura 2 - Design Sprint<br>Autor: Elaboração Própria
+</p> <br>
+
+<img align="center" src="assets/BPMN/SprintPlanning_BPMN.png">
+<p align="center">
+Figura 3 - Sprint Planning<br>Autor: Elaboração Própria
+</p> <br>
+
+
+<img align="center" src="assets/BPMN/Sprint_BPMN.png">
+<p align="center">
+Figura 4 - Sprint<br>Autor: Elaboração Própria
+</p> <br>
+
 
 ## 3. Referências
 
@@ -31,6 +62,7 @@ voltado para a padronização de tecnologias.
 
 | Versão |                     Alteração                     |  Responsável  | Revisor  | Data  |
 | :----: | :-----------------------------------------------: | :-----------: | :------: | :---: |
-|  1.0   | Criação do documento com introdução e referências | João Henrique | Leonardo | 22/04 |
+|  1.0   | Criação do documento com introdução e referências | João Henrique | Leonardo Vitoriano | 22/04 |
 |  1.1   |             Adicionando participantes             | João Henrique |   Adne   | 23/04 |
 |  1.2   |             Adicionando link das reuniões         | Marcos Vinícius |   João Henrique   | 23/04 |
+|  1.3   |             Adicionando diagramas BPMN         | Leonardo Vitoriano |   João Henrique   | 23/04 |

@@ -409,7 +409,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Classificação** | Verbo   |
 | **Sinônimos**     | Supervisionar, controlar      |
 | **Noção**         | A plataforma modera os comentários de avaliações em seu sistema       |
-| **Impacto**       | O comentário pode ser excluíd      |
+| **Impacto**       | O comentário poderá ser excluído      |
 
 <figcaption align='center'>
     <b>Tabela 24: Moderar

@@ -29,10 +29,10 @@ O modelo de processo criado usando BPMN 2.0 pode ser usado para identificar inef
 
 ### Visão Geral
 
-O diagrama BPMN na figura 1, indica o fluxo das atividades que serão realizadas na disciplina em uma visão geral visando uma construção de um projeto, contendo 2 subprocessos que serão detalhados em outras piscinas, sendo eles: Design Sprint e Sprint. 
+O diagrama BPMN na figura 1, indica o fluxo das atividades que serão realizadas na disciplina em uma visão geral visando uma construção de um projeto, contendo 2 subprocessos que serão detalhados em outras piscinas, sendo eles: Design Sprint e Sprint.
 
-Cabe ressaltar que a metodologia foi baseada no **Scrum**, pois contém algumas cerimônias apresnetados nele, tais quais a *Sprint*, duração de 1 semana visando incremento contínuo, *Sprint Planning*, planejamento da sprint baseado no *Backlog Sprint*, e *Sprint Review*, revisão da *Sprint* com os pontos fortes, fracos e melhorias.
- 
+Cabe ressaltar que a metodologia foi baseada no **Scrum**, pois contém algumas cerimônias apresnetados nele, tais quais a _Sprint_, duração de 1 semana visando incremento contínuo, _Sprint Planning_, planejamento da sprint baseado no _Backlog Sprint_, e _Sprint Review_, revisão da _Sprint_ com os pontos fortes, fracos e melhorias.
+
 <img align="center" src="assets/BPMN/VisaoGeral_BPMN.png">
 <p align="center">
 Figura 1 - BPMN Visão Geral<br>Autor: Elaboração Própria
@@ -40,7 +40,7 @@ Figura 1 - BPMN Visão Geral<br>Autor: Elaboração Própria
 
 ### Design Sprint
 
-O diagrama BPMN na figura 2, indica o fluxo das atividades que serão realizadas na fase de Desenho e Modelagem do projeto. Essa fase conta com a elaboração dos artefatos: *Rich Picture*, Léxicos e Mapa mental.
+O diagrama BPMN na figura 2, indica o fluxo das atividades que serão realizadas na fase de Desenho e Modelagem do projeto. Essa fase conta com a elaboração dos artefatos: _Rich Picture_, Léxicos e Mapa mental.
 
 <img align="center" src="assets/BPMN/DesignSprint_BPMN.png">
 <p align="center">
@@ -49,7 +49,7 @@ Figura 2 - Design Sprint<br>Autor: Elaboração Própria
 
 ### Sprint
 
-O diagrama BPMN na figura 3, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. A *Sprint* define tempo e atividades a serem realizadas nele, e ainda existe um subprocesso denominado *Sprint Planning*.
+O diagrama BPMN na figura 3, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. A _Sprint_ define tempo e atividades a serem realizadas nele, e ainda existe um subprocesso denominado _Sprint Planning_.
 
 <img align="center" src="assets/BPMN/Sprint_BPMN.png">
 <p align="center">
@@ -58,24 +58,23 @@ Figura 3 - Sprint<br>Autor: Elaboração Própria
 
 ### Sprint Planning
 
-O diagrama BPMN na figura 4, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. Pois a *Sprint Planning* visa planejar quem e quais atividades serão desenvolvidas para se obter um incremento do produto.
+O diagrama BPMN na figura 4, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. Pois a _Sprint Planning_ visa planejar quem e quais atividades serão desenvolvidas para se obter um incremento do produto.
 
 <img align="center" src="assets/BPMN/SprintPlanning_BPMN.png">
 <p align="center">
 Figura 4 - Sprint Planning<br>Autor: Elaboração Própria
 </p> <br>
 
-
 ## 4. Reunião
 
-As gravações das reuniões, que ocorreram no dia 22/04/23 ás 12h, de elaboração e desenvolvimento dos artefatos de diagramas de modelagem de processos com notação BPMN 2.0, podem ser encontradas nos links a seguir: 
+As gravações das reuniões, que ocorreram no dia 22/04/23 ás 12h, de elaboração e desenvolvimento dos artefatos de diagramas de modelagem de processos com notação BPMN 2.0, podem ser encontradas nos links a seguir:
 
 - [Parte 1](https://youtu.be/1-z4lZPubeQ)
 - [Parte 2](https://youtu.be/rqhsPMaOj5c)
 
 ## 4. Referências
 
-- [1] https://www.dpo.unb.br/images/phocadownload/dpr/biblioteca/BPMN.pdf; 
+- [1] https://www.dpo.unb.br/images/phocadownload/dpr/biblioteca/BPMN.pdf;
 - [2] https://www.omg.org/bpmn/;
 - [3] http://iprocess.com.br/notacao-bpmn/;
 - [4] https://edisciplinas.usp.br/pluginfile.php/4449285/mod_resource/content/0/Notacao-BPMN%202%20-%202017.pdf;
@@ -83,10 +82,10 @@ As gravações das reuniões, que ocorreram no dia 22/04/23 ás 12h, de elabora�
 
 ## 5. Histórico de versão
 
-| Versão |                     Alteração                     |  Responsável  | Revisor  | Data  |
-| :----: | :-----------------------------------------------: | :-----------: | :------: | :---: |
-|  1.0   | Criação do documento com introdução e referências | João Henrique | Leonardo Vitoriano | 22/04 |
-|  1.1   |             Adicionando participantes             | João Henrique |   Adne   | 23/04 |
-|  1.2   |             Adicionando link das reuniões         | Marcos Vinícius |   João Henrique   | 23/04 |
-|  1.3   |             Adicionando diagramas BPMN         | Leonardo Vitoriano |   João Henrique   | 23/04 |
-|  1.4   |             Adicionando objetivo e descrição dos diagramas BPMN         | Leonardo Vitoriano |   -   | 23/04 |
+| Versão |                      Alteração                      |    Responsável     |      Revisor       | Data  |
+| :----: | :-------------------------------------------------: | :----------------: | :----------------: | :---: |
+|  1.0   |  Criação do documento com introdução e referências  |   João Henrique    | Leonardo Vitoriano | 22/04 |
+|  1.1   |              Adicionando participantes              |   João Henrique    |        Adne        | 23/04 |
+|  1.2   |            Adicionando link das reuniões            |  Marcos Vinícius   |   João Henrique    | 23/04 |
+|  1.3   |             Adicionando diagramas BPMN              | Leonardo Vitoriano |   João Henrique    | 23/04 |
+|  1.4   | Adicionando objetivo e descrição dos diagramas BPMN | Leonardo Vitoriano |   João Henrique    | 23/04 |

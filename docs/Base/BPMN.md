@@ -27,9 +27,10 @@ voltado para a padronização de tecnologias.
 - [Parte 1](https://youtu.be/1-z4lZPubeQ)
 - [Parte 2](https://youtu.be/rqhsPMaOj5c)
 
-## Histórico de versão
+## 5. Histórico de versão
 
 | Versão |                     Alteração                     |  Responsável  | Revisor  | Data  |
 | :----: | :-----------------------------------------------: | :-----------: | :------: | :---: |
 |  1.0   | Criação do documento com introdução e referências | João Henrique | Leonardo | 22/04 |
 |  1.1   |             Adicionando participantes             | João Henrique |   Adne   | 23/04 |
+|  1.2   |             Adicionando link das reuniões         | Marcos Vinícius |   João Henrique   | 23/04 |

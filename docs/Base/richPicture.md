@@ -92,7 +92,7 @@ Figura 9 - Rich Picture <br>Autor: Cícero Filho
 Figura 10 - Rich Picture <br>Autor: Arthur Lima
 </p>
 
-## 4. Rich Picture V2
+## 4. Rich Picture V2 <div id ="richpicturev2" />
 
 &emsp;&emsp;Após a análise de todos os rich pictures, discutimos, e decidimos nos basear no rich picture 6 do Gabriel, com algumas pequenas alterações. Abaixo, o resultado da segunda versão que foi feita usando a ferramenta "miro".
 

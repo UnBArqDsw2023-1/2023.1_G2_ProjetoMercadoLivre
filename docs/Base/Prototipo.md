@@ -22,10 +22,11 @@ Protótipo <br> Autor: Arthur, Gabriel, Letícia, Matheus
 
 ## 4. Gravação da reunião
 
-<!-- - [Parte 1](https://youtu.be/nMajRN9lSE4) -->
+- [Reunião](https://youtu.be/Q5LQWDRCSbA)
 
 ## 5. Histórico de Versão
 
 | Versão |       Alteração        |  Responsável  |    Revisor    | Data  |
 | :----: | :--------------------: | :-----------: | :-----------: | :---: |
 |  1.0   |   Criando documento, adição da introdução e protótipo  | Gabriel  | - | 22/04 |
+|  1.1   |   Adicionando link da reunião  | Marcos  | João Henrique | 23/04 |

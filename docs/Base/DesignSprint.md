@@ -12,8 +12,6 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 - "decision" fase de seleção de uma ideia para ser prototipada e testada;
 - "prototype" fase de criar um protótipo rápido da ideia selecionada.
 
-&emsp;&emsp;
-
 ## 2. Participantes
 
 - Adne Moretti Moreira
@@ -28,13 +26,23 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 - Matheus Pimentel Leal
 - Thiago Siqueira Gomes
 
-## 3.1. Parte 1 -
+## 3.0 Design Sprint
 
-## 3.2. Parte 1 -
+### 3.1. Parte 1 - Unpack
 
-## 3.3. Parte 3 - Decisão
+&emsp;&emsp;Nessa parte 1, debatemos vários aspectos para a compeensão do que deveria ser feito na dosciplina, após isso, fizemos o [brainstorming](../Base/Brainstorming.md), e com base nas idéias adquiridas, fizemos um [mapa mental](../Base/MapaMental.md).
 
-## 3.4. Parte 4 - Prototipagem
+### 3.2. Parte 2 - Sketch
+
+&emsp;&emsp; Nessa parte 2, fizemos de forma assíncrona, onde cada integrantes fez um [rich picture](../Base/richPicture.md) do que entendia pelo fluxo proposto ao nosso grupo na matéria.
+
+### 3.3. Parte 3 - Decisão
+
+&emsp;&emsp; Nessa parte 3, reunimos e decidimos o melhor [rich picture](../Base/richPicture.md) que foi o do Gabriel, e o melhoramos com idéias dos outros integrantes, além disso fizemos um [storyboard](../Base/StoryBoard.md) sobre alguns dos fluxos que estavam presentes no [rich picture](../Base/richPicture.md).
+
+### 3.4. Parte 4 - Prototipagem
+
+&emsp;&emsp; Nessa parte 4, fizemos dos fluxos que utilizamos para os [storyboards](../Base/StoryBoard.md) em forma de [protótipo](../Base/Prototipo.md).
 
 ## Referências
 
@@ -46,4 +54,5 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 | Versão |       Alteração        |  Responsável  |    Revisor    | Data  |
 | :----: | :--------------------: | :-----------: | :-----------: | :---: |
 |  1.0   |   Criando documento    | Adne Moretti  | João Henrique | 21/04 |
-|  1.1   | Adicionando introdução | João Henrique |       -       | 22/04 |
+|  1.1   | Adicionando introdução | João Henrique |    Marcos     | 22/04 |
+|  1.2   | Adicionando 3.1 ao 3.4 | João Henrique |    Marcos     | 23/04 |

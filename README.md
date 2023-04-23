@@ -91,7 +91,7 @@ docsify serve ./docs
     </td>
     <td align="center">
       <a href="#">
-        <img src="https//avatars.githubusercontent.com/u/72623771?v=4" width="100px;" alt="Foto Letícia Aires"/><br>
+        <img src="https://avatars.githubusercontent.com/u/72623771?v=4" width="100px;" alt="Foto Letícia Aires"/><br>
         <sub>
           <b>Letícia Aires</b>
         </sub>

@@ -58,9 +58,18 @@
 
 &emsp;&emsp;Foi utilizado no projeto para confecção do storyboard e outros designs.
 
+## [Figma](https://www.figma.com/)
+
+<img width="100px" src="/Assets/Ferramentas/figma.jpg">
+
+&emsp;&emsp;O Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
+
+&emsp;&emsp;Foi utilizado no projeto para confecção dos protótipos relacionados aos storyboards.
+
 ## Histórico de Versão
 
 | Versão |                                    Alteração                                     |  Responsável  | Revisor | Data  |
 | :----: | :------------------------------------------------------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   | Criando documento e adicionando Miro, Discord, WhatsApp, Teams, GitHub e VS Code | Gabriel, João |  Adne   | 21/04 |
-|  1.0   |                                Adicionando canva                                 | João Henrique | Arthur  | 22/04 |
+|  1.1   |                                Adicionando Canva                                 | João Henrique | Arthur  | 22/04 |
+|  1.2   | Adicionando Figma | Gabriel | - | 22/04 |

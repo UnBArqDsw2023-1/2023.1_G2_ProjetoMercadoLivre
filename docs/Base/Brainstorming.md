@@ -27,6 +27,10 @@
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMR5ENS8=/?moveToViewport=11662,-33776,17523,8688&embedId=716684158285" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
+<p align='center'>
+Figura 1 - Brainstorming <br>Autor: Todos
+</p>
+
 ### 3.1 Anotações do observador Matheus
 
 <br>

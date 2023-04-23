@@ -26,7 +26,7 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 - Matheus Pimentel Leal
 - Thiago Siqueira Gomes
 
-## 3.0 Design Sprint
+## 3 Design Sprint
 
 ### 3.1. Parte 1 - Unpack
 

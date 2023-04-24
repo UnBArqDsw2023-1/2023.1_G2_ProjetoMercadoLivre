@@ -264,7 +264,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Classificação** | Objeto   |
 | **Sinônimos**     | Alerta, informe    |
 | **Noção**         | Um vendedor recebe uma notificação de uma nova avaliação de seu produto   |
-| **Impacto**       | O vendedor vê a avaliação de seu produto através da nootificação     |
+| **Impacto**       | O vendedor vê a avaliação de seu produto através da notificação     |
 
 <figcaption align='center'>
     <b>Tabela 16: Notificação
@@ -350,7 +350,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
     <b>Tabela 21: Votar
         <br><small>Autor: Marcos e João</small>
 </figcaption>
-    
+
 ### Léxico 21: Visualizar
 
     
@@ -363,10 +363,10 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Impacto**       | O comprador opta em comprar o produto       |    
     
 <figcaption align='center'>
-    <b>Tabela 21: Visualizar
+    <b>Tabela 22: Visualizar
         <br><small>Autor: Letícia</small>
 </figcaption>
-    
+
 ### Léxico 22: Responder
     
     
@@ -379,7 +379,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Impacto**       | O vendedor retorna resposta aos feedbacks de seus produtos       | 
     
 <figcaption align='center'>
-    <b>Tabela 22: Responder
+    <b>Tabela 23: Responder
         <br><small>Autor: Letícia</small>
 </figcaption>
     
@@ -396,10 +396,10 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Impacto**       | O comprador consegue deslogar de sua conta      |
 
 <figcaption align='center'>
-    <b>Tabela 23: Deslogar
+    <b>Tabela 24: Deslogar
         <br><small>Autor: Letícia</small>
 </figcaption>
-    
+
 ### Léxico 24: Moderar
 
 
@@ -412,7 +412,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Impacto**       | O comentário poderá ser excluído      |
 
 <figcaption align='center'>
-    <b>Tabela 24: Moderar
+    <b>Tabela 25: Moderar
         <br><small>Autor: Letícia</small>
 </figcaption>
 

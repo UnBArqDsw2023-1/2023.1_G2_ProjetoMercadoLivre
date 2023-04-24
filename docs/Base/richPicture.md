@@ -1,3 +1,5 @@
+# Rich Picture
+
 ## 1. Introdução
 &emsp;&emsp;O rich picture é uma ferramenta de pré-rastreabilidade, usada para analisar problemas e ideias de maneira informal.É um desenho de uma situação que ilustra os elementos principais e relações que precisam ser levadas em consideração ao tentar criar alguma melhoria.
 

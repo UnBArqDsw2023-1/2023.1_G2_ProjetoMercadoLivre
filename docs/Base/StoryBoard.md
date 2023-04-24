@@ -1,3 +1,5 @@
+# Story Board
+
 ## 1. Introdução
 &emsp;&emsp;A estratégia de storyboard é uma técnica utilizada na concepção de software para visualizar e planejar a experiência do usuário. Consiste em criar uma série de desenhos, esboços ou diagramas que representam as telas e interações do software. Esses desenhos são organizados em uma sequência lógica, para criar uma narrativa visual do fluxo de uso do software.
 

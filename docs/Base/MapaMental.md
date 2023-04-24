@@ -1,3 +1,5 @@
+# Mapa Mental
+
 ## 1. Introdução
 
 &emsp;&emsp; Mapas mentais são uma ferramenta visual utilizada para organizar ideias e informações de maneira clara e concisa. Eles são criados a partir de um tema central, a partir do qual são adicionados ramos que representam tópicos relacionados. Os mapas mentais permitem que as pessoas explorem conexões entre ideias e informações, e podem ser usados para resolver problemas, planejar projetos, estudar para exames ou simplesmente organizar pensamentos. Eles são uma maneira eficaz de apresentar informações de uma forma não linear e ajudar a melhorar a compreensão e retenção de informações.

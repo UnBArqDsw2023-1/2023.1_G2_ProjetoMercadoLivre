@@ -33,7 +33,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ---------------------------------------------------------------- |
 | **Classificação** | Verbo                                                            |
 | **Sinônimos**     | Classificar, analisar, qualificar                                |
-| **Noção**         | Um comprador gostaria de avaliar um produto adquirido pelo mesmo |
+| **Noção**         | Um comprador gostaria de qualificar um produto adquirido pelo mesmo|
 | **Impacto**       | O produto é classificado pelo comprador                          |
 
 <figcaption align='center'>
@@ -47,7 +47,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------------------------------------------------- |
 | **Classificação** | Estado                                                                        |
 | **Sinônimos**     | atributos, aspectos                                                           |
-| **Noção**         | Um comprador ao avaliar o produto recebe perguntas sobre suas características |
+| **Noção**         | Um comprador ao avaliar o produto recebe perguntas sobre suas funcionalidades |
 | **Impacto**       | O produto é avaliado por seus atributos                                       |
 
 <figcaption align='center'>
@@ -61,7 +61,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------------------------- |
 | **Classificação** | Verbo                                                         |
 | **Sinônimos**     | Falar, dialogar, conversar                                    |
-| **Noção**         | Um comprador decide comentar sobre o produto em sua avaliação |
+| **Noção**         | Um comprador decide falar sobre o produto em sua avaliação    |
 | **Impacto**       | A avaliação é falada pelo comprador                           |
 
 <figcaption align='center'>
@@ -75,7 +75,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------- |
 | **Classificação** | Verbo                                       |
 | **Sinônimos**     | Adquirir, obter                             |
-| **Noção**         | Um comprador gostaria de comprar um produto |
+| **Noção**         | Um comprador gostaria de adquirir um produto|
 | **Impacto**       | O produto é adquirido por uma pessoa        |
 
 <figcaption align='center'>
@@ -88,8 +88,8 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **L05**           | Denunciar                                       |
 | ----------------- | ----------------------------------------------- |
 | **Classificação** | Verbo                                           |
-| **Sinônimos**     | Acusar, culpar                                  |
-| **Noção**         | O moderador denuncia um comentário ofensivo     |
+| **Sinônimos**     | Acusar, culpar, marcar como ofensivo            |
+| **Noção**         | O moderador marca um comentário como ofensivo   |
 | **Impacto**       | O comentário acusado é apagado pela plataforma. |
 
 <figcaption align='center'>
@@ -103,7 +103,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------------------------------- |
 | **Classificação** | Verbo                                                       |
 | **Sinônimos**     | Alterar, modificar                                          |
-| **Noção**         | Um comprador gostaria de editar sua avaliação               |
+| **Noção**         | Um comprador gostaria de modificar sua avaliação            |
 | **Impacto**       | A avaliação é alterada de acordo com a vontade do comprador |
 
 <figcaption align='center'>
@@ -117,7 +117,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ---------------------------------------------------------- |
 | **Classificação** | Verbo                                                      |
 | **Sinônimos**     | Apagar, descartar                                          |
-| **Noção**         | Um comprador gostaria de excluir sua avaliação             |
+| **Noção**         | Um comprador gostaria de apagar sua avaliação              |
 | **Impacto**       | A avaliação é apagada de acordo com a vontade do comprador |
 
 <figcaption align='center'>
@@ -131,7 +131,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | --------------------------------------------------------------------------------- |
 | **Classificação** | Verbo                                                                             |
 | **Sinônimos**     | peneirar, separar, escolher                                                       |
-| **Noção**         | Um comprador gostaria de filtrar os produtos pelas suas avaliações                |
+| **Noção**         | Um comprador gostaria de escolher os produtos pelas suas avaliações               |
 | **Impacto**       | A ordem dos produtos da pesquisa são exibidos de acordo com a separação escolhida |
 
 <figcaption align='center'>
@@ -145,7 +145,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ---------------------------------------------------------------- |
 | **Classificação** | Objeto                                                           |
 | **Sinônimos**     | Ficha                                                            |
-| **Noção**         | Um comprador gostaria de preencher o formulário de sua avaliação |
+| **Noção**         | Um comprador gostaria de preencher a ficha de sua avaliação      |
 | **Impacto**       | A ficha de avaliação é preenchido com as respostas do comprador  |
 
 <figcaption align='center'>
@@ -159,7 +159,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | -------------------------------------------------------------------------------- |
 | **Classificação** | Verbo                                                                            |
 | **Sinônimos**     | Recomendar, sugerir                                                              |
-| **Noção**         | A plataforma indica produtos com base em suas avaliações para outros compradores |
+| **Noção**         | A plataforma recomenda produtos com base em suas avaliações para outros compradores |
 | **Impacto**       | Produtos com boas avaliações são recomendados para outros compradores            |
 
 <figcaption align='center'>
@@ -173,7 +173,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------ |
 | **Classificação** | Verbo                                      |
 | **Sinônimos**     | Acessar, entrar                            |
-| **Noção**         | Um vendedor gostaria de logar na sua conta |
+| **Noção**         | Um vendedor gostaria de entrar na sua conta|
 | **Impacto**       | O vendedor consegue acessar a sua conta    |
 
 <figcaption align='center'>
@@ -187,7 +187,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto                                                                                    |
 | **Sinônimos**     | Meio termo das avaliações                                                                 |
-| **Noção**         | Um comprador gostaria visualizar a média das avaliações de um produto antes de adquiri-lo |
+| **Noção**         | Um comprador gostaria visualizar o meio termo das avaliações de um produto antes de adquiri-lo |
 | **Impacto**       | A compra é feita após o comprador se certificar que o produto tem uma boa avaliação média |
 
 <figcaption align='center'>
@@ -201,7 +201,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------------------------------------- |
 | **Classificação** | Objeto                                                            |
 | **Sinônimos**     | Mediador                                                          |
-| **Noção**         | O moderador exclui comentários ofensivos                          |
+| **Noção**         | O mediador exclui comentários ofensivos                           |
 | **Impacto**       | Um produto tem seus comentários ofensivos excluídos pelo mediador |
 
 <figcaption align='center'>
@@ -215,7 +215,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | --------------------------------------------------------------- |
 | **Classificação** | Objeto                                                          |
 | **Sinônimos**     | Avaliação, média                                                |
-| **Noção**         | Um comprador gostaria de filtrar um produto através da nota     |
+| **Noção**         | Um comprador gostaria de filtrar um produto por meio da avaliação |
 | **Impacto**       | O produto é filtrado com base em suas avaliações pelo comprador |
 
 <figcaption align='center'>
@@ -229,7 +229,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------------------------------------------- |
 | **Classificação** | Objeto                                                                  |
 | **Sinônimos**     | Alerta, informe                                                         |
-| **Noção**         | Um vendedor recebe uma notificação de uma nova avaliação de seu produto |
+| **Noção**         | Um vendedor recebe um alerta de uma nova avaliação de seu produto       |
 | **Impacto**       | O vendedor vê a avaliação de seu produto através do alerta              |
 
 <figcaption align='center'>
@@ -243,8 +243,8 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------------------------------- |
 | **Classificação** | Objeto                                                              |
 | **Sinônimos**     | Aplicativo, app, software                                           |
-| **Noção**         | A plataforma recebe a avaliação de um comprador                     |
-| **Impacto**       | O software envia a avaliação para o vendedor, e guarda esses dados. |
+| **Noção**         | O aplicativo recebe a avaliação de um comprador                     |
+| **Impacto**       | A plataforma envia a avaliação para o vendedor, e guarda esses dados|
 
 <figcaption align='center'>
     <b>Tabela 17: Plataforma
@@ -257,7 +257,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------------------------------------- |
 | **Classificação** | Objeto                                                                    |
 | **Sinônimos**     | Bem, mercadoria                                                           |
-| **Noção**         | Um produto é avaliado pelo comprador                                      |
+| **Noção**         | Uma mercadoria é avaliado pelo comprador                                  |
 | **Impacto**       | A avaliação da mercadoria feita pelo comprador fica disponível para todos |
 
 <figcaption align='center'>
@@ -271,7 +271,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ----------------------------------- |
 | **Classificação** | Verbo                               |
 | **Sinônimos**     | Comercializar, negociar             |
-| **Noção**         | Um vendedor vende seu produto       |
+| **Noção**         | Um vendedor comercializa seu produto|
 | **Impacto**       | O produto é negociado pelo vendedor |
 
 <figcaption align='center'>
@@ -285,7 +285,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | -------------------------------------------------- |
 | **Classificação** | Verbo                                              |
 | **Sinônimos**     | Comerciante                                        |
-| **Noção**         | Um vendedor anuncia seus produtos na plataforma    |
+| **Noção**         | Um comerciante anuncia seus produtos na plataforma |
 | **Impacto**       | O produto é vendido pelo comerciante na plataforma |
 
 <figcaption align='center'>
@@ -299,7 +299,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ------------------------------------------------------------- |
 | **Classificação** | Verbo                                                         |
 | **Sinônimos**     | Avaliar, escolher                                             |
-| **Noção**         | Um comprador vota em um comentário de uma avaliação relevante |
+| **Noção**         | Um comprador avalia um comentário de um comentário relevante  |
 | **Impacto**       | O comentário passa a ter mais relevância na plataforma        |
 
 <figcaption align='center'>
@@ -313,7 +313,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | ---------------------------------------------------------- |
 | **Classificação** | Verbo                                                      |
 | **Sinônimos**     | Ver, observar                                              |
-| **Noção**         | Um comprador visualiza as avaliações do produto que deseja |
+| **Noção**         | Um comprador observar as avaliações do produto que deseja  |
 | **Impacto**       | O comprador opta em comprar o produto                      |
 
 <figcaption align='center'>
@@ -326,9 +326,9 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **L22**           | Responder                                                                   |
 | ----------------- | --------------------------------------------------------------------------- |
 | **Classificação** | Verbo                                                                       |
-| **Sinônimos**     | retornar, dar resposta a                                                    |
-| **Noção**         | Um vendedor responde os comentários de avaliações referentes ao seu produto |
-| **Impacto**       | O vendedor retorna resposta aos feedbacks de seus produtos                  |
+| **Sinônimos**     | retornar                                                                    |
+| **Noção**         | Um vendedor dá um retorno aos comentários de avaliações referentes ao seu produto |
+| **Impacto**       | O vendedor responde os feedbacks de seus produtos                           |
 
 <figcaption align='center'>
     <b>Tabela 23: Responder
@@ -341,8 +341,8 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | --------------------------------------------- |
 | **Classificação** | Verbo                                         |
 | **Sinônimos**     | Sair, efetuar logoff                          |
-| **Noção**         | Um comprador gostaria de delogar de sua conta |
-| **Impacto**       | O comprador consegue sair de sua conta        |
+| **Noção**         | Um comprador gostaria de sair de sua conta    |
+| **Impacto**       | O comprador consegue deslogar de sua conta    |
 
 <figcaption align='center'>
     <b>Tabela 24: Deslogar
@@ -355,7 +355,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | ----------------- | --------------------------------------------------------------- |
 | **Classificação** | Verbo                                                           |
 | **Sinônimos**     | Supervisionar, controlar                                        |
-| **Noção**         | A plataforma modera os comentários de avaliações em seu sistema |
+| **Noção**         | A plataforma supervisiona os comentários de avaliações em seu sistema |
 | **Impacto**       | O comentário poderá ser excluído                                |
 
 <figcaption align='center'>
@@ -376,3 +376,4 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 |  2.0   |                          Adicionando léxicos                           | João Henrique e Marcos Vinícius | Cícero  | 23/04 |
 |  3.0   |                          Adicionando léxicos                           |          Letícia Aires          | Matheus | 23/04 |
 |  3.1   | Colocando sinonimos do léxico no "Impacto" e adicionando participantes |          João Henrique          | Cícero  | 24/04 |
+|  3.2   |                  Colocando sinônimos do léxico na "Noção"              |          Letícia Aires          | Matheus | 24/04 |

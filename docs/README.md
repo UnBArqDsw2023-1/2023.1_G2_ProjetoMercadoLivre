@@ -22,7 +22,20 @@
 Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
+
+Seguem alguns exemplos de artefatos que foram confeccionados para a primeira entrega (DSW-Base):
+
+### Mapa Mental
+
+<img width="700px" src="Base/assets/mapaMental.jpg">
+
+### Rich Picture
+
+<img width="700px" src="Base/assets/RichPicture/versao1/RP_V2.jpg">
+
+### Protótipo
+
+<img width="700px" src="Base/assets/prototipo1-1.png">
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.

@@ -65,6 +65,16 @@ O diagrama BPMN na figura 4, indica o fluxo das atividades que serão realizadas
 Figura 4 - Sprint Planning<br>Autor: Elaboração Própria
 </p> <br>
 
+### Sprint Development
+
+O diagrama BPMN na figura 4, indica de que forma será realizado o desenvolvimento das tarefas no desenvolvimento das sprints.  
+
+<img align="center" src="assets/BPMN/SprintDevelopment_BPMN.png">
+<p align="center">
+Figura 5 - Sprint Development<br>Autor: Elaboração Própria
+</p> <br>
+
+
 ## 4. Reunião
 
 As gravações das reuniões, que ocorreram no dia 22/04/23 ás 12h, de elaboração e desenvolvimento dos artefatos de diagramas de modelagem de processos com notação BPMN 2.0, podem ser encontradas nos links a seguir:

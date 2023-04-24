@@ -264,7 +264,7 @@ sob estudo. Nesse sentido, o léxico é a base para entendimento entre clientes,
 | **Classificação** | Objeto   |
 | **Sinônimos**     | Alerta, informe    |
 | **Noção**         | Um vendedor recebe uma notificação de uma nova avaliação de seu produto   |
-| **Impacto**       | O vendedor vê a avaliação de seu produto através da nootificação     |
+| **Impacto**       | O vendedor vê a avaliação de seu produto através da notificação     |
 
 <figcaption align='center'>
     <b>Tabela 16: Notificação

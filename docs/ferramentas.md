@@ -52,7 +52,7 @@
 
 ## [Canva](https://www.canva.com/)
 
-<img width="100px" src="/Assets/Ferramentas/Canva.jpg">
+<img width="200px" src="/Assets/Ferramentas/Canva.jpg">
 
 &emsp;&emsp;O Canva é uma conceituada ferramenta online para edição de imagens e designs em geral.
 
@@ -60,11 +60,27 @@
 
 ## [Figma](https://www.figma.com/)
 
-<img width="100px" src="/Assets/Ferramentas/figma.jpg">
+<img width="100px" src="/Assets/Ferramentas/figma.png">
 
 &emsp;&emsp;O Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 
 &emsp;&emsp;Foi utilizado no projeto para confecção dos protótipos relacionados aos storyboards.
+
+## [Bizagi Modeler](https://www.bizagi.com/pt/plataforma/modeler)
+
+<img width="100px" src="/Assets/Ferramentas/bizagi.png">
+
+&emsp;&emsp;O Bizagi Modeler permite às organizações criar e documentar processos de negócio em um repositório central na nuvem para obter uma melhor compreensão de cada passo, identificar oportunidades de melhoria de processos e aumentar a eficiência organizacional.
+
+&emsp;&emsp;Foi utilizado no projeto para a construção do artefato do BPMN.
+
+## [Diagrams.net](https://www.diagrams.net/)
+
+<img width="100px" src="/Assets/Ferramentas/diagrams.png">
+
+&emsp;&emsp;Diagrams.net é um software de desenho gráfico multiplataforma gratuito e de código aberto desenvolvido em HTML5 e JavaScript. Sua interface pode ser usada para criar diagramas como fluxogramas, wireframes, diagramas UML, organogramas e diagramas de rede.
+
+&emsp;&emsp;Foi utilizado no projeto para a construção do artefato do BPMN.
 
 ## Histórico de Versão
 
@@ -73,3 +89,4 @@
 |  1.0   | Criando documento e adicionando Miro, Discord, WhatsApp, Teams, GitHub e VS Code | Gabriel, João |  Adne   | 21/04 |
 |  1.1   |                                Adicionando Canva                                 | João Henrique | Arthur  | 22/04 |
 |  1.2   | Adicionando Figma | Gabriel | - | 22/04 |
+|  1.3   | Adicionando Bizagi Modeler e Diagrams.net | Gabriel | - | 23/04 |

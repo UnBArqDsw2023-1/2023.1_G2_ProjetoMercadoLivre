@@ -1,4 +1,4 @@
-# Prototipo
+# Protótipo
 
 ## 1. Introdução
 &emsp;&emsp;A estratégia da prototipagem é baseada em criar uma representação que simula o funcionamento de uma invenção. Não é necessário que a ideia esteja em um estágio avançado para isso. Na verdade, é possível prototipar até um produto que até então só tenha uma funcionalidade, ou um tipo de interação com o usuário.

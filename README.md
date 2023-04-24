@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023.
+Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023, onde foi proposto para fazermos os processos de arquitetura do perfil do comprador e da plataforma "Mercado livre", sobre os fluxos de avaliação do produto.
 
 ## Tecnologia
 
@@ -27,95 +27,22 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
-## Integrantes
 
-<table>
-  <tr> 
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/64036847?v=4" width="100px;" alt="Foto Adne Moretti"/><br>
-        <sub>
-          <b>Adne Moretti</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/60429513?v=4" width="100px;" alt="Foto Arthur José"/><br>
-        <sub>
-          <b>Arthur José</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/50469574?v=4" width="100px;" alt="Foto Christian Fleury"/><br>
-        <sub>
-          <b>Christian Fleury</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/65192073?v=4" width="100px;" alt="Foto Cícero Fernandes"/><br>
-        <sub>
-          <b>Cícero Fernandes</b>
-        </sub>
-      </a>
-      <td align="center">
-      <a href="#">
-        <img src= https://avatars.githubusercontent.com/u/78612945?v=4"  width="100px;" alt="Foto Gabriel Moretti"/><br>
-        <sub>
-          <b>Gabriel Moretti</b>
-        </sub>
-      </a>
-    </td>
-                                                                                                                 
-<table>
-  <tr> 
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/71076129?v=4" width="100px;" alt="Foto João Henrique"/><br>
-        <sub>
-          <b>João Henrique</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/80769421?v=4" width="100px;" alt="Foto Leonardo Vitoriano"/><br>
-        <sub>
-          <b>Leonardo Vitoriano</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/72623771?v=4" width="100px;" alt="Foto Letícia Aires"/><br>
-        <sub>
-          <b>Letícia Aires</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/87666623?v=4" width="100px;" alt="Foto Marcos Vinicius"/><br>
-        <sub>
-          <b>Marcos Vinicius</b>
-        </sub>
-      </a>
-      <td align="center">
-      <a href="#">
-        <img src= https://avatars.githubusercontent.com/u/62526025?v=4"  width="100px;" alt="Foto Matheus Pimentel"/><br>
-        <sub>
-          <b>Matheus Pimentel</b>
-        </sub>
-      </a>
-         <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/60148256?v=4" width="100px;" alt="Foto Thiago Siqueira"/><br>
-        <sub>
-          <b>Thiago Siqueira</b>
-        </sub>
-      </a>
-    </td>    
+
+## Integrantes:
+
+###
+
+|                                                      Foto                                                      | Matrícula  |               Aluno               |     Github      |
+| :------------------------------------------------------------------------------------------------------------: | :--------: | :-------------------------------: | :-------------: |
+|  <img src="https://avatars.githubusercontent.com/u/64036847?v=4" width="100px;" alt="Foto Adne Moretti"/><br>  | 20/0013181 |       Adne Moretti Moreira        |   AdneMoretti   |
+|    <img src="https://avatars.githubusercontent.com/u/60429513?v=4" width="100px;" alt="Foto Arthur José"/>     | 19/0084600 |  Arthur José Nascimento de Lima   |  Arthurlima544  |
+|  <img src="https://avatars.githubusercontent.com/u/50469574?v=4" width="100px;" alt="Foto Christian Fleury"/>  | 19/0011602 | Christian Fleury Alencar Siqueira |    chfleury     |
+|  <img src="https://avatars.githubusercontent.com/u/65192073?v=4" width="100px;" alt="Foto Cícero Fernandes"/>  | 19/0085819 |  Cícero Barrozo Fernandes Filho   |    ciceroff     |
+| <img src= "https://avatars.githubusercontent.com/u/78612945?v=4"  width="100px;" alt="Foto Gabriel Moretti"/>  | 20/0018205 |     Gabriel Moretti de Souza      |    MorettiGS    |
+|   <img src="https://avatars.githubusercontent.com/u/71076129?v=4" width="100px;" alt="Foto João Henrique"/>    | 20/0067923 |  João Henrique Marques Calzavara  | joao-henrique10 |
+| <img src="https://avatars.githubusercontent.com/u/80769421?v=4" width="100px;" alt="Foto Leonardo Vitoriano"/> | 20/1000379 |    Leonardo Milomes Vitoriano     |  leonardomilv3  |
+|   <img src="https://avatars.githubusercontent.com/u/72623771?v=4" width="100px;" alt="Foto Letícia Aires"/>    | 19/0128712 |  Letícia Assunção Aires Moreira   |  LeticiaAires   |
+|  <img src="https://avatars.githubusercontent.com/u/87666623?v=4" width="100px;" alt="Foto Marcos Vinicius"/>   | 20/0062379 |      Marcos Vinicius de Deus      |    Marcos574    |
+| <img src= "https://avatars.githubusercontent.com/u/62526025?v=4"  width="100px;" alt="Foto Matheus Pimentel"/> | 15/0141629 |       Matheus Pimentel Leal       |  Matheuspleal   |
+|  <img src="https://avatars.githubusercontent.com/u/60148256?v=4" width="100px;" alt="Foto Thiago Siqueira"/>   | 19/0055294 |       Thiago Siqueira Gomes       |     thgomes     |

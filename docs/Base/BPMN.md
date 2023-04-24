@@ -33,7 +33,7 @@ O diagrama BPMN na figura 1, indica o fluxo das atividades que serão realizadas
 
 Cabe ressaltar que a metodologia foi baseada no **Scrum**, pois contém algumas cerimônias apresnetados nele, tais quais a _Sprint_, duração de 1 semana visando incremento contínuo, _Sprint Planning_, planejamento da sprint baseado no _Backlog Sprint_, e _Sprint Review_, revisão da _Sprint_ com os pontos fortes, fracos e melhorias.
 
-<img align="center" src="assets/BPMN/VisaoGeral_BPMN.png">
+<img align="center" src="Base/assets/BPMN/VisaoGeral_BPMN.png">
 <p align="center">
 Figura 1 - BPMN Visão Geral<br>Autor: Elaboração Própria
 </p> <br>
@@ -42,7 +42,7 @@ Figura 1 - BPMN Visão Geral<br>Autor: Elaboração Própria
 
 O diagrama BPMN na figura 2, indica o fluxo das atividades que serão realizadas na fase de Desenho e Modelagem do projeto. Essa fase conta com a elaboração dos artefatos: _Rich Picture_, Léxicos e Mapa mental.
 
-<img align="center" src="assets/BPMN/DesignSprint_BPMN.png">
+<img align="center" src="Base/assets/BPMN/DesignSprint_BPMN.png">
 <p align="center">
 Figura 2 - Design Sprint<br>Autor: Elaboração Própria
 </p> <br>
@@ -51,7 +51,7 @@ Figura 2 - Design Sprint<br>Autor: Elaboração Própria
 
 O diagrama BPMN na figura 3, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. A _Sprint_ define tempo e atividades a serem realizadas nele, e ainda existe um subprocesso denominado _Sprint Planning_.
 
-<img align="center" src="assets/BPMN/Sprint_BPMN.png">
+<img align="center" src="Base/assets/BPMN/Sprint_BPMN.png">
 <p align="center">
 Figura 3 - Sprint<br>Autor: Elaboração Própria
 </p> <br>
@@ -60,7 +60,7 @@ Figura 3 - Sprint<br>Autor: Elaboração Própria
 
 O diagrama BPMN na figura 4, indica o fluxo das atividades que serão realizadas em todo o ciclo de vida de desenvolvimento do projeto. Pois a _Sprint Planning_ visa planejar quem e quais atividades serão desenvolvidas para se obter um incremento do produto.
 
-<img align="center" src="assets/BPMN/SprintPlanning_BPMN.png">
+<img align="center" src="Base/assets/BPMN/SprintPlanning_BPMN.png">
 <p align="center">
 Figura 4 - Sprint Planning<br>Autor: Elaboração Própria
 </p> <br>

@@ -14,7 +14,6 @@
       - [Story Board](/Base/StoryBoard.md)
       - [Protótipo](/Base/Prototipo.md)
     - [Léxicos](/Base/Lexicos.md)
-    - [BPMN](/Base/BPMN.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)

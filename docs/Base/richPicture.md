@@ -15,7 +15,7 @@
 #### Rich picture 1
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_LeonardoVitoriano_preCompra.jpg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_LeonardoVitoriano_preCompra.jpg">
 
 <p align="center">
 Figura 1 - Rich Picture pré-compra<br>Autor: Leonardo Vitoriano
@@ -24,7 +24,7 @@ Figura 1 - Rich Picture pré-compra<br>Autor: Leonardo Vitoriano
 #### Rich picture 2
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_LeonardoVitoriano_posCompra.jpg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_LeonardoVitoriano_posCompra.jpg">
 
 <p align='center'>
 Figura 2 - Rich Picture pró-compra<br>Autor: Leonardo Vitoriano
@@ -33,7 +33,7 @@ Figura 2 - Rich Picture pró-compra<br>Autor: Leonardo Vitoriano
 #### Rich picture 3
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_JoaoHenrique.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_JoaoHenrique.jpeg">
 
 <p align='center'>
 Figura 3 - Rich Picture <br>Autor: João Henrique
@@ -42,7 +42,7 @@ Figura 3 - Rich Picture <br>Autor: João Henrique
 #### Rich picture 4
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_ThiagoGomes.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_ThiagoGomes.jpeg">
 
 <p align='center'>
 Figura 4 - Rich Picture <br>Autor: Thiago Gomes
@@ -51,7 +51,7 @@ Figura 4 - Rich Picture <br>Autor: Thiago Gomes
 #### Rich picture 5
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_MarcosVinicius.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_MarcosVinicius.jpeg">
 
 <p align='center'>
 Figura 5 - Rich Picture <br>Autor: Marcos Vinícius
@@ -60,35 +60,35 @@ Figura 5 - Rich Picture <br>Autor: Marcos Vinícius
 #### Rich picture 6
 <br>
 
-<img align="center" src="assets/RichPicture/versao1/RP_V1_GabrielSouza.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_GabrielSouza.jpeg">
 
 <p align='center'>
 Figura 6 - Rich Picture <br>Autor: Gabriel Souza
 </p>
 
 #### Rich picture 7
-<img align="center" src="assets/RichPicture/versao1/RP_V1_AdneMoreira.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_AdneMoreira.jpeg">
 
 <p align='center'>
 Figura 7 - Rich Picture <br>Autor: Adne Moretti
 </p>
 
 #### Rich picture 8
-<img align="center" src="assets/RichPicture/versao1/RP_V1_LeticiaAires.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_LeticiaAires.jpeg">
 
 <p align='center'>
 Figura 8 - Rich Picture <br>Autor: Letícia Aires
 </p>
 
 #### Rich picture 9
-<img align="center" src="assets/RichPicture/versao1/RP_V1_CiceroFilho.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_CiceroFilho.jpeg">
 
 <p align='center'>
 Figura 9 - Rich Picture <br>Autor: Cícero Filho
 </p>
 
 #### Rich picture 10
-<img align="center" src="assets/RichPicture/versao1/RP_V1_ArthurLima.jpeg">
+<img align="center" src="Base/assets/RichPicture/versao1/RP_V1_ArthurLima.jpeg">
 
 <p align='center'>
 Figura 10 - Rich Picture <br>Autor: Arthur Lima

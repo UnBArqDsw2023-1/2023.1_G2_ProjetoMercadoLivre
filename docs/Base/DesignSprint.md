@@ -39,7 +39,7 @@ espaço de tempo.Para a disciplina irá se dividir em 4 partes, sendo elas :
 
 ### 3.3. Parte 3 - Decisão
 
-&emsp;&emsp; Na execução da parte 3, nos reunimos e decidimos qual seria a [versão 1 dos rich pictures](../Base/richPicture.md) mais completa, sendo o do Gabriel selecionado. Após isso, o melhoramos com idéias dos outros integrantes e demos origem a uma [versão 2 do rich picture](./richPicture.md#4-rich-picture-v2). Além disso fizemos um [storyboard](../Base/StoryBoard.md) abordando alguns dos fluxos que estavam presentes no [rich picture](../Base/richPicture.md).
+&emsp;&emsp; Na execução da parte 3, nos reunimos e decidimos qual seria a [versão 1 dos rich pictures](../Base/richPicture.md) mais completa, sendo o do Gabriel selecionado. Após isso, o melhoramos com idéias dos outros integrantes e demos origem a uma [versão 2 do rich picture](Base/richPicture?id=_4-rich-picture-v2-). Além disso fizemos um [storyboard](../Base/StoryBoard.md) abordando alguns dos fluxos que estavam presentes no [rich picture](../Base/richPicture.md).
 
 ### 3.4. Parte 4 - Prototipagem
 

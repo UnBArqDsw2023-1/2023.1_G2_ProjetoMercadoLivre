@@ -8,3 +8,9 @@
 
 - [1] https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-communication-diagrams;
 - [2] https://www.ibm.com/docs/pt-br/radfws/9.6?topic=SSRTLW_9.6.0/com.ibm.xtools.sequence.doc/topics/ccommndiag.htm;
+
+## Histórico de Versão
+
+| Versão |       Alteração        |  Responsável  | Revisor | Data  |
+| :----: | :--------------------: | :-----------: | :-----: | :---: |
+|  1.0   | Adicionando introdução | João Henrique |    -    | 13/05 |

@@ -104,5 +104,5 @@ Através das duas versões apresentadas no artefato, foi possível visualizar a 
 | Versão |                  Alteração                  |   Responsável    | Revisor | Data  |
 | :----: | :-----------------------------------------: | :--------------: | :-----: | :---: |
 |  1.0   |   Adicionando introdução e participantes    |  João Henrique   |    -    | 13/05 |
-|  1.1   | Adicionando artefato do Diagrama de Pacotes | Cícero Fernandes |    -    | 15/05 |
+|  1.1   | Adicionando artefato do Diagrama de Pacotes | Cícero Fernandes e Gabriel Morreti |    -    | 15/05 |
 |  1.2   | Adicionando conclusão ao Diagrama de Pacotes | Thiago Gomes |  Cícero Fernandes  | 15/05 |

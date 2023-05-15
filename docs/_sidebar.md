@@ -31,6 +31,8 @@
 
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
+    - [2.3. Ata Reunião ](/Modelagem/AtaReuniao_0205.md)
+
 - **Padrões de Projeto**
 
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)

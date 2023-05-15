@@ -24,7 +24,7 @@
 
       - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
 
-        - [2.1.1.1. Diagramas Estáticos - Diagrama de Classes](/Modelagem/2.1.1.1.DiagramaDeClasses.md)
+        - [2.1.1.1. Diagramas Estáticos - Diagrama de Classes](/Modelagem/Estaticos/classes.md)
         - [2.1.1.2. Diagramas Estáticos - Diagrama de Classes](/Modelagem/Estaticos/pacotes.md)
 
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)

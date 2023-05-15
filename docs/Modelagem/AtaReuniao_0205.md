@@ -1,6 +1,6 @@
 # Ata de Reunião do Dia 02/05/2023
 
-## 1. Data, Horário e Local
+## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local da reunião estão detalhadas a seguir:
 - **Data**: 02/05/2023
@@ -10,7 +10,7 @@ As informações sobre data, horário, duração e local da reunião estão deta
 
 ## 2. Participantes
 
-Na reunião, **todos** os integrantes do grupo participaram, sendo então os ausentes:
+Na reunião, **todos** os integrantes do grupo participaram, sendo então os presentes:
 
 - Adne Moretti Moreira
 - Arthur José Nascimento de Lima
@@ -54,7 +54,7 @@ Contudo, como parte da decisão de todos os integrantes, a equipe planejou, inic
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | - | 02/05 |
+| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | Adne Moretti | 02/05 |
 
 
 

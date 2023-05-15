@@ -28,7 +28,7 @@
         - [2.1.1.2. Diagramas Estáticos - Diagrama de Classes](/Modelagem/Estaticos/pacotes.md)
 
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
-        - [2.1.2.1. Diagramas Estáticos - Diagrama de Colaboracao](/Modelagem/Estaticos/colaboracao.md)
+        - [2.1.2.1. Diagramas Dinâmicos - Diagrama de Colaboracao](/Modelagem/Dinamicos/colaboracao.md)
         - [2.1.2.2. Diagramas Dinâmicos - Diagrama de Estados](/Modelagem/Dinamicos/estados.md)
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 

@@ -34,7 +34,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
   <img src="Assets/diagramas/Colaboracao1" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Interação de avaliação comprador pré-compra
+    Figura 1 : Interação de avaliação comprador pós-compra
     </h6>
   </div>
 </div>
@@ -43,7 +43,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
   <img src="Assets/diagramas/Colaboracao2" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Interação de avaliação comprador pré-compra
+    Figura 2 : Interação de avaliação comprador pré-compra
     </h6>
   </div>
 </div>
@@ -52,7 +52,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
   <img src="Assets/diagramas/Colaboracao3" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Interação de avaliação comprador pré-compra
+    Figura 3 : Interação de avaliação vendedor pós-compra
     </h6>
   </div>
 </div>
@@ -61,7 +61,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
   <img src="Assets/diagramas/Colaboracao4" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Interação de avaliação comprador pré-compra
+    Figura 4 : Interação de avaliação plataforma 
     </h6>
   </div>
 </div>

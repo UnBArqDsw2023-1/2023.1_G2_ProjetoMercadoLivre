@@ -22,7 +22,6 @@
 Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2](https://unbarqdsw2023-1.github.io/2023.1_G2_ProjetoMercadoLivre/#/Modelagem/AtaReuniao_0205?id=_3-decis%c3%b5es) que participaram, sendo então os presentes:
 
 - Arthur José Nascimento de Lima
-- Christian Fleury Alencar Siqueira
 - Leonardo Milomes Vitoriano
 - Letícia Assunção Aires Moreira
 - Marcos Vinicius de Deus
@@ -53,3 +52,4 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 | 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
 | 1.1 | Adição dos tópicos Introdução e Gravação da reunião  | Marcos Vinícius | - | 14/05 |
 | 1.2 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |
+| 1.3 | Atualização do tópico Participantes  | Christian Siqueira | - | 14/05 |

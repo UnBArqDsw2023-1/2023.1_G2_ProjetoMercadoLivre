@@ -19,6 +19,11 @@
 
 ## 4. Metodologia
 
+O artefato foi desenvolvido em conjunto utilizando a ferramenta Microsoft Teams para reunião e para modelagem a ferramenta LucidChart. Para o desenvolvimento em conjunto, um membro do grupo compartilhou a tela da ferramenta de modelagem, e com o auxílio do restante do grupo, que também modificava o diagrama online, as ideias e possíveis modelagens foram discutidas. 
+De acordo com as discussões do grupo, a primeira versão foi feita. Após isso, melhorias foram sendo elencadas com o maior entendimento do sistema e dos fluxos a serem desenvolvidos, e o artefato foi evoluído para uma segunda versão, mais completa. 
+
+Segue a seguir o artefato desenvolvido: 
+
 ## 5. Artefato
 
 &emsp;&emsp;A equipe se reuniu e, juntamente, começou a construir o artefato que seria o diagrama de pacote, inicialmente, a gente tentou modelar quais seriam os tipos de organização de pastas que estaríamos buscando, com uma dica que foi dada pela professora, dividimos em dois grandes modelos principais, Client e Application, o Client é a camada que mostra como o usuário se conecta com a aplicação, no caso, ou por web ou por mobile. Já o módulo Application, foi dividido nos modelos frontend, que continha os pacotes necessários para a criação de telas e manuseio básico de dados, backend, que continha as suas camadas e a conexão externa com o banco de dados, ainda sem modelagem.

@@ -2,9 +2,9 @@
 
 ## 1. Introdução
 
-UML é a sigla para "Unified Modeling Language" ou "Linguagem de Modelagem Unificada". Trata-se de uma linguagem de modelagem visual que permite representar e comunicar a estrutura, o comportamento e a interação de sistemas complexos de software. Ela foi criada por algumas empresas de software na década de 1990, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson, e é amplamente utilizada em todo o mundo para o desenvolvimento de software. O UML inclui vários tipos de diagramas, como o diagrama de classes, que é um dos principais artefatos utilizados na modelagem de sistemas com paradigma da orientação objetos, portanto uma boa escolha para o desenvolvimento da diciplina de arquitetura de software. 
+UML é a sigla para "Unified Modeling Language" ou "Linguagem de Modelagem Unificada". Trata-se de uma linguagem de modelagem visual que permite representar e comunicar a estrutura, o comportamento e a interação de sistemas complexos de software. Ela foi criada por algumas empresas de software na década de 1990, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson, e é amplamente utilizada em todo o mundo para o desenvolvimento de software. O UML inclui vários tipos de diagramas, como o diagrama de classes, que é um dos principais artefatos utilizados na modelagem de sistemas com paradigma da orientação objetos, portanto uma boa escolha para o desenvolvimento da disciplina de arquitetura de software.
 
-## 1.1 O que é 
+## 1.1 O que é
 
 O diagrama de classes é uma representação visual das classes, interfaces, atributos e métodos que compõem um sistema de software. Ele descreve a estrutura do sistema, bem como as relações entre seus elementos, sendo assim uma ferramenta para a comunicação e a documentação do design de software, Além de servir de base para código do sistema.
 
@@ -28,7 +28,7 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 
 ## 4. Metodologia
 
-## 5. Artefato 
+## 5. Artefato
 
 ## 5.1 Legenda
 
@@ -43,15 +43,16 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
   </div>
 </div>
 
-## 6. Gravacao da reuniao
+## 6. Gravação da reunião
 
 [Parte 1](https://youtu.be/CbLMMBllyBQ)
 [Parte 2](https://youtu.be/eYP6UfRJLb4)
 
-## 7. Conclusao
+## 7. Conclusão
+
 &emsp;&emsp; O diagrama de classes foi realizado a fim de englobar as entidades que compõe o fluxo de avaliação de produto, desenhando classes que estão diretamente ligadas à regra de negócio da aplicação.
 
-&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualizção mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
+&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualização mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
 
 &emsp;&emsp; O diagrama fica também como forma de documentação, facilitando a colaboração e entendimento do sistema.
 
@@ -62,9 +63,9 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 
 ## 9. Histórico de Versão
 
-| Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
-| :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
-| 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |
-| 1.2 | Adição da Introdução e Legenda  | Arthur José | - | 15/05 |
-| 1.3 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |
+| Versão |                  Alteração                   |    Responsável     |     Revisor     | Data  |
+| :----: | :------------------------------------------: | :----------------: | :-------------: | :---: |
+|  1.0   | Adição dos tópicos Objetivos e Participantes | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
+|  1.1   |     Adição do tópico Gravação da reunião     |  Marcos Vinícius   |        -        | 14/05 |
+|  1.2   |        Adição da Introdução e Legenda        |    Arthur José     |        -        | 15/05 |
+|  1.3   |          Adição do tópico Conclusão          | Christian Siqueira |        -        | 15/05 |

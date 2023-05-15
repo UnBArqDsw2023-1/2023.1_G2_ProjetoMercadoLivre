@@ -1,4 +1,4 @@
-# 2.2.1.1 Diagramas Dinâmicos - Diagrama de Colaboração/Comunicação
+# 2.2.1.1 Diagrama de Colaboração/Comunicação
 
 ## Introdução
 &emsp;&emsp; De acordo com a notação UML de diagrramas dinâmicos, umm diagrama de comunicação(também conhecido como diagrama de colaborração) é um tipo de diagrama
@@ -34,26 +34,41 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 
 Os integrantes optaram por focar os diagramas no fluxo de avaliação, sem incluir outros possíveis fluxos necessários para chegar no fluxo de avaliação. 
 
+## Interação comprador pré-compra 
+
+O fluxo de avaliação de um comprador pré-compra consiste em todas as interações com as avaliações de produtos que um comprador faz antes de realizar de fato a compra no sistema do mercado livre, por exemplo, visualizar avaliações e comentários de outros usuários em produtos que esses já compraram. 
+
+Assim, o diagrama de colaboração dessa interação possui três diferentes classes envolvidas, sendo elas o Produto, Avaliação e Comentário. Primeiramente o comprador visualiza os produtos do Mercado Livre, escolhe um produto e a plataforma lista as avaliações existentes no produto. Ao visualizar as avaliações, o comprador pode filtrar as avaliações de acordo com as estrelas. 
+
+As avaliações possuem comentários, que também podem ser visualizados, além do comprador poder dar upvoting. O fluxo de avaliação de pré-compra é importante para o comprador ver visões de outras pessoas sobre o produto que está interessado, para que possa encontrar produtos de maior qualidade possível. 
+
+Segue imagem do diagrama desenvolvido:
+
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao1" alt="" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao2.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Interação de avaliação comprador pós-compra
+    Figura 1 : Interação de avaliação comprador pré-compra
+    </h6>
+  </div>
+</div>
+
+### Interação comprador pós compra 
+
+O fluxo de interação do comprador pós-compra consiste em todas as ações relacionadas a avaliação após um comprador comprar e receber o seu produto. 
+
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/Colaboracao1.png" alt="" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 2 : Interação de avaliação comprador pós-compra
     </h6>
   </div>
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao2" alt="" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 2 : Interação de avaliação comprador pré-compra
-    </h6>
-  </div>
-</div>
-
-<div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao3" alt="" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao3.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 3 : Interação de avaliação vendedor pós-compra
@@ -62,7 +77,7 @@ Os integrantes optaram por focar os diagramas no fluxo de avaliação, sem inclu
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao4" alt="" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao4.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 4 : Interação de avaliação plataforma 

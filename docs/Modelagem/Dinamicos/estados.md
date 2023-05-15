@@ -2,15 +2,20 @@
 
 ## 1. Introdução
 
+
+&emsp;&emsp; Um diagrama de estados é uma representação visual que descreve os diferentes estados que um objeto ou sistema pode assumir e as transições entre esses estados. É uma ferramenta amplamente utilizada na modelagem e no design de sistemas, auxiliando no entendimento e na comunicação das interações e comportamentos de um sistema.
+
+&emsp;&emsp; O conceito de diagrama de estados é amplamente difundido na área de engenharia de software e engenharia de sistemas. Ele se baseia na ideia de que um sistema pode passar por uma série de estados distintos, e as transições entre esses estados são influenciadas por eventos ou condições específicas. Essa abordagem permite que os desenvolvedores compreendam e documentem de forma clara e concisa o comportamento dinâmico do sistema, facilitando o processo de análise, projeto e implementação.
+
 ## 2. Objetivo
 
-Segundo [1], o objetivo do desenvolvimento de um Diagrama de Estados é fornecer uma representação visual do comportamento de um objeto ou de um sistema em diferentes estados ao longo do tempo. O diagrama de estados é um dos tipos mais importantes de diagramas da Linguagem de Modelagem Unificada (UML) e é amplamente utilizado em engenharia de software para modelar o comportamento de sistemas reativos.
+&emsp;&emsp; Segundo [1], o objetivo do desenvolvimento de um Diagrama de Estados é fornecer uma representação visual do comportamento de um objeto ou de um sistema em diferentes estados ao longo do tempo. O diagrama de estados é um dos tipos mais importantes de diagramas da Linguagem de Modelagem Unificada (UML) e é amplamente utilizado em engenharia de software para modelar o comportamento de sistemas reativos.
 
-Por meio do diagrama de estados, é possível descrever o comportamento de um objeto ou sistema em diferentes situações, bem como como ele responde a eventos externos. O diagrama de estados é útil para descrever sistemas em que o comportamento depende do estado atual, como sistemas de controle de tráfego, sistemas de gerenciamento de estoque, entre outros.
+&emsp;&emsp; Por meio do diagrama de estados, é possível descrever o comportamento de um objeto ou sistema em diferentes situações, bem como como ele responde a eventos externos. O diagrama de estados é útil para descrever sistemas em que o comportamento depende do estado atual, como sistemas de controle de tráfego, sistemas de gerenciamento de estoque, entre outros.
 
-Além disso, o diagrama de estados pode ajudar a identificar problemas de design em um sistema, permitindo que os desenvolvedores visualizem como o sistema deve se comportar em diferentes situações e identifiquem possíveis problemas de lógica ou desempenho.
+&emsp;&emsp; Além disso, o diagrama de estados pode ajudar a identificar problemas de design em um sistema, permitindo que os desenvolvedores visualizem como o sistema deve se comportar em diferentes situações e identifiquem possíveis problemas de lógica ou desempenho.
 
-Por fim, o diagrama de estados também pode ser usado para documentar um sistema existente, ajudando a fornecer uma visão geral do comportamento do sistema e facilitando a manutenção e o desenvolvimento futuro. Isso é especialmente útil em sistemas complexos, onde a documentação é fundamental para garantir que o sistema possa ser mantido e expandido com segurança e eficiência.
+&emsp;&emsp; Por fim, o diagrama de estados também pode ser usado para documentar um sistema existente, ajudando a fornecer uma visão geral do comportamento do sistema e facilitando a manutenção e o desenvolvimento futuro. Isso é especialmente útil em sistemas complexos, onde a documentação é fundamental para garantir que o sistema possa ser mantido e expandido com segurança e eficiência.
 
 ## 3. Participantes
 
@@ -28,6 +33,9 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 
 ## 6. Gravacao da reuniao
 
+[Parte 1](https://youtu.be/akzOE3aZSD8)
+[Parte 2](https://youtu.be/4zM3j9VmZQY)
+
 ## 7. Conclusao
 
 ## 8. Referências
@@ -39,4 +47,5 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | - | 14/05 |
+| 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
+| 1.1 | Adição dos tópicos Introdução e Gravação da reunião  | Marcos Vinícius | - | 14/05 |

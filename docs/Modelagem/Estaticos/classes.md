@@ -4,11 +4,11 @@
 
 ## 2. Objetivo
 
-Segundo [2], através do diagrama de classes, é possível identificar as classes que compõem um sistema, seus atributos e métodos, bem como as relações entre elas. Isso ajuda a garantir que as classes sejam definidas de maneira clara e consistente, com suas funções e responsabilidades bem definidas.
+&emsp;&emsp; Segundo [2], através do diagrama de classes, é possível identificar as classes que compõem um sistema, seus atributos e métodos, bem como as relações entre elas. Isso ajuda a garantir que as classes sejam definidas de maneira clara e consistente, com suas funções e responsabilidades bem definidas.
 
-Além disso, o diagrama de classes pode ajudar a identificar problemas de design, como classes que têm muitas responsabilidades ou dependências desnecessárias. Isso permite que os desenvolvedores identifiquem áreas problemáticas do sistema e trabalhem para corrigir esses problemas antes que eles se tornem mais difíceis e caros de resolver.
+&emsp;&emsp; Além disso, o diagrama de classes pode ajudar a identificar problemas de design, como classes que têm muitas responsabilidades ou dependências desnecessárias. Isso permite que os desenvolvedores identifiquem áreas problemáticas do sistema e trabalhem para corrigir esses problemas antes que eles se tornem mais difíceis e caros de resolver.
 
-O diagrama de classes também pode ser usado para documentar um sistema existente, ajudando a fornecer uma visão geral do sistema e ajudando a facilitar a manutenção e o desenvolvimento futuro. Isso é especialmente útil em sistemas complexos, onde a documentação é fundamental para garantir que o sistema possa ser mantido e expandido com segurança e eficiência.
+&emsp;&emsp; O diagrama de classes também pode ser usado para documentar um sistema existente, ajudando a fornecer uma visão geral do sistema e ajudando a facilitar a manutenção e o desenvolvimento futuro. Isso é especialmente útil em sistemas complexos, onde a documentação é fundamental para garantir que o sistema possa ser mantido e expandido com segurança e eficiência.
 
 ## 3. Participantes
 
@@ -26,6 +26,9 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 
 ## 6. Gravacao da reuniao
 
+[Parte 1](https://youtu.be/CbLMMBllyBQ)
+[Parte 2](https://youtu.be/eYP6UfRJLb4)
+
 ## 7. Conclusao
 
 ## 8. Referências
@@ -37,4 +40,5 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | - | 14/05 |
+| 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
+| 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |

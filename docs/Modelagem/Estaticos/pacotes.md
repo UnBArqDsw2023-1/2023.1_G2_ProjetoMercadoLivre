@@ -87,6 +87,13 @@ Backend é o modelo da aplicação onde será construída a API para que haja a 
 
 O pacote Database representa nossa base de dados da aplicação, nele estão modeladas as tabelas de acordo com as classes construídas no [diagrama de classes](Modelagem/Estaticos/classes.md). Sendo elas: Order, Product, User, Seller, Buyer, Avaliation e Comment
 
+
+##  6. Conclusão
+
+O diagrama de pacotes é uma ferramenta valiosa para representar a estrutura e organização de um sistema de software. Ele proporciona uma visão clara das dependências entre os pacotes, tanto do Backend como do Frontend, permitindo uma compreensão concisa da arquitetura do sistema. Com o uso desse diagrama, é possível identificar áreas de alta dependência e promover a modularidade, resultando em um sistema mais flexível e fácil de manter. 
+
+Através das duas versões apresentadas no artefato, foi possível visualizar a evolução do diagrama e sua capacidade de representar de forma organizada e compreensível a estrutura do sistema. Com isso, o diagrama de pacotes contribui para o desenvolvimento eficiente de software, auxiliando na criação de sistemas mais organizados, escaláveis e de fácil manutenção.
+
 ## Referências
 
 - [1] https://www.uml-diagrams.org/package-diagrams-overview.html;
@@ -98,3 +105,4 @@ O pacote Database representa nossa base de dados da aplicação, nele estão mod
 | :----: | :-----------------------------------------: | :--------------: | :-----: | :---: |
 |  1.0   |   Adicionando introdução e participantes    |  João Henrique   |    -    | 13/05 |
 |  1.1   | Adicionando artefato do Diagrama de Pacotes | Cícero Fernandes |    -    | 15/05 |
+|  1.2   | Adicionando conclusão ao Diagrama de Pacotes | Thiago Gomes |  Cícero Fernandes  | 15/05 |

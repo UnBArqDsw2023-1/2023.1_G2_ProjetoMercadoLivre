@@ -59,6 +59,9 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 ## Gravação da reunião
 
 ## Conclusão
+O artefato desenvolvido consiste em diagramas de colaboração/comunicação que visualizam as interações entre participantes em um sistema. Esses diagramas mostram como os objetos colaboram, trocam mensagens e compartilham informações para realizar uma tarefa específica. Foram criadas quatro interações para representar o fluxo de avaliação entre comprador, vendedor e plataforma. Cada interação foi detalhada em um diagrama separado, proporcionando uma compreensão mais profunda do sistema e suas interações.
+
+Os diagramas de colaboração/comunicação são essenciais para visualizar e compreender as interações entre os objetos em um sistema, representando o fluxo de informações e ações. Eles contribuem para melhorar o design e a eficiência do sistema, proporcionando uma experiência aprimorada para os usuários e um desenvolvimento mais efetivo do projeto.
 
 
 
@@ -73,4 +76,6 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 | Versão |       Alteração        |  Responsável  | Revisor | Data  |
 | :----: | :--------------------: | :-----------: | :-----: | :---: |
 |  1.0   | Adicionando introdução | João Henrique |    Gabriel    | 13/05 |
-|  2.0   | Adicionando objetivos e participantes | Gabriel |    -    | 15/05 |
+|  1.1   | Adicionando objetivos e participantes | Gabriel |    -    | 15/05 |
+|  1.2   | Adicionando conclusao | Thiago Gomes |    -    | 15/05 |
+

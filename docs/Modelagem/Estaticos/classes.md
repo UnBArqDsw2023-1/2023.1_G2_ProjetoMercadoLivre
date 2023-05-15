@@ -4,7 +4,7 @@
 
 UML é a sigla para "Unified Modeling Language" ou "Linguagem de Modelagem Unificada". Trata-se de uma linguagem de modelagem visual que permite representar e comunicar a estrutura, o comportamento e a interação de sistemas complexos de software. Ela foi criada por algumas empresas de software na década de 1990, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson, e é amplamente utilizada em todo o mundo para o desenvolvimento de software. O UML inclui vários tipos de diagramas, como o diagrama de classes, que é um dos principais artefatos utilizados na modelagem de sistemas com paradigma da orientação objetos, portanto uma boa escolha para o desenvolvimento da diciplina de arquitetura de software. 
 
-## 1.1 Oque é 
+## 1.1 O que é 
 
 O diagrama de classes é uma representação visual das classes, interfaces, atributos e métodos que compõem um sistema de software. Ele descreve a estrutura do sistema, bem como as relações entre seus elementos, sendo assim uma ferramenta para a comunicação e a documentação do design de software, Além de servir de base para código do sistema.
 

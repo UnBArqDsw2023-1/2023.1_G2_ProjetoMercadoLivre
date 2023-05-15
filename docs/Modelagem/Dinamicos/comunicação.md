@@ -4,6 +4,21 @@
 
 &emsp;&emsp; De acordo com a notação UML de diagrramas dinâmicos, umm diagrama de comunicação(também conhecido como diagrama de colaborração) é um tipo de diagrama de interação que pode ser usado para explorar o comportamento dinâmico de um sistema ou aplicativo de software. Ele fornece uma visualização alternativa das mesmas informações dos diagramas de sequência [1]. Na UML, um diagrama de comunicação mostra as interações entre os objetos ou funções associados com linhas de vida e mensagens transmitidas entre linhas de vida[2].
 
+## 2. Objetivo
+
+## 3. Participantes
+- Adne Moretti Moreira
+- Matheus Pimentel Leal
+- Gabriel Moretti de Souza
+- Cícero Barrozo Fernandes Filho
+- João Henrique Marques Calzavara
+- Thiago Siqueira Gomes
+
+## 4. Metodologia
+
+
+## 5. Artefato 
+
 ## Referências
 
 - [1] https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-communication-diagrams;

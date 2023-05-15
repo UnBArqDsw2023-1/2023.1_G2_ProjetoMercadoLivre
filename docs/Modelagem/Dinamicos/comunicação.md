@@ -6,6 +6,8 @@
 
 ## 2. Objetivo
 
+O Diagrama de Comunicação tem como objetivo visualizar as interações entre objetos ou funções em um sistema ou aplicativo de software. Ele representa o comportamento dinâmico do sistema por meio das mensagens trocadas entre os objetos, permitindo a identificação dos participantes envolvidos e a análise do fluxo de comunicação. Além disso, esse artefato possibilita a análise do sequenciamento das mensagens e sua ordem de execução. Em suma, seu propósito é fornecer uma representação visual concisa das interações e do comportamento do sistema.
+
 ## 3. Participantes
 - Adne Moretti Moreira
 - Matheus Pimentel Leal
@@ -29,3 +31,5 @@
 | Versão |       Alteração        |  Responsável  | Revisor | Data  |
 | :----: | :--------------------: | :-----------: | :-----: | :---: |
 |  1.0   | Adicionando introdução | João Henrique |    -    | 13/05 |
+|  1.1   | Adicionando objetivo | Thiago Gomes |    -    | 15/05 |
+

@@ -2,6 +2,12 @@
 
 ## 1. Introdução
 
+UML é a sigla para "Unified Modeling Language" ou "Linguagem de Modelagem Unificada". Trata-se de uma linguagem de modelagem visual que permite representar e comunicar a estrutura, o comportamento e a interação de sistemas complexos de software. Ela foi criada por algumas empresas de software na década de 1990, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson, e é amplamente utilizada em todo o mundo para o desenvolvimento de software. O UML inclui vários tipos de diagramas, como o diagrama de classes, que é um dos principais artefatos utilizados na modelagem de sistemas com paradigma da orientação objetos, portanto uma boa escolha para o desenvolvimento da diciplina de arquitetura de software. 
+
+## 1.1 Oque é 
+
+O diagrama de classes é uma representação visual das classes, interfaces, atributos e métodos que compõem um sistema de software. Ele descreve a estrutura do sistema, bem como as relações entre seus elementos, sendo assim uma ferramenta para a comunicação e a documentação do design de software, Além de servir de base para código do sistema.
+
 ## 2. Objetivo
 
 &emsp;&emsp; Segundo [2], através do diagrama de classes, é possível identificar as classes que compõem um sistema, seus atributos e métodos, bem como as relações entre elas. Isso ajuda a garantir que as classes sejam definidas de maneira clara e consistente, com suas funções e responsabilidades bem definidas.
@@ -23,6 +29,19 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 ## 4. Metodologia
 
 ## 5. Artefato 
+
+## 5.1 Legenda
+
+Por padrão utilizamos os seguintes elementos em nosso diagrama:
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/legenda_diagrama_de_classes.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Legenda diagrama de Classes
+    </h6>
+  </div>
+</div>
 
 ## 6. Gravacao da reuniao
 
@@ -47,3 +66,4 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
 | 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
 | 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |
+| 1.2 | Adição da Introdução e Legenda  | Arthur José | - | 15/05 |

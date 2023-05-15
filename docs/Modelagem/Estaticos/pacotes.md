@@ -1,21 +1,27 @@
-# Diagrama de Pacotes
+
+# Diagrama de pacotes
 
 ## 1. Introdução
+
+&emsp;&emsp; Segundo a notação UML de diagramas estáticos [1], um diagrama de pacotes é um diagrama estrutural definido pela UML que descreve os pacotes ou pedaços do sistema divididos em agrupamentos lógicos mostrando as dependências entre eles. Este diagrama é muito utilizado para ilustrar a arquitetura de um sistema mostrando o agrupamento de suas classes . Um pacote é um agrupamento de elementos UML relacionados, como diagramas, documentos, classes ou até mesmo outros pacotes.
 
 ## 2. Objetivo
 
 ## 3. Participantes
 
-## 4. Metodologia
+- Adne Moretti Moreira
+- Cícero Barrozo Fernandes Filho
+- Gabriel Moretti de Souza
+- João Henrique Marques Calzavara
+- Matheus Pimentel Leal
+- Thiago Siqueira Gomes
 
-## 5. Artefato 
+## Referências
 
-## 6. Gravacao da reuniao
+- [1] https://www.uml-diagrams.org/package-diagrams-overview.html;
 
-## 7. Conclusao
+## Histórico de Versão
 
-## 8. Histórico de Versão
-
-| Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
-| :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| -    | -  | - | - | - |
+| Versão |               Alteração                |  Responsável  | Revisor | Data  |
+| :----: | :------------------------------------: | :-----------: | :-----: | :---: |
+|  1.0   | Adicionando introdução e participantes | João Henrique |    -    | 13/05 |

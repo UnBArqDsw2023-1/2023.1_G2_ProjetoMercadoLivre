@@ -22,7 +22,6 @@
 Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2](https://unbarqdsw2023-1.github.io/2023.1_G2_ProjetoMercadoLivre/#/Modelagem/AtaReuniao_0205?id=_3-decis%c3%b5es) que participaram, sendo então os presentes:
 
 - Arthur José Nascimento de Lima
-- Christian Fleury Alencar Siqueira
 - Leonardo Milomes Vitoriano
 - Letícia Assunção Aires Moreira
 - Marcos Vinicius de Deus
@@ -58,6 +57,9 @@ Segue o Diagrama De Estados versão Final:
 [Parte 2](https://youtu.be/4zM3j9VmZQY)
 
 ## 7. Conclusao
+&emsp;&emsp; O diagrama de estados foi feito detalhando o fluxo de avaliação de produto desde a compra, possíbilitando assim uma melhor compreensão do sistema, mapeando os estados válidos e como chegar neles.
+
+&emsp;&emsp; Foi um diagrama importante pois forneceu uma representação visual dos estados que antes podiam ser confundidos ou até esquecidos, já que é um fluxo relativamente complexo. Por exemplo o fluxo deavaliação pode chegar ao seu estado final de diversas formas diferentes, e este artefato ajuda muito nesse ponto.
 
 ## 8. Referências
 
@@ -70,5 +72,7 @@ Segue o Diagrama De Estados versão Final:
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
 | 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
 | 1.1 | Adição dos tópicos Introdução e Gravação da reunião  | Marcos Vinícius | - | 14/05 |
-| 1.2| Adição dos artefato diagrama de estados  | Arthur José  | - | 15/05 |
+| 1.2 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |
+| 1.3 | Atualização do tópico Participantes  | Christian Siqueira | - | 14/05 |
+| 1.4 | Adição dos artefato diagrama de estados  | Arthur José  | - | 15/05 |
 

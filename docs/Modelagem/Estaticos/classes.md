@@ -47,3 +47,4 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
 | 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
 | 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |
+| 1.2 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |

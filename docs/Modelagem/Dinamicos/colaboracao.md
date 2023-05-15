@@ -10,6 +10,8 @@ Na UML, um diagrama de comunicação mostra as interações entre os objetos ou 
 &emsp;&emsp; O diagrama de colaboração, também conhecido como diagrama de comunicação, é uma ferramenta visual usada na modelagem de sistemas para representar a interação entre os objetos envolvidos em um determinado cenário ou processo. Ele tem o objetivo de mostrar como os objetos colaboram uns com os outros, trocando mensagens e compartilhando informações para realizar uma tarefa específica. No caso do nosso projeto fizemos o diagrama baseado nas interações entre vendedor, comprador e plataforma e o fluxo de avaliação, em algumas situações definidas.
 
 ## Participantes
+Os integrantes do grupo que participaram da elaboração do artefato foram: 
+
 - Adne Moretti Moreira
 - Matheus Pimentel Leal
 - Gabriel Moretti de Souza
@@ -30,8 +32,10 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 - Interação de avaliação vendedor pós-compra;
 - Interação de avaliação plataforma. 
 
+Os integrantes optaram por focar os diagramas no fluxo de avaliação, sem incluir outros possíveis fluxos necessários para chegar no fluxo de avaliação. 
+
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao1" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao1" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Interação de avaliação comprador pós-compra
@@ -40,7 +44,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao2" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao2" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Interação de avaliação comprador pré-compra
@@ -49,7 +53,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao3" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao3" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 3 : Interação de avaliação vendedor pós-compra
@@ -58,7 +62,7 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="Assets/diagramas/Colaboracao4" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <img src="Assets/diagramas/Colaboracao4" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 4 : Interação de avaliação plataforma 

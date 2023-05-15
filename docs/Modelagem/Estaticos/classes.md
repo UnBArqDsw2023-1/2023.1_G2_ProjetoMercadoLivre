@@ -65,6 +65,6 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
 | 1.0 | Adição dos tópicos Objetivos e Participantes  | Leonardo Vitoriano | Marcos Vinícius | 14/05 |
-| 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |
-| 1.2 | Adição da Introdução e Legenda  | Arthur José | - | 15/05 |
+| 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | Christian Siqueira | 14/05 |
+| 1.2 | Adição da Introdução e Legenda  | Arthur José | Christian Siqueira | 15/05 |
 | 1.3 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |

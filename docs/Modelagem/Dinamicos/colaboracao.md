@@ -56,6 +56,16 @@ O diagrama foi separado em quatro diferentes interações para melhor entendimen
     </h6>
   </div>
 </div>
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/Colaboracao4" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Interação de avaliação comprador pré-compra
+    </h6>
+  </div>
+</div>
+
 ## Gravação da reunião
 
 ## Conclusão

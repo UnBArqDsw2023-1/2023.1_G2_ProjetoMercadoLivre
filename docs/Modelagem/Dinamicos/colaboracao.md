@@ -1,16 +1,18 @@
-# 2.2.1.1 Diagrama de Colaboração/Comunicação
+# Diagrama de Colaboração/Comunicação
 
 ## Introdução
+
 &emsp;&emsp; De acordo com a notação UML de diagrramas dinâmicos, umm diagrama de comunicação(também conhecido como diagrama de colaborração) é um tipo de diagrama
-de interação que pode ser usado para explorar o comportamento dinâmico de um sistema ou aplicativo de software. Ele fornece uma visualização alternativa das mesmas informações dos diagramas de sequência [1]. 
+de interação que pode ser usado para explorar o comportamento dinâmico de um sistema ou aplicativo de software. Ele fornece uma visualização alternativa das mesmas informações dos diagramas de sequência [1].
 Na UML, um diagrama de comunicação mostra as interações entre os objetos ou funções associados com linhas de vida e mensagens transmitidas entre linhas de vida[2].
 
-## Objetivo 
+## Objetivo
 
 &emsp;&emsp; O diagrama de colaboração, também conhecido como diagrama de comunicação, é uma ferramenta visual usada na modelagem de sistemas para representar a interação entre os objetos envolvidos em um determinado cenário ou processo. Ele tem o objetivo de mostrar como os objetos colaboram uns com os outros, trocando mensagens e compartilhando informações para realizar uma tarefa específica. No caso do nosso projeto fizemos o diagrama baseado nas interações entre vendedor, comprador e plataforma e o fluxo de avaliação, em algumas situações definidas.
 
 ## Participantes
-Os integrantes do grupo que participaram da elaboração do artefato foram: 
+
+Os integrantes do grupo que participaram da elaboração do artefato foram:
 
 - Adne Moretti Moreira
 - Matheus Pimentel Leal
@@ -25,22 +27,23 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 
 ## Artefato
 
-O artefato desenvolvido em questão foi desenvolvido por auxiliar no entedimento o sistema e as interções entre seus objetos, fornece uma visão clara das mensagens e do fluxo. 
-O diagrama foi separado em quatro diferentes interações para melhor entendimento do sistema e das diferentes interções existentes no fluxo de avaliação do sistema. As interções foram divididas em: 
+O artefato desenvolvido em questão foi desenvolvido por auxiliar no entedimento o sistema e as interções entre seus objetos, fornece uma visão clara das mensagens e do fluxo.
+O diagrama foi separado em quatro diferentes interações para melhor entendimento do sistema e das diferentes interções existentes no fluxo de avaliação do sistema. As interções foram divididas em:
+
 - Interação de avaliação comprador pré-compra;
 - Interação de avaliação comprador pós compra;
 - Interação de avaliação vendedor pós-compra;
-- Interação de avaliação plataforma. 
+- Interação de avaliação plataforma.
 
-Os integrantes optaram por focar os diagramas no fluxo de avaliação, sem incluir outros possíveis fluxos necessários para chegar no fluxo de avaliação. 
+Os integrantes optaram por focar os diagramas no fluxo de avaliação, sem incluir outros possíveis fluxos necessários para chegar no fluxo de avaliação.
 
-## Interação comprador pré-compra 
+## Interação comprador pré-compra
 
-O fluxo de avaliação de um comprador pré-compra consiste em todas as interações com as avaliações de produtos que um comprador faz antes de realizar de fato a compra no sistema do mercado livre, por exemplo, visualizar avaliações e comentários de outros usuários em produtos que esses já compraram. 
+O fluxo de avaliação de um comprador pré-compra consiste em todas as interações com as avaliações de produtos que um comprador faz antes de realizar de fato a compra no sistema do mercado livre, por exemplo, visualizar avaliações e comentários de outros usuários em produtos que esses já compraram.
 
-Assim, o diagrama de colaboração dessa interação possui três diferentes classes envolvidas, sendo elas o Produto, Avaliação e Comentário. Primeiramente o comprador visualiza os produtos do Mercado Livre, escolhe um produto e a plataforma lista as avaliações existentes no produto. Ao visualizar as avaliações, o comprador pode filtrar as avaliações de acordo com as estrelas. 
+Assim, o diagrama de colaboração dessa interação possui três diferentes classes envolvidas, sendo elas o Produto, Avaliação e Comentário. Primeiramente o comprador visualiza os produtos do Mercado Livre, escolhe um produto e a plataforma lista as avaliações existentes no produto. Ao visualizar as avaliações, o comprador pode filtrar as avaliações de acordo com as estrelas.
 
-As avaliações possuem comentários, que também podem ser visualizados, além do comprador poder dar upvoting. O fluxo de avaliação de pré-compra é importante para o comprador ver visões de outras pessoas sobre o produto que está interessado, para que possa encontrar produtos de maior qualidade possível. 
+As avaliações possuem comentários, que também podem ser visualizados, além do comprador poder dar upvoting. O fluxo de avaliação de pré-compra é importante para o comprador ver visões de outras pessoas sobre o produto que está interessado, para que possa encontrar produtos de maior qualidade possível.
 
 Segue imagem do diagrama desenvolvido:
 
@@ -53,10 +56,9 @@ Segue imagem do diagrama desenvolvido:
   </div>
 </div>
 
-### Interação comprador pós compra 
+### Interação comprador pós compra
 
-O fluxo de interação do comprador pós-compra consiste em todas as ações relacionadas a avaliação após um comprador comprar e receber o seu produto. 
-
+O fluxo de interação do comprador pós-compra consiste em todas as ações relacionadas a avaliação após um comprador comprar e receber o seu produto.
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao1.png" alt="" style="margin-right: 20px;"/>
@@ -88,11 +90,10 @@ O fluxo de interação do comprador pós-compra consiste em todas as ações rel
 ## Gravação da reunião
 
 ## Conclusão
+
 O artefato desenvolvido consiste em diagramas de colaboração/comunicação que visualizam as interações entre participantes em um sistema. Esses diagramas mostram como os objetos colaboram, trocam mensagens e compartilham informações para realizar uma tarefa específica. Foram criadas quatro interações para representar o fluxo de avaliação entre comprador, vendedor e plataforma. Cada interação foi detalhada em um diagrama separado, proporcionando uma compreensão mais profunda do sistema e suas interações.
 
 Os diagramas de colaboração/comunicação são essenciais para visualizar e compreender as interações entre os objetos em um sistema, representando o fluxo de informações e ações. Eles contribuem para melhorar o design e a eficiência do sistema, proporcionando uma experiência aprimorada para os usuários e um desenvolvimento mais efetivo do projeto.
-
-
 
 ## Referências
 
@@ -102,9 +103,8 @@ Os diagramas de colaboração/comunicação são essenciais para visualizar e co
 
 ## 5. Histórico de Versão
 
-| Versão |       Alteração        |  Responsável  | Revisor | Data  |
-| :----: | :--------------------: | :-----------: | :-----: | :---: |
-|  1.0   | Adicionando introdução | João Henrique |    Gabriel    | 13/05 |
-|  1.1   | Adicionando objetivos e participantes | Gabriel |    -    | 15/05 |
-|  1.2   | Adicionando conclusao | Thiago Gomes |    -    | 15/05 |
-
+| Versão |               Alteração               |  Responsável  | Revisor | Data  |
+| :----: | :-----------------------------------: | :-----------: | :-----: | :---: |
+|  1.0   |        Adicionando introdução         | João Henrique | Gabriel | 13/05 |
+|  1.1   | Adicionando objetivos e participantes |    Gabriel    |    -    | 15/05 |
+|  1.2   |         Adicionando conclusao         | Thiago Gomes  |    -    | 15/05 |

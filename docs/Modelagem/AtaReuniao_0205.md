@@ -10,7 +10,7 @@ As informações sobre data, horário, duração e local da reunião estão deta
 
 ## 2. Participantes
 
-Na reunião, **todos** os integrantes do grupo participaram, sendo então os ausentes:
+Na reunião, **todos** os integrantes do grupo participaram, sendo então os presentes:
 
 - Adne Moretti Moreira
 - Arthur José Nascimento de Lima

@@ -9,6 +9,7 @@
 &emsp;&emsp; Um diagrama de pacotes é uma representação visual de alto nível da estrutura e organização de um sistema de software. Seu objetivo principal é mostrar as dependências entre os pacotes ou módulos que compõem o sistema, destacando as relações de dependência e agrupamentos lógicos. O diagrama de pacotes também auxilia na redução de acoplamento entre os pacotes da aplicação, visto que, é possível visualizar áreas de alta dependência, promovendo a modularidade de pacotes maiores.
 
 ## 3. Participantes
+Os participantes que participaram do desenvolvimento desse artafto foram: 
 
 - Adne Moretti Moreira
 - Cícero Barrozo Fernandes Filho
@@ -111,3 +112,4 @@ Através das duas versões apresentadas no artefato, foi possível visualizar a 
 |  1.0   |   Adicionando introdução e participantes    |  João Henrique   |    -    | 13/05 |
 |  1.1   | Adicionando artefato do Diagrama de Pacotes | Cícero Fernandes e Gabriel Morreti |    -    | 15/05 |
 |  1.2   | Adicionando conclusão ao Diagrama de Pacotes | Thiago Gomes |  Cícero Fernandes  | 15/05 |
+|  1.3   | Adicionando metodologias  | Adne Moretti |  Cícero Fernandes  | 15/05 |

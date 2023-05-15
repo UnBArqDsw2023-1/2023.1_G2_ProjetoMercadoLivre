@@ -1,0 +1,60 @@
+# 2.2.1.1 Diagramas Dinâmicos - Diagrama de Colaboracao
+
+## Introdução
+
+
+## Objetivo 
+
+
+## Participantes
+
+## Metodologia
+
+Por padrão utilizamos os seguintes elementos em nosso diagrama:
+
+## Artefato
+
+O artefato desenvolvido em questão foi desenvolvido por auxiliar no entedimento o sistema e as interções entre seus objetos, fornece uma visão clara das mensagens e do fluxo. 
+O diagrama foi separado em quatro diferentes interações para melhor entendimento do sistema e das diferentes interções existentes no fluxo de avaliação do sistema. As interções foram divididas em: 
+- Interação de avaliação comprador pré-compra;
+- Interação de avaliação comprador pós compra;
+- Interação de avaliação vendedor pós-compra;
+- Interação de avaliação plataforma. 
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/Colaboracao1" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Interação de avaliação comprador pré-compra
+    </h6>
+  </div>
+</div>
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/Colaboracao2" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Interação de avaliação comprador pré-compra
+    </h6>
+  </div>
+</div>
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/Colaboracao3" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Interação de avaliação comprador pré-compra
+    </h6>
+  </div>
+</div>
+## Gravação da reunião
+
+## Conclusão
+
+
+
+## Referências
+
+- [UML.org](https://www.uml.org/what-is-uml.htm)
+
+## 5. Histórico de Versão

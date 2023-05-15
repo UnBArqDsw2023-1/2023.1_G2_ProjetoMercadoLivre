@@ -30,6 +30,11 @@ Nas reuniões para desenvolvimento do artefato, todos os integrantes do [grupo 2
 [Parte 2](https://youtu.be/eYP6UfRJLb4)
 
 ## 7. Conclusao
+&emsp;&emsp; O diagrama de classes foi realizado a fim de englobar as entidades que compõe o fluxo de avaliação de produto, desenhando classes que estão diretamente ligadas à regra de negócio da aplicação.
+
+&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualizção mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
+
+&emsp;&emsp; O diagrama fica também como forma de documentação, facilitando a colaboração e entendimento do sistema.
 
 ## 8. Referências
 

@@ -43,15 +43,15 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
   </div>
 </div>
 
-## 6. Gravacao da reuniao
+## 6. Gravação da reuniao
 
 [Parte 1](https://youtu.be/CbLMMBllyBQ)
 [Parte 2](https://youtu.be/eYP6UfRJLb4)
 
-## 7. Conclusao
+## 7. Conclusão
 &emsp;&emsp; O diagrama de classes foi realizado a fim de englobar as entidades que compõe o fluxo de avaliação de produto, desenhando classes que estão diretamente ligadas à regra de negócio da aplicação.
 
-&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualizção mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
+&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualização mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
 
 &emsp;&emsp; O diagrama fica também como forma de documentação, facilitando a colaboração e entendimento do sistema.
 
@@ -68,3 +68,4 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 | 1.1 | Adição do tópico Gravação da reunião  | Marcos Vinícius | - | 14/05 |
 | 1.2 | Adição da Introdução e Legenda  | Arthur José | - | 15/05 |
 | 1.3 | Adição do tópico Conclusão  | Christian Siqueira | - | 15/05 |
+| 1.4 | Correção Estrutural | Letícia Aires |- | 15/05 |

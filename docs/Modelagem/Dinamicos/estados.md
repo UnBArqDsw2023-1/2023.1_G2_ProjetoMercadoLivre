@@ -30,7 +30,9 @@
 &emsp;&emsp; O diagrama de estados é uma das ferramentas do Unified Modeling Language (UML) e é usado para modelar o comportamento de um sistema ao longo do tempo, especificamente para objetos que passam por diferentes estados em resposta a eventos. No caso específico da realização de um diagrama de estados para representar os fluxos de avaliação e produto de uma compra no Mercado Livre, realizamos reuniões com os integrantes do grupo para obter uma compreensão completa dos processos envolvidos. Assim conseguimos identificar e definir os diferentes estados pelos quais o objeto de compra passa, bem como os eventos que desencadeiam as transições entre esses estados.
 
 
-&emsp;&emsp;Em seguida, Identificamos o Estado chave dos estados que envolvem a compra e ele é o "Recebido", que possibilita a realização do fluxo principal que estamos trabalhando, o de avaliação do produto, assim novos eventos foram identificados para a avaliação de um produto no mercado livre como "Solicitada", "Aprovada", "Realizada", "Vendedor notificado", "Comentário Adicionado", "Rejeitada", "Em análise", "Relatada", "Exibida", "Respondida", "Excluida".
+### Versão 1 do diagrama de estados
+
+<br>
 
 ![imagem 1](../../Assets/diagramas/estadosv1.jpg)
 
@@ -39,7 +41,13 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
+<br>
+
 &emsp;&emsp; O primeiro passo na criação do diagrama de estados é identificar os estados relevantes para a compra no Mercado Livre. Por exemplo, podemos ter os estados "Ocioso", "Aguardando pagamento", "Aguardando envio", "Enviado", "Recebido", "Devolvido", "Validado", "Estornado". Cada estado representa uma etapa específica do processo de compra do produto.
+
+### Versão 2 do diagrama de estados
+
+<br>
 
 ![imagem 2](../../Assets/diagramas/estadosv2.png)
 
@@ -48,13 +56,17 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
+<br>
+
 &emsp;&emsp; Em seguida, Identificamos o Estado chave dos estados que envolvem a compra e ele é o "Recebido", que  possibilita a realização do fluxo principal que estamos trabalhando, o de avaliação do produto, assim novos eventos foram  identificados para a avaliação de um produto no mercado livre como "Solicitada", "Aprovada", "Realizada", "Vendedor notificado", "Comentário Adicionado", "Rejeitada", "Em análise", "Relatada", "Exibida", "Respondida", "Excluida".
 
 &emsp;&emsp; Uma vez que os estados e os eventos tenham sido identificados, podemos criar as transições entre os estados. Cada transição é rotulada com o evento correspondente que a desencadeia. Por exemplo, a transição do estado "Enviado" para "Recebido" pode ser rotulada com o evento "Pedido chega ao comprador".
 
 &emsp;&emsp; É importante ressaltar que o diagrama de estados é apenas uma das muitas ferramentas oferecidas pelo UML para modelagem de sistemas. Ele fornece uma visão de alto nível do comportamento do sistema, permitindo uma compreensão mais clara e uma base sólida para o desenvolvimento de software.
 
-Segue o Diagrama De Estados versão Final:
+### Versão final do diagrama de estados
+
+<br>
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/06f05d2e-62cb-4351-a339-0fa45449264d" id="BvjYAfOoeRZi"></iframe></div>
 
@@ -62,6 +74,8 @@ Segue o Diagrama De Estados versão Final:
     <b>Figura 3: Versão final do diagrama de estados</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
+
+<br>
 
 &emsp;&emsp; Para elaboração da versão final, fizemos alguns ajustes na versão 2, principalmente a adição das notações de "choice", "fork" e "join". 
 

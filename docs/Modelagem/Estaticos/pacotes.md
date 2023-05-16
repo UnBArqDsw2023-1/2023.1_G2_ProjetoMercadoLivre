@@ -9,7 +9,8 @@
 &emsp;&emsp; Um diagrama de pacotes é uma representação visual de alto nível da estrutura e organização de um sistema de software. Seu objetivo principal é mostrar as dependências entre os pacotes ou módulos que compõem o sistema, destacando as relações de dependência e agrupamentos lógicos. O diagrama de pacotes também auxilia na redução de acoplamento entre os pacotes da aplicação, visto que, é possível visualizar áreas de alta dependência, promovendo a modularidade de pacotes maiores.
 
 ## 3. Participantes
-Os participantes que participaram do desenvolvimento desse artafto foram: 
+
+Os participantes que participaram do desenvolvimento desse artefato foram:
 
 - Adne Moretti Moreira
 - Cícero Barrozo Fernandes Filho
@@ -20,10 +21,10 @@ Os participantes que participaram do desenvolvimento desse artafto foram:
 
 ## 4. Metodologia
 
-O artefato foi desenvolvido em conjunto utilizando a ferramenta Microsoft Teams para reunião e para modelagem a ferramenta LucidChart. Para o desenvolvimento em conjunto, um membro do grupo compartilhou a tela da ferramenta de modelagem, e com o auxílio do restante do grupo, que também modificava o diagrama online, as ideias e possíveis modelagens foram discutidas. 
-De acordo com as discussões do grupo, a primeira versão foi feita. Após isso, melhorias foram sendo elencadas com o maior entendimento do sistema e dos fluxos a serem desenvolvidos, e o artefato foi evoluído para uma segunda versão, mais completa. 
+O artefato foi desenvolvido em conjunto utilizando a ferramenta Microsoft Teams para reunião e para modelagem a ferramenta LucidChart. Para o desenvolvimento em conjunto, um membro do grupo compartilhou a tela da ferramenta de modelagem, e com o auxílio do restante do grupo, que também modificava o diagrama online, as ideias e possíveis modelagens foram discutidas.
+De acordo com as discussões do grupo, a primeira versão foi feita. Após isso, melhorias foram sendo elencadas com o maior entendimento do sistema e dos fluxos a serem desenvolvidos, e o artefato foi evoluído para uma segunda versão, mais completa.
 
-Segue a seguir o artefato desenvolvido: 
+Segue a seguir o artefato desenvolvido:
 
 ## 5. Artefato
 
@@ -93,10 +94,9 @@ Backend é o modelo da aplicação onde será construída a API para que haja a 
 
 O pacote Database representa nossa base de dados da aplicação, nele estão modeladas as tabelas de acordo com as classes construídas no [diagrama de classes](Modelagem/Estaticos/classes.md). Sendo elas: Order, Product, User, Seller, Buyer, Avaliation e Comment
 
+## 6. Conclusão
 
-##  6. Conclusão
-
-O diagrama de pacotes é uma ferramenta valiosa para representar a estrutura e organização de um sistema de software. Ele proporciona uma visão clara das dependências entre os pacotes, tanto do Backend como do Frontend, permitindo uma compreensão concisa da arquitetura do sistema. Com o uso desse diagrama, é possível identificar áreas de alta dependência e promover a modularidade, resultando em um sistema mais flexível e fácil de manter. 
+O diagrama de pacotes é uma ferramenta valiosa para representar a estrutura e organização de um sistema de software. Ele proporciona uma visão clara das dependências entre os pacotes, tanto do Backend como do Frontend, permitindo uma compreensão concisa da arquitetura do sistema. Com o uso desse diagrama, é possível identificar áreas de alta dependência e promover a modularidade, resultando em um sistema mais flexível e fácil de manter.
 
 Através das duas versões apresentadas no artefato, foi possível visualizar a evolução do diagrama e sua capacidade de representar de forma organizada e compreensível a estrutura do sistema. Com isso, o diagrama de pacotes contribui para o desenvolvimento eficiente de software, auxiliando na criação de sistemas mais organizados, escaláveis e de fácil manutenção.
 
@@ -107,9 +107,9 @@ Através das duas versões apresentadas no artefato, foi possível visualizar a 
 
 ## Histórico de Versão
 
-| Versão |                  Alteração                  |   Responsável    | Revisor | Data  |
-| :----: | :-----------------------------------------: | :--------------: | :-----: | :---: |
-|  1.0   |   Adicionando introdução e participantes    |  João Henrique   |    -    | 13/05 |
-|  1.1   | Adicionando artefato do Diagrama de Pacotes | Cícero Fernandes e Gabriel Morreti |    -    | 15/05 |
-|  1.2   | Adicionando conclusão ao Diagrama de Pacotes | Thiago Gomes |  Cícero Fernandes  | 15/05 |
-|  1.3   | Adicionando metodologias  | Adne Moretti |  Cícero Fernandes  | 15/05 |
+| Versão |                  Alteração                   |            Responsável             |     Revisor      | Data  |
+| :----: | :------------------------------------------: | :--------------------------------: | :--------------: | :---: |
+|  1.0   |    Adicionando introdução e participantes    |           João Henrique            |        -         | 13/05 |
+|  1.1   | Adicionando artefato do Diagrama de Pacotes  | Cícero Fernandes e Gabriel Morreti |        -         | 15/05 |
+|  1.2   | Adicionando conclusão ao Diagrama de Pacotes |            Thiago Gomes            | Cícero Fernandes | 15/05 |
+|  1.3   |           Adicionando metodologias           |            Adne Moretti            | Cícero Fernandes | 15/05 |

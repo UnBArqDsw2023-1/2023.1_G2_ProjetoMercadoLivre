@@ -114,4 +114,4 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 |  1.3   |          Adição do tópico Conclusão          | Christian Siqueira |         -          | 15/05 |
 |  1.4   |             Correção Estrutural              |   Letícia Aires    |         -          | 15/05 |
 |  1.5   |            Adição da Metodologia             |   Letícia Aires    |         -          | 15/05 |
-|  1.5   |         Atualizar Legenda de classes         |       Arthur       |         -          | 15/05 |
+|  1.6   |         Atualizar Legenda de classes         |       Arthur       |         -          | 15/05 |

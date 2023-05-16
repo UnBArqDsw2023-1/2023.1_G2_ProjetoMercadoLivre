@@ -22,6 +22,7 @@ Os integrantes do grupo que participaram da elaboração do artefato foram:
 - Thiago Siqueira Gomes
 
 ## Metodologia
+
 A metodologia utilizada para desenvolver o artefato do diagrama de colaboração/comunicação baseou-se em uma abordagem colaborativa entre os membros do grupo. Primeiramente, foram definidos os objetivos do diagrama, que consistiam em representar as interações entre comprador, vendedor e plataforma no fluxo de avaliação do sistema.
 
 Em seguida, os participantes do grupo trabalharam em conjunto para identificar os elementos necessários no diagrama, como as classes envolvidas e as mensagens trocadas entre elas. Foi estabelecido um padrão para a representação gráfica dos diagramas de colaboração, garantindo a consistência visual em todas as interações. Por fim, foi criado o diagrama de colaboração utilizando a ferramenta LucidChart durante uma reunião com a participação de vários integrantes.
@@ -45,7 +46,7 @@ Assim, o diagrama de colaboração dessa interação possui três diferentes cla
 
 As avaliações possuem comentários, que também podem ser visualizados, além do comprador poder dar upvoting. O fluxo de avaliação de pré-compra é importante para o comprador ver visões de outras pessoas sobre o produto que está interessado, para que possa encontrar produtos de maior qualidade possível.
 
-Segue imagem do diagrama desenvolvido:
+Segue imagem do diagrama desenvolvido na figura 1:
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao2.png" alt="" style="margin-right: 20px;"/>
@@ -62,7 +63,7 @@ O fluxo de interação do comprador pós-compra consiste em todas as ações rel
 
 A interação teve 4 classes, sendo elas Produto, Pedido, Avaliação e Comentário. Primeiramente o comprador entra no sistema, escolhe um produto e decide comprá-lo, fazendo assim um pedido. No produto, a todo momento vai existir um método que calcula a média de avaliações constantemente. Após comprar um produto e recebe-lo, o comprador pode avaliar o produto e listar as avaliações do produto. Ao fazer uma avaliação o comprador faz comentários, que pode editar e excluir posteriormente. 
 
-Segue o diagrama de interação do fluxo de avaliação de comprador pós-compra. 
+Segue o diagrama de interação do fluxo de avaliação de comprador pós-compra na figura 2. 
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao1.png" alt="" style="margin-right: 20px;"/>
@@ -75,7 +76,14 @@ Segue o diagrama de interação do fluxo de avaliação de comprador pós-compra
 
 ### Interação vendedor pós compra
 
-O fluxo de interação de vendedor pós compra consiste em todas as interações de um vendedor com os outros objetivos 
+
+O fluxo de interação pós-compra do vendedor envolve todas as interações do vendedor com os outros componentes do sistema durante o processo de avaliação. O objetivo do vendedor é aprimorar continuamente seus serviços, oferecendo suporte adequado aos usuários que enfrentaram problemas e recebendo feedbacks positivos sobre seus produtos.
+
+Esse fluxo de interação é composto pelas classes Produto, Pedido, Avaliação e Comentário. O vendedor tem a capacidade de visualizar os produtos que vende, bem como os pedidos relacionados a esses produtos. Ao examinar os produtos, ele pode verificar as avaliações e filtrá-las de acordo com a classificação em estrelas. Além disso, é possível acessar os comentários associados a cada avaliação e responder a eles. O vendedor também tem a opção de excluir ou editar suas respostas.
+
+Através dessa interação contínua, o vendedor pode obter insights valiosos para melhorar a qualidade de seus produtos e atender às necessidades dos clientes de forma mais eficaz.
+
+Segue na figura 3, a modelagem da interação de avaliação vendedor pós-compra: 
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao3.png" alt="" style="margin-right: 20px;"/>
@@ -85,6 +93,16 @@ O fluxo de interação de vendedor pós compra consiste em todas as interações
     </h6>
   </div>
 </div>
+
+### Interação plataforma 
+
+A interação da plataforma simplifica o envolvimento do Mercado Livre nos fluxos de avaliação de produtos. A plataforma oferece uma visão abrangente dos produtos, rastreando os pedidos de cada item. Além disso, permite a visualização das avaliações de cada produto e oferece recursos de filtragem para facilitar a análise. Os comentários relacionados também são exibidos aos usuários.
+
+Um recurso valioso da plataforma é a capacidade de utilizar os dados das avaliações para recomendar produtos semelhantes aos usuários. Essa funcionalidade auxilia os clientes a descobrirem novos itens com base em suas preferências e experiências anteriores.
+
+Além disso, a plataforma desempenha um papel importante na moderação, removendo comentários que possam ser considerados ofensivos ou inadequados. Isso contribui para criar um ambiente seguro e positivo para os usuários.
+
+Segue na Figura 4, a modelagem da interação da plataforma no fluxo de compra: 
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao4.png" alt="" style="margin-right: 20px;"/>
@@ -111,7 +129,8 @@ Os diagramas de colaboração/comunicação são essenciais para visualizar e co
 
 - [1] https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-communication-diagrams;
 - [2] https://www.ibm.com/docs/pt-br/radfws/9.6?topic=SSRTLW_9.6.0/com.ibm.xtools.sequence.doc/topics/ccommndiag.htm;
-- [UML.org](https://www.uml.org/what-is-uml.htm)
+- [3] [UML.org](https://www.uml.org/what-is-uml.htm)
+- [4] [Diagramas dinâmicos](https://aprender3.unb.br/pluginfile.php/2482561/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf))
 
 ## 5. Histórico de Versão
 
@@ -120,6 +139,4 @@ Os diagramas de colaboração/comunicação são essenciais para visualizar e co
 |  1.0   |        Adicionando introdução         | João Henrique | Gabriel | 13/05 |
 |  1.1   | Adicionando objetivos e participantes |    Gabriel    |    -    | 15/05 |
 |  1.2   |         Adicionando conclusao         | Thiago Gomes  | Adne Moretti | 15/05 |
-|  1.3   |         Adicionando artefato       | Adne Moretti  |  Thiago Gomes  | 15/05 |
-|  1.4   |         Adiciona metodologia       | Thiago Gomes  |  Adne Moretti  | 15/05 |
-
+|  1.2   |         Adicionando artefato       | Adne Moretti  |  Thiago Gomes  | 15/05 |

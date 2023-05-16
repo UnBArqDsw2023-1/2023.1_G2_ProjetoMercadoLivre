@@ -79,7 +79,7 @@
 
 &emsp;&emsp; Para elaboração da versão final, fizemos alguns ajustes na versão 2, principalmente a adição das notações de "choice", "fork" e "join". 
 
-## 6. Gravacao da reuniao
+## 6. Gravação da reunião
 
 [Parte 1](https://youtu.be/akzOE3aZSD8)
 

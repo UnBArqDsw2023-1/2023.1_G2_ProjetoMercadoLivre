@@ -32,6 +32,63 @@ O diagrama de classes foi elaborado conforme a documentação e os padrões apre
 
 ## 5. Artefato 
 
+## 5. Artefato 
+
+A equipe se reuniu 09/05 no microsoft teams e começou a construir o diagrama de classes em conjunto. A priori, decidimos definir quais seriam as classes mais pertinentes a serem inseridas no diagrama. Em seguida, adicionaram-se os atributos, os métodos e, por fim, foram incluídos os relacionamentos entre os diagramas.
+Assim, concluímos o protótipo do diagrama de classes, o qual foi otimizado, ao decorrer do tempo, a fim de adequar principalmente os relacionamentos das classes.
+
+### 5.1 Primeira Versão do Diagrama
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/ClassesV1.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Diagrama de Classes V1
+    </h6>
+  </div>
+</div>
+
+Como é possível observar, houve mudanças significativas especificamente na modelagem dos relacionamentos presentes no diagrama.
+Assim, tem-se que setas de associação foram substituídas por outra de agregação e composição de forma a retratar melhor a relacção entre o pedido, o produto, o vendedor e o comprador.
+
+### 5.2 Segunda Versão do Diagrama
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/ClassesV2.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Diagrama de Classes V2
+    </h6>
+  </div>
+</div>
+
+Por fim, foi analisada a relação entre produto e avaliação e, após debate, optamos por alterar a seta indicativa de associação para agregação, a fim de retrata a relação de exclusividade entre as classes supracitadas.
+
+### 5.3 Terceira Versão do Diagrama
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/ClassesV3.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Diagrama de Classes V3
+    </h6>
+  </div>
+</div>
+
+## 5.1 Legenda
+
+Por padrão utilizamos os seguintes elementos em nosso diagrama:
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/legenda_diagrama_de_classes.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Legenda diagrama de Classes
+    </h6>
+  </div>
+</div>
+
+
 ## 5.1 Legenda
 
 Por padrão utilizamos os seguintes elementos em nosso diagrama:

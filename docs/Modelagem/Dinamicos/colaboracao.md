@@ -60,6 +60,10 @@ Segue imagem do diagrama desenvolvido:
 
 O fluxo de interação do comprador pós-compra consiste em todas as ações relacionadas a avaliação após um comprador comprar e receber o seu produto.
 
+A interação teve 4 classes, sendo elas Produto, Pedido, Avaliação e Comentário. Primeiramente o comprador entra no sistema, escolhe um produto e decide comprá-lo, fazendo assim um pedido. No produto, a todo momento vai existir um método que calcula a média de avaliações constantemente. Após comprar um produto e recebe-lo, o comprador pode avaliar o produto e listar as avaliações do produto. Ao fazer uma avaliação o comprador faz comentários, que pode editar e excluir posteriormente. 
+
+Segue o diagrama de interação do fluxo de avaliação de comprador pós-compra. 
+
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao1.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
@@ -68,6 +72,10 @@ O fluxo de interação do comprador pós-compra consiste em todas as ações rel
     </h6>
   </div>
 </div>
+
+### Interação vendedor pós compra
+
+O fluxo de interação de vendedor pós compra consiste em todas as interações de um vendedor com os outros objetivos 
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/Colaboracao3.png" alt="" style="margin-right: 20px;"/>
@@ -89,6 +97,10 @@ O fluxo de interação do comprador pós-compra consiste em todas as ações rel
 
 ## Gravação da reunião
 
+A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está disponível abaixo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvrEI1-k6Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Conclusão
 
 O artefato desenvolvido consiste em diagramas de colaboração/comunicação que visualizam as interações entre participantes em um sistema. Esses diagramas mostram como os objetos colaboram, trocam mensagens e compartilham informações para realizar uma tarefa específica. Foram criadas quatro interações para representar o fluxo de avaliação entre comprador, vendedor e plataforma. Cada interação foi detalhada em um diagrama separado, proporcionando uma compreensão mais profunda do sistema e suas interações.
@@ -107,4 +119,5 @@ Os diagramas de colaboração/comunicação são essenciais para visualizar e co
 | :----: | :-----------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   |        Adicionando introdução         | João Henrique | Gabriel | 13/05 |
 |  1.1   | Adicionando objetivos e participantes |    Gabriel    |    -    | 15/05 |
-|  1.2   |         Adicionando conclusao         | Thiago Gomes  |    -    | 15/05 |
+|  1.2   |         Adicionando conclusao         | Thiago Gomes  | Adne Moretti | 15/05 |
+|  1.2   |         Adicionando artefato       | Adne Moretti  |  Thiago Gomes  | 15/05 |

@@ -23,8 +23,9 @@ Os integrantes do grupo que participaram da elaboração do artefato foram:
 
 ## Metodologia
 
-Por padrão utilizamos os seguintes elementos em nosso diagrama:
+A metodologia utilizada para desenvolver o artefato do diagrama de colaboração/comunicação baseou-se em uma abordagem colaborativa entre os membros do grupo. Primeiramente, foram definidos os objetivos do diagrama, que consistiam em representar as interações entre comprador, vendedor e plataforma no fluxo de avaliação do sistema.
 
+Em seguida, os participantes do grupo trabalharam em conjunto para identificar os elementos necessários no diagrama, como as classes envolvidas e as mensagens trocadas entre elas. Foi estabelecido um padrão para a representação gráfica dos diagramas de colaboração, garantindo a consistência visual em todas as interações. Por fim, foi criado o diagrama de colaboração utilizando a ferramenta LucidChart durante uma reunião com a participação de vários integrantes.
 ## Artefato
 
 O artefato desenvolvido em questão foi desenvolvido por auxiliar no entedimento o sistema e as interções entre seus objetos, fornece uma visão clara das mensagens e do fluxo.

@@ -22,7 +22,6 @@ Os integrantes do grupo que participaram da elaboração do artefato foram:
 - Thiago Siqueira Gomes
 
 ## Metodologia
-
 A metodologia utilizada para desenvolver o artefato do diagrama de colaboração/comunicação baseou-se em uma abordagem colaborativa entre os membros do grupo. Primeiramente, foram definidos os objetivos do diagrama, que consistiam em representar as interações entre comprador, vendedor e plataforma no fluxo de avaliação do sistema.
 
 Em seguida, os participantes do grupo trabalharam em conjunto para identificar os elementos necessários no diagrama, como as classes envolvidas e as mensagens trocadas entre elas. Foi estabelecido um padrão para a representação gráfica dos diagramas de colaboração, garantindo a consistência visual em todas as interações. Por fim, foi criado o diagrama de colaboração utilizando a ferramenta LucidChart durante uma reunião com a participação de vários integrantes.
@@ -121,4 +120,6 @@ Os diagramas de colaboração/comunicação são essenciais para visualizar e co
 |  1.0   |        Adicionando introdução         | João Henrique | Gabriel | 13/05 |
 |  1.1   | Adicionando objetivos e participantes |    Gabriel    |    -    | 15/05 |
 |  1.2   |         Adicionando conclusao         | Thiago Gomes  | Adne Moretti | 15/05 |
-|  1.2   |         Adicionando artefato       | Adne Moretti  |  Thiago Gomes  | 15/05 |
+|  1.3   |         Adicionando artefato       | Adne Moretti  |  Thiago Gomes  | 15/05 |
+|  1.4   |         Adiciona metodologia       | Thiago Gomes  |  Adne Moretti  | 15/05 |
+

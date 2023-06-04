@@ -1,7 +1,7 @@
 {
-  "name": "2023.1_g2_projetomercadolivre",
+  "name": "arq",
   "version": "1.0.0",
-  "description": "## Introdução",
+  "description": "Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023, onde foi proposto para fazermos os processos de arquitetura do perfil do comprador e da plataforma \"Mercado livre\", sobre os fluxos de avaliação do produto.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/issues"
   },
-  "homepage": "https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre#readme"
+  "homepage": "https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre#readme",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }

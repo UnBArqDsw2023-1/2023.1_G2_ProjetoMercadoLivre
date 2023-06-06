@@ -26,7 +26,7 @@ Na reunião, **todos** os integrantes do grupo participaram, sendo então os pre
 
 ## 3. Pontos de Discussão Importantes
 
-O principal motivo da reunião foi para que o grupo debatesse sobre as **Diretrizes da Próxima Entrega** (15/05/23), sobre **Padrões de Projeto**, que definem como **entrega mínima**:
+O principal motivo da reunião foi para que o grupo debatesse sobre as **Diretrizes da Próxima Entrega** (12/06/23), sobre **Padrões de Projeto**, que definem como **entrega mínima**:
 
 
 - 1 Padrão GRASP, com nível de modelagem e nível de

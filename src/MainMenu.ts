@@ -1,8 +1,11 @@
 import inquirer from 'inquirer';
+import ContentDecoratorClient from './contentDecorator/ContentDecoratorClient.js';
 import template from './template/index.js';
+
 enum AvailableChoices {
   TEMPLATE = 'template',
   OBSERVER = 'observer',
+  DECORATOR = 'Decorator - Anexador de Conteúdo',
 }
 
 export default class MainMenu {
@@ -23,6 +26,9 @@ export default class MainMenu {
         break;
       case AvailableChoices.TEMPLATE:
         template();
+        break;
+      case AvailableChoices.DECORATOR:
+        new ContentDecoratorClient();
         break;
       default:
         break;

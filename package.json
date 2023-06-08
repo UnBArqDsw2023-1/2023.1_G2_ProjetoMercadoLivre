@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023, onde foi proposto para fazermos os processos de arquitetura do perfil do comprador e da plataforma \"Mercado livre\", sobre os fluxos de avaliação do produto.",
   "main": "index.js",
+  "type": "module",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx eslint . --ext=.ts --fix && ts-node ./src/index.ts"
+    "start": "npx eslint . --ext=.ts --fix && ts-node --esm ./src/index.ts"
   },
   "repository": {
     "type": "git",

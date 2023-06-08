@@ -1,5 +1,5 @@
 import inquirer from 'inquirer';
-
+import template from './template/index.js';
 enum AvailableChoices {
   TEMPLATE = 'template',
   OBSERVER = 'observer',
@@ -22,6 +22,7 @@ export default class MainMenu {
       case AvailableChoices.OBSERVER:
         break;
       case AvailableChoices.TEMPLATE:
+        template();
         break;
       default:
         break;

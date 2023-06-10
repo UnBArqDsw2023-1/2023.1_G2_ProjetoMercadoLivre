@@ -23,6 +23,8 @@ export default class MainMenu {
       choices: Object.values(AvailableChoices),
     });
 
+    console.clear();
+
     switch (pick.mainMenu) {
       case AvailableChoices.OBSERVER:
         break;

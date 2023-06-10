@@ -1,11 +1,13 @@
 import inquirer from 'inquirer';
 import ContentDecoratorClient from './contentDecorator/ContentDecoratorClient.js';
 import TemplateClient from './template/TemplateClient.js';
+import AdapterClient from './adapter/AdapterClient.js';
 
 enum AvailableChoices {
   TEMPLATE = 'template',
   OBSERVER = 'observer',
   DECORATOR = 'Decorator - Anexador de Conteúdo',
+  ADAPTER = 'adapter',
 }
 
 export default class MainMenu {
@@ -23,6 +25,9 @@ export default class MainMenu {
 
     switch (pick.mainMenu) {
       case AvailableChoices.OBSERVER:
+        break;
+      case AvailableChoices.ADAPTER:
+        new AdapterClient();
         break;
       case AvailableChoices.TEMPLATE:
         new TemplateClient();

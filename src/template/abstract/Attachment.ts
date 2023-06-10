@@ -1,6 +1,7 @@
 export default abstract class Attachment {
   public templateMethod(): void {
-    this.compress();
+    this.compressData();
+    this.detectExplicitContent();
     this.upload();
   }
 
@@ -8,5 +9,6 @@ export default abstract class Attachment {
     console.log('Upload geral de Attachment');
   }
 
-  protected abstract compress(): void;
+  protected abstract compressData(): void;
+  protected abstract detectExplicitContent(): void;
 }

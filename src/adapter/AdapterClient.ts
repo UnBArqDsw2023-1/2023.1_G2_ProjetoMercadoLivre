@@ -6,7 +6,7 @@ import EmailUseCase from './EmailUseCase.js';
 
 @injectable()
 export default class AdapterClient implements Client {
-  clientCode = () => {
+  private clientCode() {
     const emailService = new EmailServiceImpl();
 
     const emailAdapter = new EmailAdapter(emailService);
@@ -17,7 +17,7 @@ export default class AdapterClient implements Client {
       sellerName: 'Jairo',
       productName: 'Iphone 11',
     });
-  };
+  }
 
   run(): void {
     this.clientCode();

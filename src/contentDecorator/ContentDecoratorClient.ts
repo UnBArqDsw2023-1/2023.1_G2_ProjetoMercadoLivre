@@ -8,7 +8,7 @@ import Attachment from './interface/Attachment.js';
 
 @injectable()
 export default class ContentDecoratorClient implements Client {
-  clientCode(component: Attachment): void {
+  private clientCode(component: Attachment): void {
     console.log(`RESULTADO: ${component.attach()}`);
   }
 

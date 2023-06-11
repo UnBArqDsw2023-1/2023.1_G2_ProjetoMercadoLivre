@@ -6,9 +6,9 @@ import Video from './concrete/Video.js';
 
 @injectable()
 export default class TemplateClient implements Client {
-  clientCode = (Attachment: Attachment) => {
+  private clientCode(Attachment: Attachment) {
     Attachment.templateMethod();
-  };
+  }
 
   run(): void {
     this.clientCode(new Image());

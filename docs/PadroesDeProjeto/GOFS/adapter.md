@@ -22,6 +22,8 @@ O Adapter resolve o problema quando uma classe existente possui uma interface qu
 
 ## Participantes
 
+Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** que participaram foram:
+
 - Christian Fleury Alencar Siqueira
 - Gabriel Moretti de Souza
 - João Henrique Marques Calzavara

@@ -44,11 +44,11 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## UML
 
-![imagem 1](../../Assets/PadroesDeProjeto/TemplateMethod.png)
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
+
 
 <figcaption align='center'>
-    <b>Figura 2:
-     Diagrama do template method para a compressão de arquivo</b>
+    <b>Figura 1: Diagrama do padrão template para a funcionalidade de compressão de arquivo (Página "TemplateMethod Compress")</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
@@ -76,4 +76,4 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 |  1.0   |                   Criando Introdução                    | João Henrique |    Gabriel    | 11/06 |
 |  1.1   | Adicionando Participantes, Metodologia, Objetivos e UML | João Henrique |    Gabriel    | 11/06 |
 |  1.2   |                   Adicionando código                    | João Henrique |    Gabriel    | 11/06 |
-|  1.3   | Adição da gravação e problemática | Gabriel |  -   | 11/06/2023 |
+|  1.3   | Adição da gravação e problemática, refatoração do UML | Gabriel |  -   | 11/06/2023 |

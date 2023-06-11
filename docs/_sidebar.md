@@ -38,7 +38,12 @@
 
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
+
     - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
+      - [3.2.1 Adapter](/PadroesDeProjeto/GOFS/adapter.md)
+      - [3.2.2 Decorator](/PadroesDeProjeto/GOFS/decorator.md)
+      - [3.2.3 Strategy e Decorator](/PadroesDeProjeto/GOFS/strategy_e_decorator.md)
+      - [3.2.4 Template Method](/PadroesDeProjeto/GOFS/template.md)
     - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 

@@ -25,9 +25,12 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 
 ## UML
 
-O diagrama realizado para esse padrão de projeto pode ser encontrado no seguinte projeto do Lucidchart, que está incorporado com esta página da documentação. Para visualizar o adapter em si, acesse a página "Adapter EmailService". 
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="wYm6NmtE_Gvz"></iframe></div>
+<figcaption align='center'>
+    <b>Figura 1: Diagrama do padrão adapter para a funcionalidade de serviço de notificação de vendedores (Página "Adapter EmailService")</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
 
 ## Código 
 
@@ -49,4 +52,4 @@ Desse modo, foi possível realizar a diagramação e representação do código 
 
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
-|  0.1   | Adição de textos de introdução, UML e código | Gabriel Moretti |  -   | 11/06/2023 |
+|  0.1   | Adição de textos descritivos, UML e código | Gabriel Moretti |  -   | 11/06/2023 |

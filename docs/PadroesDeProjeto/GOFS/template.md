@@ -6,14 +6,13 @@
 
 &emsp;&emsp;O método template, possui a seguinte estrutura:
 
-<div style="display: center; align-items: center;">
-  <img src="/Assets/PadroesDeProjeto/EstruturaTemplate.png" alt="" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 1 : Estrutura Template Method
-    </h6>
-  </div>
-</div>
+![imagem 1](../../Assets/PadroesDeProjeto/EstruturaTemplate.png)
+
+<figcaption align='center'>
+    <b>Figura 1:
+     Estrutura do Template Method</b>
+    <br><small>Fonte: Mergulho nos padrões de projeto de Alexander Shvets</small>
+</figcaption> </center>
 
 ## Objetivo
 
@@ -45,16 +44,19 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## UML
 
-<div style="display: center; align-items: center;">
-  <img src="/Assets/PadroesDeProjeto/TemplateMethod.png" alt="" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 1 : Método template
-    </h6>
-  </div>
-</div>
+![imagem 1](../../Assets/PadroesDeProjeto/TemplateMethod.png)
+
+<figcaption align='center'>
+    <b>Figura 2:
+     Diagrama do template method para a compressão de arquivo</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
 
 ## Código
+
+&emsp;&emsp; O código referente a uma representação _toy_ do **Template Method** para comprimir conteúdo que será utilizado em nosso projeto pode ser encontrado no seguinte endereço web, como parte do menu de códigos _toy_ realizados para outros padrões do projeto:
+
+[Template Method](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/template)
 
 ## Gravação da reunião
 
@@ -73,4 +75,5 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 | :----: | :-----------------------------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   |                   Criando Introdução                    | João Henrique |    Gabriel    | 11/06 |
 |  1.1   | Adicionando Participantes, Metodologia, Objetivos e UML | João Henrique |    Gabriel    | 11/06 |
-|  1.2   | Adição da gravação e problemática | Gabriel |  -   | 11/06/2023 |
+|  1.2   |                   Adicionando código                    | João Henrique |    Gabriel    | 11/06 |
+|  1.3   | Adição da gravação e problemática | Gabriel |  -   | 11/06/2023 |

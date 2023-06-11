@@ -54,4 +54,4 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adição dos tópicos introdução, objetivo, participantes e metodologia | Leonardo Vitoriano  |  Gabriel  | 11/06/23  |
-|  1.1   | Adição do diagrama UML | Marcos Vinícius  |  Gabriel  | 11/06/23  |
+|  1.1   | Adição do diagrama UML e gravação da reunião | Marcos Vinícius  |  Gabriel  | 11/06/23  |

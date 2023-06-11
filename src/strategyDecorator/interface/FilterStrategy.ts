@@ -1,4 +1,5 @@
+import Avaliation from '../Avaliation.js';
+
 export default interface FilterStrategy {
-    filter(): string;
-  }
-  
+  filter(avaliations: Avaliation[]): Avaliation[];
+}

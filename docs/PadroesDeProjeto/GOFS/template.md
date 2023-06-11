@@ -7,7 +7,7 @@
 &emsp;&emsp;O método template, possui a seguinte estrutura:
 
 <div style="display: center; align-items: center;">
-  <img src="/Assets/PadroesDeProjeto/EstruturaTemplate.png" alt="" style="margin-right: 20px;"/>
+  <img src="../../Assets/PadroesDeProjeto/EstruturaTemplate.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Estrutura Template Method
@@ -37,7 +37,7 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 ## UML
 
 <div style="display: center; align-items: center;">
-  <img src="/Assets/PadroesDeProjeto/TemplateMethod.png" alt="" style="margin-right: 20px;"/>
+  <img src="../../Assets/PadroesDeProjeto/TemplateMethod.png" alt="" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Método template

@@ -1,15 +1,12 @@
 import inquirer from 'inquirer';
-import ContentDecoratorClient from './contentDecorator/ContentDecoratorClient.js';
-import TemplateClient from './template/TemplateClient.js';
-import AdapterClient from './adapter/AdapterClient.js';
+import { ExamplesFactory } from './ExamplesFactory.js';
 
-enum AvailableChoices {
+export enum AvailableChoices {
   TEMPLATE = 'template',
   OBSERVER = 'observer',
   DECORATOR = 'Decorator - Anexador de Conteúdo',
   ADAPTER = 'adapter',
 }
-
 export default class MainMenu {
   constructor() {
     this.run();
@@ -25,20 +22,8 @@ export default class MainMenu {
 
     console.clear();
 
-    switch (pick.mainMenu) {
-      case AvailableChoices.OBSERVER:
-        break;
-      case AvailableChoices.ADAPTER:
-        new AdapterClient();
-        break;
-      case AvailableChoices.TEMPLATE:
-        new TemplateClient();
-        break;
-      case AvailableChoices.DECORATOR:
-        new ContentDecoratorClient();
-        break;
-      default:
-        break;
-    }
+    const client = new ExamplesFactory(pick.mainMenu).createClient();
+
+    client.run();
   }
 }

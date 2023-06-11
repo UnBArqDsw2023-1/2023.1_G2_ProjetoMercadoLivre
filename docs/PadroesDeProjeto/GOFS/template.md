@@ -6,15 +6,13 @@
 
 &emsp;&emsp;O método template, possui a seguinte estrutura:
 
-<div style="display: center; align-items: center;">
-  <img src="../../Assets/PadroesDeProjeto/EstruturaTemplate.png" alt="" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
+![imagem 1](../../Assets/PadroesDeProjeto/EstruturaTemplate.png)
+
 <figcaption align='center'>
-    <b>Figura 2: Estrutura do Template Method</b>
-    <br><small>Fonte: Mergulho nos padrões de projeto de Alexander Shvets </small>
+    <b>Figura 1:
+     Estrutura do Template Method</b>
+    <br><small>Fonte: Mergulho nos padrões de projeto de Alexander Shvets</small>
 </figcaption> </center>
-  </div>
-</div>
 
 ## Objetivo
 
@@ -37,16 +35,13 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 
 ## UML
 
-<div style="display: center; align-items: center;">
-  <img src="../../Assets/PadroesDeProjeto/TemplateMethod.png" alt="" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
+![imagem 1](../../Assets/PadroesDeProjeto/TemplateMethod.png)
+
 <figcaption align='center'>
-    <b>Figura 2: Diagrama do template method para a compressão de arquivo</b>
+    <b>Figura 2:
+     Diagrama do template method para a compressão de arquivo</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
-
-  </div>
-</div>
 
 ## Código
 

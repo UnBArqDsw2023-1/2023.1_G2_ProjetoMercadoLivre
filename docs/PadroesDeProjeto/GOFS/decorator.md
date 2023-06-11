@@ -41,6 +41,8 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 
 ## Gravação da reunião
 
+- [Link da reunião](https://youtu.be/5hQll-8_Nlk)
+
 ## Conclusão
 
 ## Referências

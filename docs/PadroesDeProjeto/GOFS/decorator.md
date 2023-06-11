@@ -22,17 +22,26 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 1** qu
 
 A metodologia base utizada para a construção do artefato tem inspiração no *pair programming*, no qual existe um piloto, responsável por compartilhar a tela, modelar o diagrama de classes e escrever código, enquanto o co-piloto, analisa as ações piloto e expõe seus pontos de vista. O desenvolvimento do padrão de projeto *Decorator*, pela equipe, pode ser dividido em 3 etapas, sendo elas detalhadas a seguir:
 
-- 1. Um membro da equipe, que pensou em aplicar o Decorator na aplicação, estudou o padrão de projeto e explicou para a equipe a problemática abordada e a possível solução a ser utilizada. 
-- 2. b
-- 3. c
+- 1. Um membro da equipe, que pensou em aplicar o Decorator na aplicação, estudou o padrão de projeto e explicou para a equipe a problemática abordada e a possível solução a ser utilizada. Nessa etapa, o integrante apresentou a tela utilizando a ferramenta **Microsoft Teams** e utilizou os exemplos de [1] para facilitar a compreensão da equipe.
+- 2. Utilizando o **LucidChart**, a equipe focou em desenvolver a modelagem do Diagrama de Classes para o *Design Patter Decorator* no contexto de Anexar Arquivos. É importante destacar que nessa fase, a modelagem está a parte do [Diagrama de Classes principal](https://unbarqdsw2023-1.github.io/2023.1_G2_ProjetoMercadoLivre/#/Modelagem/Estaticos/classes) do fluxo de avaliação do produto.  
+- 3. A partir do Diagrama de Classes do Decorator finalizado, os integrantes avançaram para o desenvolvimento dos scripts na Linguagem **TypeScript**. Com o objetivo de facilitar a escrita do código fonte, foi utilizada a extensão da ferramenta **Visual Studio Code** chamada **Live Share**, que permite a equipe escrever o código paralelamente.  
 
 ## Problemática e Solução
 
 ## UML
 
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
+
+<figcaption align='center'>
+    <b>Figura 1: Diagrama do padrão decorator para a funcionalidade de anexar arquivo na avaliação</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
+
 ## Código 
 
 ## Gravação da reunião
+
+- [Link da reunião](https://youtu.be/5hQll-8_Nlk)
 
 ## Conclusão
 
@@ -45,3 +54,4 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adição dos tópicos introdução, objetivo, participantes e metodologia | Leonardo Vitoriano  |  -  | 11/06/23  |
+|  1.1   | Adição do diagrama UML | Marcos Vinícius  |  -  | 11/06/23  |

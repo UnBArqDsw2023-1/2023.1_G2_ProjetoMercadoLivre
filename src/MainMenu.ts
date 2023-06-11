@@ -6,6 +6,7 @@ export enum AvailableChoices {
   OBSERVER = 'observer',
   DECORATOR = 'Decorator - Anexador de Conteúdo',
   ADAPTER = 'adapter',
+  STRATEGYDECORATOR = 'Strategy e Decorator - Filtro de avaliação',
 }
 export default class MainMenu {
   constructor() {

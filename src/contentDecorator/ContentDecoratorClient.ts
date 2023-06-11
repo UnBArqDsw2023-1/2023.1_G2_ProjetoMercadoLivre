@@ -1,14 +1,13 @@
+import { injectable } from 'inversify';
+import { Client } from '../interfaces/Client.js';
 import { ConcreteAttachment } from './concrete/ConcreteAttachment.js';
 import JpegDecorator from './decorators/JpegDecorator.js';
 import Mp4Decorator from './decorators/Mp4Decorator.js';
 import PngDecorator from './decorators/PngDecorator.js';
 import Attachment from './interface/Attachment.js';
 
-export default class ContentDecoratorClient {
-  constructor() {
-    this.run();
-  }
-
+@injectable()
+export default class ContentDecoratorClient implements Client {
   clientCode(component: Attachment): void {
     console.log(`RESULTADO: ${component.attach()}`);
   }

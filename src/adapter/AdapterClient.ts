@@ -1,12 +1,11 @@
+import { injectable } from 'inversify';
+import { Client } from '../interfaces/Client.js';
 import EmailAdapter from './EmailAdapter.js';
 import EmailServiceImpl from './EmailService.js';
 import EmailUseCase from './EmailUseCase.js';
 
-export default class AdapterClient {
-  constructor() {
-    this.run();
-  }
-
+@injectable()
+export default class AdapterClient implements Client {
   clientCode = () => {
     const emailService = new EmailServiceImpl();
 

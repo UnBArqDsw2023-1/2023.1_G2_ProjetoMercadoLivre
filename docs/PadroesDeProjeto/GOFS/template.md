@@ -47,6 +47,10 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 
 ## Código
 
+&emsp;&emsp; O código referente a uma representação _toy_ do **Template Method** para comprimir conteúdo que será utilizado em nosso projeto pode ser encontrado no seguinte endereço web, como parte do menu de códigos _toy_ realizados para outros padrões do projeto:
+
+[Template Method](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/template)
+
 ## Gravação da reunião
 
 ## Conclusão
@@ -62,3 +66,4 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 | :----: | :-----------------------------------------------------: | :-----------: | :-----: | :---: |
 |  1.0   |                   Criando Introdução                    | João Henrique |    -    | 11/06 |
 |  1.1   | Adicionando Participantes, Metodologia, Objetivos e UML | João Henrique |    -    | 11/06 |
+|  1.2   |                   Adicionando código                    | João Henrique |    -    | 11/06 |

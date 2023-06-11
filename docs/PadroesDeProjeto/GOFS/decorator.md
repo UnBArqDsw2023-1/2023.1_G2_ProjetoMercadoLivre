@@ -30,6 +30,13 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 
 ## UML
 
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
+
+<figcaption align='center'>
+    <b>Figura 1: Diagrama do padrão decorator para a funcionalidade de anexar arquivo na avaliação</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
+
 ## Código 
 
 ## Gravação da reunião
@@ -45,3 +52,4 @@ A metodologia base utizada para a construção do artefato tem inspiração no *
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adição dos tópicos introdução, objetivo, participantes e metodologia | Leonardo Vitoriano  |  -  | 11/06/23  |
+|  1.1   | Adição do diagrama UML | Marcos Vinícius  |  -  | 11/06/23  |

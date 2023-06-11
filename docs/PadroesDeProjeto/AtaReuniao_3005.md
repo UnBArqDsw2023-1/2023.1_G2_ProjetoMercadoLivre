@@ -58,7 +58,7 @@ Contudo, como parte da decisão de todos os integrantes, a equipe planejou, inic
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | - | 30/05 |
+| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | Adne Moretti | 30/05 |
 
 
 

@@ -58,7 +58,7 @@ Dessa forma, a Tabela 1 ilustra os grupos (criados na [primeira reunião](AtaReu
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | - | 05/06 |
+| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | Adne Moretti | 05/06 |
 
 
 

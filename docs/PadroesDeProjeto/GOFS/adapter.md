@@ -2,7 +2,7 @@
 
 ## Introdução
 
-É um padrão estrutural que permite que objetos com interfaces incompatíveis possam trabalhar juntos. Ele age como um intermediário entre duas classes, convertendo a interface de uma classe em outra interface esperada pelo cliente.
+Segundo [1], o padrão de projeto 'Adapter' é um padrão estrutural que permite que objetos com interfaces incompatíveis possam trabalhar juntos. Ele age como um intermediário entre duas classes, convertendo a interface de uma classe em outra interface esperada pelo cliente.
 
 Em nosso projeto, o adapter foi utilizado para adaptar um serviço de email para a notificação do vendedor no site Mercado Livre.
 
@@ -19,13 +19,14 @@ O Adapter resolve o problema quando uma classe existente possui uma interface qu
 
 ## Metodologia
 
-A metodologia base utizada para a construção do artefato tem inspiração no *pair programming*, no qual existe um piloto, responsável por compartilhar a tela, modelar o diagrama de classes e escrever código, enquanto o co-piloto, analisa as ações piloto e expõe seus pontos de vista.
+&emsp;&emsp; Para se construir o artefato, utilizamos a metodologia de nos reunir via Discord e via Teams, com os integrantes do grupo, com alguém compartilhando a tela, e todos discutindo sobre como ficaria o artefato utilizando o _Adapter_. Com isso, fizemos um diagrama de classes para esse método, e após isso, o implementamos em código.
 
 ## Problemática e Solução
 
 ## UML
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
+
 
 <figcaption align='center'>
     <b>Figura 1: Diagrama do padrão adapter para a funcionalidade de serviço de notificação de vendedores (Página "Adapter EmailService")</b>
@@ -40,7 +41,7 @@ O código referente a uma representação _toy_ do adapter que será utilizado e
 
 ## Gravação da reunião
 
-[]()
+[Link da Reunião](https://www.youtube.com/watch?v=wuYSZUKnArc)
 
 ## Conclusão
 
@@ -48,8 +49,11 @@ Desse modo, foi possível realizar a diagramação e representação do código 
 
 ## Referências
 
+- [1] https://refactoring.guru/pt-br/design-patterns/adapter
+
 ## Versionamento
 
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
-|  0.1   | Adição de textos descritivos, UML e código | Gabriel Moretti |  -   | 11/06/2023 |
+|  1.0   | Adição de textos descritivos, UML e código | Gabriel Moretti |  -   | 11/06/2023 |
+|  1.1   | Adição de referências, gravação e refatorações | Gabriel Moretti |  -   | 11/06/2023 |

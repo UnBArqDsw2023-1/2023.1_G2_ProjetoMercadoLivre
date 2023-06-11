@@ -33,19 +33,18 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 
 ## Problemática e Solução
 
-A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de compressão de arquivos para sua persistência no banco de dados da aplicação, que seria derivada do anexo de arquivos em um comentário da avaliação. 
+A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de compressão de arquivos para sua persistência no banco de dados da aplicação, que seria derivada do anexo de arquivos em um comentário da avaliação.
 
-Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de compressão, sendo elas: 
+Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de compressão, sendo elas:
 
-- Imagem: onde a imagem é comprimida utilizando, possivelmente, uma aplicação do código de Huffman, e logo após é validada para verificar a existência de dados maléficos e, finalmente, salva no banco; 
+- Imagem: onde a imagem é comprimida utilizando, possivelmente, uma aplicação do código de Huffman, e logo após é validada para verificar a existência de dados maléficos e, finalmente, salva no banco;
 - Vídeo: de modo parecido à compressão de imagens, mas com sua etapa de compressão e validação alteradas para possibilitar a compressão de cada frame do vídeo;
 
 A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Template Method para realizar a alteração de apenas duas das etapas de upload do arquivo ao banco de dados: compressão e validação.
 
 ## UML
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
-
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="3Lp6kf31onvP"></iframe></div>
 
 <figcaption align='center'>
     <b>Figura 1: Diagrama do padrão template para a funcionalidade de compressão de arquivo (Página "TemplateMethod Compress")</b>
@@ -64,6 +63,8 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## Conclusão
 
+&emsp;&emsp;Desse modo, foi possível realizar a diagramação e representação do código desse artefato, que fará parte do sistema de avaliações do Mercado Livre por meio da compressão do arquivo.
+
 ## Referências
 
 - [1] Mergulho nos padrões de projeto de Alexander Shvets
@@ -71,9 +72,10 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## Versionamento
 
-| Versão |                        Alteração                        |  Responsável  | Revisor | Data  |
-| :----: | :-----------------------------------------------------: | :-----------: | :-----: | :---: |
-|  1.0   |                   Criando Introdução                    | João Henrique |    Gabriel    | 11/06 |
-|  1.1   | Adicionando Participantes, Metodologia, Objetivos e UML | João Henrique |    Gabriel    | 11/06 |
-|  1.2   |                   Adicionando código                    | João Henrique |    Gabriel    | 11/06 |
-|  1.3   | Adição da gravação e problemática, refatoração do UML | Gabriel |  -   | 11/06/2023 |
+| Versão |                        Alteração                        |  Responsável  |    Revisor    |    Data    |
+| :----: | :-----------------------------------------------------: | :-----------: | :-----------: | :--------: |
+|  1.0   |                   Criando Introdução                    | João Henrique |    Gabriel    |   11/06    |
+|  1.1   | Adicionando Participantes, Metodologia, Objetivos e UML | João Henrique |    Gabriel    |   11/06    |
+|  1.2   |                   Adicionando código                    | João Henrique |    Gabriel    |   11/06    |
+|  1.3   |  Adição da gravação e problemática, refatoração do UML  |    Gabriel    | João Henrique | 11/06/2023 |
+|  1.4   |                   Adição da Conclusão                   | João Henrique |    Gabriel    | 11/06/2023 |

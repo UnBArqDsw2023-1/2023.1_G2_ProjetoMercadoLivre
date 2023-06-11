@@ -4,6 +4,16 @@
 
 Segundo [1], o padrão de projeto 'Adapter' é um padrão estrutural que permite que objetos com interfaces incompatíveis possam trabalhar juntos. Ele age como um intermediário entre duas classes, convertendo a interface de uma classe em outra interface esperada pelo cliente.
 
+O método adapter possui a seguinte estrutura:
+
+![imagem 1](../../Assets/PadroesDeProjeto/EstruturaAdapter.png)
+
+<center> <figcaption>
+    <b>Figura 1:
+     Estrutura do Adapter</b>
+    <br><small>Fonte: Refactoring.Guru</small>
+</figcaption> </center>
+
 Em nosso projeto, o adapter foi utilizado para adaptar um serviço de email para a notificação do vendedor no site Mercado Livre.
 
 ## Objetivo
@@ -28,8 +38,8 @@ O Adapter resolve o problema quando uma classe existente possui uma interface qu
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
 
 
-<figcaption align='center'>
-    <b>Figura 1: Diagrama do padrão adapter para a funcionalidade de serviço de notificação de vendedores (Página "Adapter EmailService")</b>
+<center> <figcaption>
+    <b>Figura 2: Diagrama do padrão adapter para a funcionalidade de serviço de notificação de vendedores (Página "Adapter EmailService")</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 

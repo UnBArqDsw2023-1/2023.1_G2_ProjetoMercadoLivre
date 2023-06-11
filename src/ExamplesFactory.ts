@@ -1,7 +1,7 @@
 import 'reflect-metadata';
 import { AvailableChoices } from './MainMenu.js';
 import { Client } from './interfaces/Client.js';
-import { container } from './index.js';
+import { container } from './container.js';
 
 export const ClientsToken = Symbol.for('ClientsToken');
 

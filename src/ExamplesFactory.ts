@@ -6,11 +6,12 @@ import { container } from './container.js';
 export const ClientsToken = Symbol.for('ClientsToken');
 
 export class ExamplesFactory {
+  private readonly client: Client;
   public constructor(private readonly type: AvailableChoices) {
-    this.type = type;
+    this.client = container.getNamed<Client>(ClientsToken, type);
   }
 
   public createClient(): Client {
-    return container.getNamed<Client>(ClientsToken, this.type);
+    return this.client;
   }
 }

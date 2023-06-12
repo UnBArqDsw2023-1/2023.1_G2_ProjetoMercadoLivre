@@ -20,7 +20,7 @@
 
 ## Participantes
 
-Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** que participaram foram:
+&emsp;&emsp; Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** que participaram foram:
 
 - Christian Fleury Alencar Siqueira
 - Gabriel Moretti de Souza
@@ -33,14 +33,14 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 
 ## Problemática e Solução
 
-A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de compressão de arquivos para sua persistência no banco de dados da aplicação, que seria derivada do anexo de arquivos em um comentário da avaliação.
+&emsp;&emsp; A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de compressão de arquivos para sua persistência no banco de dados da aplicação, que seria derivada do anexo de arquivos em um comentário da avaliação.
 
-Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de compressão, sendo elas:
+&emsp;&emsp; Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de compressão, sendo elas:
 
 - Imagem: onde a imagem é comprimida utilizando, possivelmente, uma aplicação do código de Huffman, e logo após é validada para verificar a existência de dados maléficos e, finalmente, salva no banco;
 - Vídeo: de modo parecido à compressão de imagens, mas com sua etapa de compressão e validação alteradas para possibilitar a compressão de cada frame do vídeo;
 
-A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Template Method para realizar a alteração de apenas duas das etapas de upload do arquivo ao banco de dados: compressão e validação.
+&emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Template Method para realizar a alteração de apenas duas das etapas de upload do arquivo ao banco de dados: compressão e validação.
 
 ## UML
 
@@ -59,11 +59,13 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## Gravação da reunião
 
+A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  
+
 [Link da Reunião](https://www.youtube.com/watch?v=wuYSZUKnArc)
 
 ## Conclusão
 
-&emsp;&emsp;Desse modo, foi possível realizar a diagramação e representação do código desse artefato, que fará parte do sistema de avaliações do Mercado Livre por meio da compressão do arquivo.
+&emsp;&emsp; Desse modo, foi possível realizar a diagramação e representação do código desse artefato, que fará parte do sistema de avaliações do Mercado Livre por meio da compressão do arquivo.
 
 ## Referências
 

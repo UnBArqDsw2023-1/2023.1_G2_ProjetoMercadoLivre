@@ -23,7 +23,7 @@
 
 ## Metodologia
 
-A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pelo grupo 1, que foi sorteado pelo grupo para que todos pudessem participar da elaboração de diferentes tipos de padrões de projeto. O desenvolvimento aconteceu da seguinte forma: 
+&emsp;&emsp; A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pelo grupo 1, que foi sorteado pelo grupo para que todos pudessem participar da elaboração de diferentes tipos de padrões de projeto. O desenvolvimento aconteceu da seguinte forma: 
 
 1. Um dos membros, que previamente havia concebido e elaborado uma solução potencial para o problema, compartilhou sua ideia, proporcionando uma oportunidade para que os demais membros discutissem tanto a solução quanto o problema em questão. Nesse momento, o membro compartilhou a sua tela na ferramenta **Microsoft Teams**.
 
@@ -47,14 +47,24 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
     - 2 estrelas;
     - 1 estrela;
 
+
 &emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estratégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
+
+![strategy-decorator](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/64036847/1825d8c3-ddf4-4170-a1c2-a0076e80a713)
+
+<figcaption align='center'>
+    <b>Figura 1: Página de filtro de avaliação do Mercado Livre</b>
+    <br><small>Fonte: Mercado Livre</small>
+</figcaption> </center>
+
+&emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estretégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
 
 ## UML
 
-![image](https://lucid.app/publicSegments/view/237a8ddc-5a23-429f-8edc-1878b26c97e8/image.png)
+![DecoratorParaAnexarConteudo - StrategyDecorator](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/64036847/0f4b571b-0692-4634-bdd8-b70bbfacaa0f)
 
 <figcaption align='center'>
-    <b>Figura 1: Diagrama do padrão Strategy e Decorator para a funcionalidade de filtrar avaliações dos produtos</b>
+    <b>Figura 2: Diagrama do padrão Strategy e Decorator para a funcionalidade de filtrar avaliações dos produtos</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
@@ -63,6 +73,8 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
 &emsp;&emsp; Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/strategyDecorator).
 
 ## Gravação da reunião
+
+A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  
 
 - [Link da reunião](https://youtu.be/8tbrdL8N8gg)
 

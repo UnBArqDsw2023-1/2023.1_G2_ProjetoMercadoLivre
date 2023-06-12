@@ -2,7 +2,7 @@
 
 ## 1. Data, Horário, Duração e Local
 
-As informações sobre data, horário, duração e local da reunião estão detalhadas a seguir:
+&emsp;&emsp; As informações sobre data, horário, duração e local da reunião estão detalhadas a seguir:
 - **Data**: 30/05/2023
 - **Horário Início**: 20:20.
 - **Duração**: 50 minutos.
@@ -10,7 +10,7 @@ As informações sobre data, horário, duração e local da reunião estão deta
 
 ## 2. Participantes
 
-Na reunião, **todos** os integrantes do grupo participaram, sendo então os presentes:
+&emsp;&emsp; Na reunião, **todos** os integrantes do grupo participaram, sendo então os presentes:
 
 - Adne Moretti Moreira
 - Arthur José Nascimento de Lima
@@ -26,7 +26,7 @@ Na reunião, **todos** os integrantes do grupo participaram, sendo então os pre
 
 ## 3. Pontos de Discussão Importantes
 
-O principal motivo da reunião foi para que o grupo debatesse sobre as **Diretrizes da Próxima Entrega** (12/06/23), sobre **Padrões de Projeto**, que definem como **entrega mínima**:
+&emsp;&emsp; O principal motivo da reunião foi para que o grupo debatesse sobre as **Diretrizes da Próxima Entrega** (12/06/23), sobre **Padrões de Projeto**, que definem como **entrega mínima**:
 
 
 - 1 Padrão GRASP, com nível de modelagem e nível de
@@ -38,14 +38,14 @@ implementação evidenciados.
 
 ## 4. Decisões
 
-Contudo, como parte da decisão de todos os integrantes, a equipe planejou, inicialmente, o desenvolvimento de **5 artefatos**, os quais são:
+&emsp;&emsp; Contudo, como parte da decisão de todos os integrantes, a equipe planejou, inicialmente, o desenvolvimento de **5 artefatos**, os quais são:
 
 - 1 Padrão GRASP ( a ser decidido )
 - 3 Padrões GoF (Adapter, Factory, Mediator); e
 - 1 Padrão Extra ( a ser decidido )
 
 
-É importante destacar que para a implementação dos artefatos, a equipe foi divida em **2 grupos** (1 grupo com 5 pessoas e outro com 6). Os grupos, integrantes e os respectivos artefatos para serem realizados, podem ser encontrados na Tabela 1:
+&emsp;&emsp; É importante destacar que para a implementação dos artefatos, a equipe foi divida em **2 grupos** (1 grupo com 5 pessoas e outro com 6). Os grupos, integrantes e os respectivos artefatos para serem realizados, podem ser encontrados na Tabela 1:
 
 | Grupo | Integrantes | Artefatos |
 | - | - | - |

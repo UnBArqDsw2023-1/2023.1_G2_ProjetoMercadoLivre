@@ -2,15 +2,15 @@
 
 ## Introdução
 
-O strategy é um padrão de projeto comportamental que permite o desenvolvimento de diferentes algoritmos, que ficam em classes separadas. Esse padrão pode ser utilizado quando uma classe faz algo específico de várias maneiras diferentes. 
+&emsp;&emsp; O strategy é um padrão de projeto comportamental que permite o desenvolvimento de diferentes algoritmos, que ficam em classes separadas. Esse padrão pode ser utilizado quando uma classe faz algo específico de várias maneiras diferentes. 
 
-O Strategy pode ser facilmente combinado com o Decorator, e é uma implementação comumente utilizada. Isso acontece, pois, assim como dito anteriormente, o Strategy é utilizado para definir algoritmos  encapsulados em diferentes classes em que os algoritmos sejam intercambiáveis. Já o decorator, utilizado para acrescentar comportamentos a objetos, sem que a base seja alterada. 
+&emsp;&emsp; O Strategy pode ser facilmente combinado com o Decorator, e é uma implementação comumente utilizada. Isso acontece, pois, assim como dito anteriormente, o Strategy é utilizado para definir algoritmos  encapsulados em diferentes classes em que os algoritmos sejam intercambiáveis. Já o decorator, utilizado para acrescentar comportamentos a objetos, sem que a base seja alterada. 
 
-Sendo assim, é possível combinar esses padrões, o Strategy para definir diferentes estratégias ou algoritmos e o Decorator para adicionar comportamentos adicionais a essas estratégias. Podemos envolver a classe Strategy com uma classe Decorator, adicionando assim funcionalidades extras ao comportamento da estratégia.
+&emsp;&emsp; Sendo assim, é possível combinar esses padrões, o Strategy para definir diferentes estratégias ou algoritmos e o Decorator para adicionar comportamentos adicionais a essas estratégias. Podemos envolver a classe Strategy com uma classe Decorator, adicionando assim funcionalidades extras ao comportamento da estratégia.
 
 ## Objetivo
 
-Essa combinação permite uma maior modularização do sistema, em que diferentes estratégias possam estar combinadas com diferentes comportamentos dinâmicos através do uso de decoradores. Facilita na adição de novas estretégias para a funcionalidade e novos comportamentos para cada estratégia. 
+&emsp;&emsp; Essa combinação efetua uma maximização da modularização do sistema, possibilitando a união de diversas estratégias com variados comportamentos dinâmicos por meio da aplicação de decoradores. Isso simplifica a inclusão de novas estratégias para a funcionalidade e a incorporação de novos comportamentos para cada estratégia. 
 
 ## Participantes
 
@@ -33,9 +33,9 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
 
 ## Problemática e Solução
 
-A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de filtrar avaliações dos produtos. A funcionalidade está presente ao visualizar um produto e suas "opiniões", assim como mostra a imagem 1. 
+&emsp;&emsp; A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de filtrar avaliações dos produtos. A funcionalidade está presente ao visualizar um produto e suas "opiniões", assim como mostra a imagem 1. 
 
-Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de filtro, sendo elas: 
+&emsp;&emsp; Ao observar a funcionalidade no sistema em questão foi possível elencar as diferentes possibilidades de filtro, sendo elas: 
 
 - Ordenação: 
     - Mais úteis: Seriam as avaliações com maior quantidade de votos; 
@@ -47,7 +47,7 @@ Ao observar a funcionalidade no sistema em questão foi possível elencar as dif
     - 2 estrelas;
     - 1 estrela;
 
-A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estretégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
+&emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estretégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
 
 ## UML
 
@@ -60,19 +60,21 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## Código
 
-Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/strategyDecorator).
+&emsp;&emsp; Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/strategyDecorator).
 
 ## Gravação da reunião
 
+- [Link da reunião](https://youtu.be/8tbrdL8N8gg)
+
 ## Conclusão
 
-Após uma análise mais aprofundada, podemos concluir que, embora haja algum código duplicado devido à similaridade das lógicas do Decorator, aplicamos dois princípios importantes em áreas específicas. O primeiro princípio é o da Responsabilidade Única, que nos permite separar as duas lógicas envolvidas no problema: ordenação e filtragem. Ao fazer essa separação, conseguimos obter uma estrutura mais modular e facilitar a manutenção do código. Isso significa que, se precisarmos modificar ou corrigir uma dessas lógicas, podemos fazê-lo de forma isolada, sem afetar as outras partes do código.
+&emsp;&emsp; Após uma análise mais aprofundada, podemos concluir que, embora haja algum código duplicado devido à similaridade das lógicas do Decorator, aplicamos dois princípios importantes em áreas específicas. O primeiro princípio é o da Responsabilidade Única, que nos permite separar as duas lógicas envolvidas no problema: ordenação e filtragem. Ao fazer essa separação, conseguimos obter uma estrutura mais modular e facilitar a manutenção do código. Isso significa que, se precisarmos modificar ou corrigir uma dessas lógicas, podemos fazê-lo de forma isolada, sem afetar as outras partes do código.
 
-Além disso, o princípio do Aberto/Fechado está presente nessa abordagem. Isso significa que o código está aberto para extensões, permitindo que novas funcionalidades sejam adicionadas sem modificar o código existente. Ao invés de alterar diretamente a lógica existente, podemos criar uma nova classe concreta que implementa a nova funcionalidade. Essa nova classe pode ser facilmente substituída pela anterior, tornando o código flexível e adaptável a mudanças futuras. Dessa forma, o código se torna mais robusto e reutilizável, facilitando a evolução e manutenção do sistema como um todo.
+&emsp;&emsp; Além disso, o princípio do Aberto/Fechado está presente nessa abordagem. Isso significa que o código está aberto para extensões, permitindo que novas funcionalidades sejam adicionadas sem modificar o código existente. Ao invés de alterar diretamente a lógica existente, podemos criar uma nova classe concreta que implementa a nova funcionalidade. Essa nova classe pode ser facilmente substituída pela anterior, tornando o código flexível e adaptável a mudanças futuras. Dessa forma, o código se torna mais robusto e reutilizável, facilitando a evolução e manutenção do sistema como um todo.
 
 ## Referências
 
-https://refactoring.guru/design-patterns/strategy
+- https://refactoring.guru/design-patterns/strategy
 
 ## Versionamento
 
@@ -80,3 +82,4 @@ https://refactoring.guru/design-patterns/strategy
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adicionando participantes, metodologia | Adne Moretti |   Leonardo Milomes e Arthur | 11/06/23  |
 |  1.1   | Adicionando conclusão , código e UML  | Arthur José |  Cícero Barroso  | 11/06/23  |
+|  1.2   | Adicionando gravação da reunião  | Marcos Vinícius |  Cícero Barroso  | 11/06/23  |

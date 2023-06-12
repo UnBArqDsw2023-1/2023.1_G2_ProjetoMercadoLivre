@@ -46,6 +46,8 @@
       - [3.2.4 Template Method](/PadroesDeProjeto/GOFS/template.md)
     - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/Extra/3.3.PadroesExtra.md)    
       - [3.3.1 Injeção de Dependências](/PadroesDeProjeto/Extra/3.3.1.InjecaoDeDependencias.md)
+      - [3.3.1 Factory](/PadroesDeProjeto/Extra/3.3.2.Factory.md)
+
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
 <!-- - **Arquitetura de Software & Reutilização**

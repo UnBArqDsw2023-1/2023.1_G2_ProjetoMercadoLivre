@@ -59,6 +59,7 @@
 &emsp;&emsp; Em conclusão, o uso do padrão Decorator nos proporcionou uma solução eficiente para lidar com diferentes tipos de anexos em nosso fluxo de avaliação no Mercado Livre. Reconhecemos a importância de lidar com diversos formatos, como JPG, PNG, MP4 e outros, e compreendemos que apenas a herança não seria suficiente para abordar essa complexidade. Ao adotar o padrão Decorator, pudemos separar as responsabilidades de forma clara e seguir o princípio da Responsabilidade Única. Isso nos permitiu ter vários Decorators Concretos para lidar com as diferentes formas de anexação, além de adicionar funcionalidades extras de forma dinâmica sem alterar a estrutura existente.
 
 &emsp;&emsp; Além disso, foi um importante aprendizado, principalmente em como uma discussão sobre a implementação de um padrão para resolver um problema existente pode ser muito complexa e demandar muitas horas de debate. Mesmo que a ideia esteja bem consolidada entre os membros, surgem dúvidas durante a diagramação e/ou na parte de codificação. Portanto, é importante a participação de mais pessoas como co-pilotos ao inserir um novo padrão de projeto.
+
 ## Referências
 
 - [1] https://refactoring.guru/pt-br/design-patterns/decorator

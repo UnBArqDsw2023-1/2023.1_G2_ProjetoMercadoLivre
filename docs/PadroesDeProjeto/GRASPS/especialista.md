@@ -33,14 +33,15 @@
     <b>Figura 1:
      Primeiro exemplo de especialista</b>
 </figcaption> </center>
-
+<!-- 
 ![Exemplo de especialista](../../Assets/PadroesDeProjeto/especialista2.png)
+-->
 
-<center>
+<!-- <center>
 <figcaption>
     <b>Figura 2:
      Segundo exemplo de especialista</b>
-</figcaption> </center>
+</figcaption> </center> -->
 
 
 ## Conclusão

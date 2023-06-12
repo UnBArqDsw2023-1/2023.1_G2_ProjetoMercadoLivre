@@ -41,7 +41,7 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## UML
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
+<div style="width: 640px; margin: 10px; position: relative;"><image style="width:640px;" src="https://lucid.app/publicSegments/view/cadea9b2-6cc3-4e64-a85b-6f859e8c4042/image.png"/></div>
 
 
 <center> <figcaption>

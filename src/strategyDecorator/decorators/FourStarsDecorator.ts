@@ -1,7 +1,7 @@
 import Avaliation from '../Avaliation';
 import BaseQualificationDecorator from '../baseDecorator/BaseQualificationDecorator.js';
 
-export default class FiveStarsDecorator extends BaseQualificationDecorator {
+export default class FourStarsDecorator extends BaseQualificationDecorator {
   filter(): Avaliation[] {
     const avaliations = super
       .filter()

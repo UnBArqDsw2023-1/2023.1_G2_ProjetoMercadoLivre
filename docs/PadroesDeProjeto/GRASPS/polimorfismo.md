@@ -47,6 +47,83 @@ Segundo [1], no contexto do GRASP, o polimorfismo é aplicado para atribuir resp
      Segundo exemplo de polimorfismo</b>
 </figcaption> </center>
 
+&emsp;&emsp; Também é possível visualizar esse polimorfismo a nível de código, sendo as figuras 3 - 6 referente ao polimorfismo no decorator de anexador de conteúdo e as figuras 7 - 9 referente ao polimorfismo no template method.
+
+### POLIMORFISMO DECORATOR
+![Exemplo de polimorfismo no código Decorator](../../Assets/PadroesDeProjeto/baseDecoratorContent.png)
+
+<center>
+<figcaption>
+    <b>Figura 3:
+     Exemplo de código polimorfismo Decorator</b>
+</figcaption> </center>
+
+<br>
+
+![Exemplo de polimorfismo no código Decorator PNG](../../Assets/PadroesDeProjeto/PngDecorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 4:
+     Exemplo de código polimorfismo Decorator PNG</b>
+</figcaption> </center>
+
+<br>
+
+![Exemplo de polimorfismo no código Decorator MP4](../../Assets/PadroesDeProjeto/Mp4Decorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 5:
+     Exemplo de código polimorfismo Decorator MP4</b>
+</figcaption> </center>
+
+<br>
+
+![Exemplo de polimorfismo no código Decorator JPEG](../../Assets/PadroesDeProjeto/jpegDecorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 6:
+     Exemplo de código polimorfismo Decorator JPEG</b>
+</figcaption> </center>
+
+<br>
+
+### POLIMORFISMO TEMPLATE METHOD
+
+![Exemplo de polimorfismo no código Template method](../../Assets/PadroesDeProjeto/AttachmentTemplate.png)
+
+<center>
+<figcaption>
+    <b>Figura 7:
+     Exemplo de código polimorfismo Template method</b>
+</figcaption> </center>
+
+<br>
+
+
+![Exemplo de polimorfismo no código Template method Video](../../Assets/PadroesDeProjeto/VideoTemplate.png)
+
+<center>
+<figcaption>
+    <b>Figura 8:
+     Exemplo de código polimorfismo Template method Video</b>
+</figcaption> </center>
+
+<br>
+
+
+![Exemplo de polimorfismo no código Template method Imagem](../../Assets/PadroesDeProjeto/Imagetemplate.png)
+
+<center>
+<figcaption>
+    <b>Figura 9:
+     Exemplo de código polimorfismo Template method Imagem</b>
+</figcaption> </center>
+
+<br>
+
 ## Conclusão
 
 &emsp;&emsp; Através do uso do polimorfismo, conseguimos aplicar um dos princípios do GRASP (General Responsibility Assignment Software Patterns), que é atribuir responsabilidades apropriadas aos objetos. O polimorfismo nos permite tratar objetos de diferentes classes de forma polimórfica, o que nos proporciona flexibilidade e reutilização de código.

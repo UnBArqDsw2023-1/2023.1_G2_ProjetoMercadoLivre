@@ -24,7 +24,7 @@
 
 ## Resultado
 
-&emsp;&emsp;
+&emsp;&emsp; O especialista foi encontrado no decorator em que seriam admitidos para cada decorator concreto, uma atividade específica, no caso, filtrar por uma determinada quantidade de estrelas.
 
 ![Exemplo de especialista](../../Assets/PadroesDeProjeto/especialista.png)
 
@@ -33,20 +33,44 @@
     <b>Figura 1:
      Primeiro exemplo de especialista</b>
 </figcaption> </center>
-<!-- 
-![Exemplo de especialista](../../Assets/PadroesDeProjeto/especialista2.png)
--->
 
-<!-- <center>
+É possível visualizar a solução pela lógica do código também, onde o BaseQualificationDecorator delega funções para as classes de cada nível de estrela.
+
+![BaseQualificationDecorator](../../Assets/PadroesDeProjeto/BaseDecoratorQualification.png)
+
+<center>
 <figcaption>
     <b>Figura 2:
-     Segundo exemplo de especialista</b>
-</figcaption> </center> -->
+     O Decorator base que irá delegar as especialidades</b>
+</figcaption> </center>
 
+![FourStarDecorator](../../Assets/PadroesDeProjeto/FourStarDecorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 3:
+     Classe de filtro 4 estrelas fazendo sua especialidade</b>
+</figcaption> </center>
+
+![FiveStarDecorator](../../Assets/PadroesDeProjeto/FiveStartDecorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 4:
+     Classe de filtro 5 estrelas fazendo sua especialidade</b>
+</figcaption> </center>
+
+![ThreeStartDecorator](../../Assets/PadroesDeProjeto/ThreeStarDecorator.png)
+
+<center>
+<figcaption>
+    <b>Figura 5:
+     Classe de filtro 3 estrelas fazendo sua especialidade</b>
+</figcaption> </center>
 
 ## Conclusão
 
-&emsp;&emsp; Através do uso do polimorfismo, conseguimos aplicar um dos princípios do GRASP (General Responsibility Assignment Software Patterns), que é atribuir responsabilidades apropriadas aos objetos. O polimorfismo nos permite tratar objetos de diferentes classes de forma polimórfica, o que nos proporciona flexibilidade e reutilização de código.
+&emsp;&emsp; Através do uso do polimorfismo das classes, é possível aferir também o padrão GRASP especialista, onde as classes que herdaram os métodos acabaram se mostrando especialistas a certo ponto, no caso em questão, cada classe tinha a especialidade de fazer o filtro por uma quantidade de estrelas específica.
 
 ## Referências
 

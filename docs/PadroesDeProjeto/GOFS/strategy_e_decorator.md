@@ -23,7 +23,7 @@
 
 ## Metodologia
 
-A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pelo grupo 1, que foi sorteado pelo grupo para que todos pudessem participar da elaboração de diferentes tipos de padrões de projeto. O desenvolvimento aconteceu da seguinte forma: 
+&emsp;&emsp; A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pelo grupo 1, que foi sorteado pelo grupo para que todos pudessem participar da elaboração de diferentes tipos de padrões de projeto. O desenvolvimento aconteceu da seguinte forma: 
 
 1. Um dos membros, que previamente havia concebido e elaborado uma solução potencial para o problema, compartilhou sua ideia, proporcionando uma oportunidade para que os demais membros discutissem tanto a solução quanto o problema em questão. Nesse momento, o membro compartilhou a sua tela na ferramenta **Microsoft Teams**.
 

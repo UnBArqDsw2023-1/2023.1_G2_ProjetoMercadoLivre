@@ -34,7 +34,7 @@
 
 &emsp;&emsp; Cada Decorator tem a responsabilidade única de adicionar uma funcionalidade específica ao anexo, tornando o código mais legível e evitando a duplicação de código em diferentes partes do sistema. 
 
-&emsp;&emsp; Concluido esse tópico ao utilizar o padrão Decorator, estamos adotando uma abordagem robusta e escalável para lidar com os anexos no nosso fluxo de avaliação no Mercado Livre, garantindo flexibilidade, extensibilidade e manutenibilidade do código.
+&emsp;&emsp; Ao finalizar essa seção específica e optar por aplicar o padrão Decorator, estamos adotando uma abordagem extremamente sólida e altamente escalável para gerenciar os anexos dentro do fluxo de avaliação no Mercado Livre. Essa escolha estratégica proporciona um nível excepcional de flexibilidade, extensibilidade e manutenibilidade ao código. Com essa implementação, garantimos que o sistema esteja preparado para enfrentar futuras mudanças e demandas, possibilitando um desenvolvimento contínuo e eficaz sem comprometer a integridade do código existente. Em suma, essa abordagem nos permite criar um sistema poderoso e adaptável, que atenda às necessidades do mercado em constante evolução.
 
 ## UML
 

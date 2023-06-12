@@ -39,7 +39,7 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
 
 - Ordenação: 
     - Mais úteis: Seriam as avaliações com maior quantidade de votos; 
-    - Mais recentes: Ordenadas de forma dcrescente do momento de criação; 
+    - Mais recentes: Ordenadas de forma decrescente do momento de criação; 
 - Qualificação: 
     - 5 estrelas;
     - 4 estrelas;
@@ -47,7 +47,7 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
     - 2 estrelas;
     - 1 estrela;
 
-&emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estretégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
+&emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estratégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
 
 ## UML
 

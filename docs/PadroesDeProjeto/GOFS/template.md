@@ -57,6 +57,27 @@
 
 [Template Method](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/template)
 
+Nessa pasta podemos encontrar os arquivos Attachment.ts, fazendo parte da pasta de classes abstratas do padrão de projeto, e também os arquivos de classes concretas Image.ts e Video.ts, juntamente ao arquivo TemplateClient.ts que representa a injeção de dependência desse padrão no menu geral do nosso projeto.
+
+No arquivo Attachment.ts, a classe abstrata Attachment é responsável por 
+definir o método padrão templateMethod e suas respectivas etapas, nesse caso separadas em compressFile(), detectExplicitContent() e upload():
+
+![Código do Attachment.ts](../../Assets/PadroesDeProjeto/AttachmentTemplate.png)
+
+No arquivo Image.ts, a classe concreta Image é responsável pelo polimorfismo das etapas do templateMethod, assim possuindo uma sobrescrita dos métodos compressFile() e detectExplicitContent() para serem responsáveis explicitamente pela compressão de imagens. Segue um código _toy_ para o arquivo:
+
+![Código do Image.ts](../../Assets/PadroesDeProjeto/Imagetemplate.png)
+
+No arquivo Video.ts, a classe concreta Video também é responsável pelo polimorfismo das etapas do templateMethod, assim possuindo uma sobrescrita dos métodos compressFile() e detectExplicitContent() para serem responsáveis explicitamente pela compressão de vídeo. Segue um código _toy_ para o arquivo:
+
+![Código do Video.ts](../../Assets/PadroesDeProjeto/VideoTemplate.png)
+
+No arquivo TemplateClient.ts, a classe TemplateClient, como citada anteriormente, é responsável pela implementação da injeção de dependência do menu da aplicação:
+
+![Código do TemplateClient.ts](../../Assets/PadroesDeProjeto/TemplateClient.png)
+
+Dessa forma, a implementação do padrão Template Method no código fornecido promove a modularidade, flexibilidade e reutilização de código, permitindo adicionar facilmente novas implementações de compressões de arquivo pelo polimorfismo das classes.
+
 ## Gravação da reunião
 
 A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  

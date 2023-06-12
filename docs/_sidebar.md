@@ -38,7 +38,8 @@
 
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
-
+      - [3.1.1. Polimorfismo](/PadroesDeProjeto/GRASPS/polimorfismo.md)
+      - [3.1.2 Especialista](/PadroesDeProjeto/GRASPS/especialista.md)
     - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
       - [3.2.1 Adapter](/PadroesDeProjeto/GOFS/adapter.md)
       - [3.2.2 Decorator](/PadroesDeProjeto/GOFS/decorator.md)

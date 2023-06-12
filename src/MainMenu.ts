@@ -2,9 +2,9 @@ import inquirer from 'inquirer';
 import { ExamplesFactory } from './ExamplesFactory.js';
 
 export enum AvailableChoices {
-  TEMPLATE = 'template',
+  TEMPLATE = 'Template',
   DECORATOR = 'Decorator - Anexador de Conteúdo',
-  ADAPTER = 'adapter',
+  ADAPTER = 'Adapter',
   STRATEGYDECORATOR = 'Strategy e Decorator - Filtro de avaliação',
 }
 export default class MainMenu {

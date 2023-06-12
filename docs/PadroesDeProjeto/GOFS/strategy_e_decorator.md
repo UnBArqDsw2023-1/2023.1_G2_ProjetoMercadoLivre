@@ -81,5 +81,5 @@ A metodologia adotada consistiu no desenvolvimento colaborativo dos artefatos pe
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adicionando participantes, metodologia | Adne Moretti |   Leonardo Milomes e Arthur | 11/06/23  |
-|  1.1   | Adicionando conclusão , código e UML  | Arthur José |  Cícero Barroso  | 11/06/23  |
-|  1.2   | Adicionando gravação da reunião  | Marcos Vinícius |  Cícero Barroso  | 11/06/23  |
+|  1.1   | Adicionando conclusão , código e UML  | Arthur José |  Cícero Barrozo  | 11/06/23  |
+|  1.2   | Adicionando gravação da reunião  | Marcos Vinícius |  Cícero Barrozo  | 11/06/23  |

@@ -58,7 +58,7 @@
 
 ## UML
 
-![image](https://lucid.app/publicSegments/view/237a8ddc-5a23-429f-8edc-1878b26c97e8/image.png)
+![DecoratorParaAnexarConteudo - StrategyDecorator](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/64036847/0f4b571b-0692-4634-bdd8-b70bbfacaa0f)
 
 <figcaption align='center'>
     <b>Figura 2: Diagrama do padrão Strategy e Decorator para a funcionalidade de filtrar avaliações dos produtos</b>

@@ -3,7 +3,6 @@ import { ExamplesFactory } from './ExamplesFactory.js';
 
 export enum AvailableChoices {
   TEMPLATE = 'template',
-  OBSERVER = 'observer',
   DECORATOR = 'Decorator - Anexador de Conteúdo',
   ADAPTER = 'adapter',
   STRATEGYDECORATOR = 'Strategy e Decorator - Filtro de avaliação',

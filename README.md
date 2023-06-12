@@ -28,6 +28,12 @@ Para iniciar o site localmente, utilize o comando:
 docsify serve ./docs
 ```
 
+### Implementação dos Padrões de Projeto
+
+A implementação dos Padrões de Projeto, ou seja, o código em si e como rodá-lo pode ser encontrada na brach:
+
+- [design-patterns](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src)
+
 
 ## Integrantes:
 

@@ -47,6 +47,13 @@
     - 2 estrelas;
     - 1 estrela;
 
+![image](https://lucid.app/publicSegments/view/237a8ddc-5a23-429f-8edc-1878b26c97e8/image.png)
+
+<figcaption align='center'>
+    <b>Figura 1: Diagrama do padrão Strategy e Decorator para a funcionalidade de filtrar avaliações dos produtos</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
+
 &emsp;&emsp; A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Strategy para separar as diferentes estretégias de filtro, no Mercado Livre sendo por Maior utilidade, mais recente e por quantidade de estrelas. Enquanto que o decorator poderia ser utilizado no filtro por quantidade de estrelas, tendo em vista que a base para todos seria a mesma. 
 
 ## UML

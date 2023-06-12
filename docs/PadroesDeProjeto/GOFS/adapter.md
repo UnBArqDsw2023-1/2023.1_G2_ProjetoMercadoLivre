@@ -35,6 +35,10 @@ Nas reuniões para desenvolvimento do artefato, os integrantes do **grupo 2** qu
 
 ## Problemática e Solução
 
+A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de avaliação do Mercado Livre foi a funcionalidade de envio de emails por serviço, ativada logo após alguma mudança em alguma avaliação que necessite da notificação do vendedor.
+
+A partir dessa funcionalidade, foi elencada a possibilidade de criação de um padrão Adapter utilizando um UseCase para ativar um serviço de envio de emails, assim realizando o envio em si para o vendedor responsável.
+
 ## UML
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="74l6spzfI3qV"></iframe></div>
@@ -69,3 +73,4 @@ Desse modo, foi possível realizar a diagramação e representação do código 
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
 |  1.0   | Adição de textos descritivos, UML e código | Gabriel Moretti |  -   | 11/06/2023 |
 |  1.1   | Adição de referências, gravação e refatorações | Gabriel Moretti |  -   | 11/06/2023 |
+|  1.2   | Adição de problemática | Gabriel Moretti |  -   | 11/06/2023 |

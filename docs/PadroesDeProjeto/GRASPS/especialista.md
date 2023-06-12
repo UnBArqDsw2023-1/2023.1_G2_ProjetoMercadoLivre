@@ -26,23 +26,21 @@
 
 &emsp;&emsp;
 
-<div style="display: center; align-items: center;">
-  <img src="docs/Assets/PadroesDeProjeto/especialista.png" alt="Exemplo de especialista" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 1 : Primeiro Exemplo de especialista
-    </h6>
-  </div>
-</div>
+![Exemplo de especialista](../../Assets/PadroesDeProjeto/especialista.png)
 
-<div style="display: center; align-items: center;">
-  <img src="docs/Assets/PadroesDeProjeto/especialista2.png" alt="Exemplo de especialista" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 1 : Segundo Exemplo de especialista
-    </h6>
-  </div>
-</div>
+<center>
+<figcaption>
+    <b>Figura 1:
+     Primeiro exemplo de especialista</b>
+</figcaption> </center>
+
+![Exemplo de especialista](../../Assets/PadroesDeProjeto/especialista2.png)
+
+<center>
+<figcaption>
+    <b>Figura 2:
+     Segundo exemplo de especialista</b>
+</figcaption> </center>
 
 
 ## Conclusão

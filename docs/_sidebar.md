@@ -50,6 +50,10 @@
 
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
+    - [3.5. Ata Reunião 1](/PadroesDeProjeto/AtaReuniao_3005.md)
+
+    - [3.6. Ata Reunião 2](/PadroesDeProjeto/AtaReuniao_0506.md)
+
 <!-- - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)

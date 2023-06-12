@@ -51,16 +51,32 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## UML
 
-## Código 
+![image](https://lucid.app/publicSegments/view/237a8ddc-5a23-429f-8edc-1878b26c97e8/image.png)
+
+<figcaption align='center'>
+    <b>Figura 1: Diagrama do padrão Strategy e Decorator para a funcionalidade de filtrar avaliações dos produtos</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption> </center>
+
+## Código
+
+Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/strategyDecorator).
 
 ## Gravação da reunião
 
 ## Conclusão
 
+Após uma análise mais aprofundada, podemos concluir que, embora haja algum código duplicado devido à similaridade das lógicas do Decorator, aplicamos dois princípios importantes em áreas específicas. O primeiro princípio é o da Responsabilidade Única, que nos permite separar as duas lógicas envolvidas no problema: ordenação e filtragem. Ao fazer essa separação, conseguimos obter uma estrutura mais modular e facilitar a manutenção do código. Isso significa que, se precisarmos modificar ou corrigir uma dessas lógicas, podemos fazê-lo de forma isolada, sem afetar as outras partes do código.
+
+Além disso, o princípio do Aberto/Fechado está presente nessa abordagem. Isso significa que o código está aberto para extensões, permitindo que novas funcionalidades sejam adicionadas sem modificar o código existente. Ao invés de alterar diretamente a lógica existente, podemos criar uma nova classe concreta que implementa a nova funcionalidade. Essa nova classe pode ser facilmente substituída pela anterior, tornando o código flexível e adaptável a mudanças futuras. Dessa forma, o código se torna mais robusto e reutilizável, facilitando a evolução e manutenção do sistema como um todo.
+
 ## Referências
+
+https://refactoring.guru/design-patterns/strategy
 
 ## Versionamento
 
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
-|  1.0   | Adicionando participantes, metodologia | Adne Moretti |   Leonardo Milomes  | 11/06/23  |
+|  1.0   | Adicionando participantes, metodologia | Adne Moretti |   Leonardo Milomes e Arthur | 11/06/23  |
+|  1.1   | Adicionando conclusão , código e UML  | Arthur José |  Cícero Barroso  | 11/06/23  |

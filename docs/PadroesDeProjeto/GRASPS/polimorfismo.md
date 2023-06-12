@@ -28,7 +28,7 @@ Segundo [1], no contexto do GRASP, o polimorfismo é aplicado para atribuir resp
 &emsp;&emsp; O polimorfismo foi utilizado em diversos pontos no projeto, um deles foi no [decorator](/docs/PadroesDeProjeto/GOFS/decorator.md) que seguia o fluxo de anexar tipos diferentes de arquivos, onde o método attach foi herdado e sobrescrito em diferentes classes.
 
 <div style="display: center; align-items: center;">
-  <img src="../Assets/PadroesDeProjeto/polimorfismoExemplo.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
+  <img src="docs/Assets/PadroesDeProjeto/polimorfismoExemplo.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Primeiro exemplo de polimorfismo
@@ -41,7 +41,7 @@ Segundo [1], no contexto do GRASP, o polimorfismo é aplicado para atribuir resp
 &emsp;&emsp; Outro exemplo de uso do polimorfismo foi no padrão GOF template method, onde dois métodos, compressFile e detectedExplicitContent, que pode ser visualizado na figura 2. 
 
 <div style="display: center; align-items: center;">
-  <img src="../Assets/PadroesDeProjeto/bao2.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
+  <img src="docs/Assets/PadroesDeProjeto/bao2.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Segundo Exemplo de polimorfismo

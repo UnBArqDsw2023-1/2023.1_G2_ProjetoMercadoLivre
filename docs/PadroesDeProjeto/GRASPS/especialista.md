@@ -27,7 +27,7 @@
 &emsp;&emsp;
 
 <div style="display: center; align-items: center;">
-  <img src="../Assets/PadroesDeProjeto/especialista.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
+  <img src="docs/Assets/PadroesDeProjeto/especialista.png" alt="Exemplo de especialista" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Primeiro Exemplo de especialista
@@ -36,10 +36,10 @@
 </div>
 
 <div style="display: center; align-items: center;">
-  <img src="../Assets/PadroesDeProjeto/especialista2.png" alt="Exemplo de polimorfismo" style="margin-right: 20px;"/>
+  <img src="docs/Assets/PadroesDeProjeto/especialista2.png" alt="Exemplo de especialista" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Primeiro Exemplo de especialista
+    Figura 1 : Segundo Exemplo de especialista
     </h6>
   </div>
 </div>

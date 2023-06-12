@@ -57,6 +57,8 @@
 
 ## Gravação da reunião
 
+A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  
+
 [Link da Reunião](https://www.youtube.com/watch?v=wuYSZUKnArc)
 
 ## Conclusão

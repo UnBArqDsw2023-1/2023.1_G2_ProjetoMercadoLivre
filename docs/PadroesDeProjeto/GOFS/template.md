@@ -44,7 +44,7 @@ A partir dessa funcionalidade, foi elencada a possibilidade de criação de um p
 
 ## UML
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/51ebca88-4c3e-4a16-8962-68fb315e975d" id="3Lp6kf31onvP"></iframe></div>
+<img src="https://lucid.app/publicSegments/view/5792c6b3-2e6e-43ac-bc7f-10690b55564c/image.png"/>
 
 <figcaption align='center'>
     <b>Figura 1: Diagrama do padrão template para a funcionalidade de compressão de arquivo (Página "TemplateMethod Compress")</b>

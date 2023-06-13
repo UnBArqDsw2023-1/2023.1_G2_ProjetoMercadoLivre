@@ -55,6 +55,28 @@
 
 [Adapter](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/adapter)
 
+Nessa pasta podemos encontrar os arquivos EmailAdapter.ts, EmailService.ts e EmailUseCase.ts, que representam as implementações participantes do Adapter, juntamente ao arquivo AdapterClient.ts que representa a injeção de dependência desse padrão no menu geral do nosso projeto.
+
+Seguem os códigos para:
+
+- EmailAdapter:
+
+![Código do Attachment.ts](../../Assets/PadroesDeProjeto/EmailAdapterImpl.png)
+
+- EmailService:
+
+![Código do Image.ts](../../Assets/PadroesDeProjeto/EmailService.png)
+
+- EmailUseCase:
+
+![Código do Video.ts](../../Assets/PadroesDeProjeto/EmailUseCase.png)
+
+- AdapterClient:
+
+![Código do TemplateClient.ts](../../Assets/PadroesDeProjeto/AdapterClient.png)
+
+Dessa forma, a implementação do padrão Adapter no código fornecido promove a modularidade, flexibilidade e reutilização de código, permitindo adicionar facilmente novas implementações de envio de emails.
+
 ## Gravação da reunião
 
 A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  

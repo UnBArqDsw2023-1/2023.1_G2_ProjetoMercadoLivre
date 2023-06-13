@@ -61,19 +61,19 @@ Seguem os códigos para:
 
 - EmailAdapter:
 
-![Código do Attachment.ts](../../Assets/PadroesDeProjeto/EmailAdapterImpl.png)
+![Código do EmailAdapter.ts](../../Assets/PadroesDeProjeto/EmailAdapterImpl.png)
 
 - EmailService:
 
-![Código do Image.ts](../../Assets/PadroesDeProjeto/EmailService.png)
+![Código do EmailService.ts](../../Assets/PadroesDeProjeto/EmailService.png)
 
 - EmailUseCase:
 
-![Código do Video.ts](../../Assets/PadroesDeProjeto/EmailUseCase.png)
+![Código do EmailUseCase.ts](../../Assets/PadroesDeProjeto/EmailUseCase.png)
 
 - AdapterClient:
 
-![Código do TemplateClient.ts](../../Assets/PadroesDeProjeto/AdapterClient.png)
+![Código do AdapterClient.ts](../../Assets/PadroesDeProjeto/AdapterClient.png)
 
 Dessa forma, a implementação do padrão Adapter no código fornecido promove a modularidade, flexibilidade e reutilização de código, permitindo adicionar facilmente novas implementações de envio de emails.
 

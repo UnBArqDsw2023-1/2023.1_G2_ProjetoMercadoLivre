@@ -49,6 +49,39 @@
 
 &emsp;&emsp; Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/contentDecorator).
 
+Nessa pasta podemos encontrar os arquivos da base do decorator: BaseDecorator.ts; da classe concreta do decorator: ConcreteAttachment.ts; da interface do decorator: Attachment.js; do cliente relativo à injeção de dependência no menu da aplicação geral: ContentDecoratorClient.ts; e, por último, os arquivos referentes às classes decorator em si: JpegDecorator.ts, Mp4Decorator.ts e PngDecorator.ts.
+
+Seguem os códigos para:
+
+- BaseDecorator:
+
+![Código do BaseDecorator.ts](../../Assets/PadroesDeProjeto/baseDecoratorContent.png)
+
+- ConcreteAttachment:
+
+![Código do ConcreteAttachment.ts](../../Assets/PadroesDeProjeto/ConcreteAttachment.png)
+
+- Attachment:
+
+![Código do Attachment.ts](../../Assets/PadroesDeProjeto/Attachment.png)
+
+- ContentDecoratorClient:
+
+![Código do ContentDecoratorClient.ts](../../Assets/PadroesDeProjeto/ContentDecoratorClient.png)
+
+- JpegDecorator:
+
+![Código do JpegDecorator.ts](../../Assets/PadroesDeProjeto/jpegDecorator.png)
+
+- Mp4Decorator:
+
+![Código do Mp4Decorator.ts](../../Assets/PadroesDeProjeto/Mp4Decorator.png)
+
+- PngDecorator:
+
+![Código do PngDecorator.ts](../../Assets/PadroesDeProjeto/PngDecorator.png)
+
+Dessa forma, a implementação do padrão Decorator no código fornecido promove a modularidade, flexibilidade e reutilização de código, permitindo adicionar facilmente novas implementações de anexo de arquivos às avaliações.
 
 ## Gravação da reunião
 

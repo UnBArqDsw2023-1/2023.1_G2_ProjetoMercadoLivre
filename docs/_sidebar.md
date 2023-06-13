@@ -54,6 +54,8 @@
 
     - [3.6. Ata Reunião 2](/PadroesDeProjeto/AtaReuniao_0506.md)
 
+    - [3.7. Melhorias na entrega anterior](/PadroesDeProjeto/MelhoriasEntregaPassada.md)
+
 <!-- - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)

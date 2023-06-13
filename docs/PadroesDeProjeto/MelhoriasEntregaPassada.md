@@ -34,10 +34,14 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
+## Além das correções
+
+&emsp;&emsp; Com os diagramas desenvolvidos nessa entrega, também atualizamos o [Diagrama de classes](../Modelagem/Estaticos/classes.md) com o objetivo de inserir todos os novos diagramas dos padrões de projeto. Essa nova versão do diagrama de classes pode ser visualizada [aqui](../Modelagem/Estaticos/classes.md#54-quarta-versão-do-diagrama-de-classes).
+
 
 ## Versionamento
 
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
-|  1.0   | Criação do artefato e adição de todo conteúdo | Marcos Vinícius  |  Cicero  | 12/06 |
+|  1.0   | Criação do artefato e adição de todo conteúdo | Marcos Vinícius  |  Arthur  | 12/06 |
 

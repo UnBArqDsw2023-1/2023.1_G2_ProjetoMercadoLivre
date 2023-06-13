@@ -72,6 +72,44 @@
 
 &emsp;&emsp; Para acessar a implementação em código do Decorator de Conteúdo para realizado aqui basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/design-patterns/src/strategyDecorator).
 
+Nessa pasta podemos encontrar todos os arquivos que irão servir de base para o decorator e o strategy, mas neste documento, a fins de resumir a funcionalidade, serão apenas demonstrados os arquivos dos strategies em si: MostRecentlyStrategy.ts, MostRelevantStrategy.ts e QualificationStrategy.ts; e os arquivos dos decorators: OneStarDecorator.ts, TwoStarsDecorator.ts, ThreeStarsDecorator.ts, FourStarsDecorator.ts, FiveStarsDecorator.ts
+
+Seguem os códigos para:
+
+- MostRecentlyStrategy:
+
+![Código do MostRecentlyStrategy.ts](../../Assets/PadroesDeProjeto/MostRecentlyStrategy.png)
+
+- MostRelevantStrategy:
+
+![Código do MostRelevantStrategy.ts](../../Assets/PadroesDeProjeto/MostRelevantStrategy.png)
+
+- QualificationStrategy:
+
+![Código do QualificationStrategy.ts](../../Assets/PadroesDeProjeto/QualificationStrategy.png)
+
+- OneStarDecorator:
+
+![Código do OneStarDecorator.ts](../../Assets/PadroesDeProjeto/OneStarDecorator.png)
+
+- TwoStarsDecorator:
+
+![Código do TwoStarsDecorator.ts](../../Assets/PadroesDeProjeto/TwoStarsDecorator.png)
+
+- ThreeStarsDecorator:
+
+![Código do ThreeStarsDecorator.ts](../../Assets/PadroesDeProjeto/ThreeStarDecorator.png)
+
+- FourStarsDecorator:
+
+![Código do FourStarsDecorator.ts](../../Assets/PadroesDeProjeto/FourStarDecorator.png)
+
+- FiveStarsDecorator:
+
+![Código do FiveStarsDecorator.ts](../../Assets/PadroesDeProjeto/FiveStartDecorator.png)
+
+Dessa forma, a implementação do padrão Decorator no código fornecido promove a modularidade, flexibilidade e reutilização de código, permitindo adicionar facilmente novas implementações de anexo de arquivos às avaliações.
+
 ## Gravação da reunião
 
 A gravação da reunião, ilustrando os diferentes pontos de vista da equipe, pode ser encontrado no link a seguir:  

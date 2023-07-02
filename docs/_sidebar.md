@@ -30,6 +30,7 @@
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1. Diagrama de Colaboracao](/Modelagem/Dinamicos/colaboracao.md)
         - [2.1.2.2. Diagrama de Estados](/Modelagem/Dinamicos/estados.md)
+
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
     - [2.3. Ata Reunião ](/Modelagem/AtaReuniao_0205.md)
@@ -37,6 +38,7 @@
 - **Padrões de Projeto**
 
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
+
     - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
       - [3.1.1. Polimorfismo](/PadroesDeProjeto/GRASPS/polimorfismo.md)
       - [3.1.2 Especialista](/PadroesDeProjeto/GRASPS/especialista.md)
@@ -45,7 +47,8 @@
       - [3.2.2 Decorator](/PadroesDeProjeto/GOFS/decorator.md)
       - [3.2.3 Strategy e Decorator](/PadroesDeProjeto/GOFS/strategy_e_decorator.md)
       - [3.2.4 Template Method](/PadroesDeProjeto/GOFS/template.md)
-    - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/Extra/3.3.PadroesExtra.md)    
+    - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/Extra/3.3.PadroesExtra.md)
+
       - [3.3.1 Injeção de Dependências e Factory](/PadroesDeProjeto/Extra/3.3.1.InjecaoDeDependenciasEFactory.md)
 
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
@@ -61,4 +64,5 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
       - [4.1.1 Documento de Arquitetura de Software](/ArquiteturaReutilizacao/4.1.1.DAS.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+      - [4.2.1 Módulo de Reutilização de Software](/ArquiteturaReutilizacao/4.2.1.Reutilizacao.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)

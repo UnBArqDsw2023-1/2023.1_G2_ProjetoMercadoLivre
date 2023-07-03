@@ -1,0 +1,44 @@
+{
+  "name": "arq",
+  "version": "1.0.0",
+  "description": "Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023, onde foi proposto para fazermos os processos de arquitetura do perfil do comprador e da plataforma \"Mercado livre\", sobre os fluxos de avaliação do produto.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx eslint . --ext=.ts --fix && ts-node --esm ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/issues"
+  },
+  "homepage": "https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/inversify": "^2.0.33",
+    "@types/reflect-metadata": "^0.1.0",
+    "@typescript-eslint/eslint-plugin": "^5.59.8",
+    "@typescript-eslint/parser": "^5.59.8",
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard-with-typescript": "^35.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}

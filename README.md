@@ -2,19 +2,15 @@
 
 ## Introdução
 
-Este repositório está dedicado ao trabalho do Grupo 2 de Arquitetura de Desenho de Software do 1º semestre de 2023, onde foi proposto para fazermos os processos de arquitetura do perfil do comprador e da plataforma "Mercado livre", sobre os fluxos de avaliação do produto.
+&emsp;&emsp; Essa branch está destinada ao código dos [padrões de projeto](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto) presentes em nosso projeto. Abaixo segue um breve tutorial para rodá-lo.
 
-## Tecnologia
+## Passo 1
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+&emsp;&emsp; Instale o [node.js](https://kinsta.com/pt/blog/como-instalar-o-node-js/) versão 16.20.0
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+## Passo 2
 
-### Instalando o docsify
-
-Execute o comando:
+&emsp;&emsp; Para rodar:
 
 ```shell
 npm i docsify-cli -g

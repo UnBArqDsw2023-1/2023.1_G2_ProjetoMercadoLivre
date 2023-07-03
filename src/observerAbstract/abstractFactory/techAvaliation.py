@@ -7,5 +7,16 @@ class TechAvaliation(Avaliation):
         self.score = score
         self.questions = questions
 
-    def avaliate(self, b: Buyer, p: Product) -> bool:
-        # Preciso pensar na lógica específica dos critérios de avaliação para tecnologia
+    def avaliate(self, b: Buyer, p: Product, score: float) -> bool:
+    
+        if score < 0:
+            score = 0
+        elif score > 5:
+            score = 5
+
+        buyer_name = b.name  
+        seller = p.sellerId  
+        product = p.productId  
+
+        return True
+        #nao to sabendo criar a instancia da avaliacao a partir do score ser setado

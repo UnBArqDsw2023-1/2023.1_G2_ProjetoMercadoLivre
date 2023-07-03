@@ -35,7 +35,9 @@ O diagrama de classes foi elaborado conforme a documentação e os padrões apre
 A equipe se reuniu 09/05 no microsoft teams e começou a construir o diagrama de classes em conjunto. A priori, decidimos definir quais seriam as classes mais pertinentes a serem inseridas no diagrama. Em seguida, adicionaram-se os atributos, os métodos e, por fim, foram incluídos os relacionamentos entre os diagramas.
 Assim, concluímos o protótipo do diagrama de classes, o qual foi otimizado, ao decorrer do tempo, a fim de adequar principalmente os relacionamentos das classes.
 
-### 5.1 Primeira Versão do Diagrama
+Além disso, introduzimos na entrega de padrões de projeto uma nova versão mostrando outras partes da amplicação além do conjunto de entidades descritos nos diagramas iniciais.
+
+### 5.1 Primeira Versão do Diagrama de Classes
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/ClassesV1.png" alt="descrição da imagem" style="margin-right: 20px;"/>
@@ -49,26 +51,39 @@ Assim, concluímos o protótipo do diagrama de classes, o qual foi otimizado, ao
 Como é possível observar, houve mudanças significativas especificamente na modelagem dos relacionamentos presentes no diagrama.
 Assim, tem-se que setas de associação foram substituídas por outra de agregação e composição de forma a retratar melhor a relacção entre o pedido, o produto, o vendedor e o comprador.
 
-### 5.2 Segunda Versão do Diagrama
+### 5.2 Segunda Versão do Diagrama de Classes
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/ClassesV2.png" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Diagrama de Classes V2
+    Figura 2 : Diagrama de Classes V2
     </h6>
   </div>
 </div>
 
 Por fim, foi analisada a relação entre produto e avaliação e, após debate, optamos por alterar a seta indicativa de associação para agregação, a fim de retrata a relação de exclusividade entre as classes supracitadas.
 
-### 5.3 Terceira Versão do Diagrama
+### 5.3 Terceira Versão do Diagrama de Classes
 
 <div style="display: center; align-items: center;">
   <img src="Assets/diagramas/ClassesV3.png" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Diagrama de Classes V3
+    Figura 3 : Diagrama de Classes V3
+    </h6>
+  </div>
+</div>
+
+### 5.4 Quarta Versão do Diagrama de Classes
+
+Para a quarta versão do diagrama de classe foram adicionados novas partes referentes aos Padrões de Projeto.
+
+<div style="display: center; align-items: center;">
+  <img src="Assets/diagramas/ClassesV4.png" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 4 : Diagrama de Classes V4
     </h6>
   </div>
 </div>
@@ -87,15 +102,16 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 </div>
 
 ## 7. Gravação da reuniao
-
+Primeira Versão:
 [Parte 1](https://youtu.be/CbLMMBllyBQ)
+Segunda/terceira Versão:
 [Parte 2](https://youtu.be/eYP6UfRJLb4)
 
 ## 8. Conclusão
 
-&emsp;&emsp; O diagrama de classes foi realizado a fim de englobar as entidades que compõe o fluxo de avaliação de produto, desenhando classes que estão diretamente ligadas à regra de negócio da aplicação.
+&emsp;&emsp; O diagrama de classes foi para englobar as entidades que compõe o fluxo de avaliação de produto e para descrever relações sobre os padrões de projeto, desenhando classes que estão diretamente ligadas à regra de negócio da aplicação.
 
-&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualização mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos e métodos.
+&emsp;&emsp; Em conclusão, o artefato de diagrama de classes proporcionou ao grupo uma visualização mais clara e concisa da estrutura das entidades e suas relações dentro do sistema, foi possível compreender melhor a regra de negócio e também concretizar ideias em classes, relacionamentos, atributos,  métodos e descrever bem os padrões de projeto abordados no projeto.
 
 &emsp;&emsp; O diagrama fica também como forma de documentação, facilitando a colaboração e entendimento do sistema.
 
@@ -115,3 +131,4 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 |  1.4   |             Correção Estrutural              |   Letícia Aires    |         -          | 15/05 |
 |  1.5   |            Adição da Metodologia             |   Letícia Aires    |         -          | 15/05 |
 |  1.6   |         Atualizar Legenda de classes         |       Arthur       |         -          | 15/05 |
+|  1.7   |         Add Versão 4 do diagrama de classes         |       Arthur       |         -          | 15/05 |

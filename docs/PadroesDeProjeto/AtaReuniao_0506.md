@@ -38,7 +38,7 @@ implementação evidenciados.
 
 ## 4. Decisões
 
-Porém, como parte da decisão de todos os integrantes, a equipe alterou o que iria ser desenvolvido e alinhou os artefatos para a próxima entrega, os quais são:
+&emsp;&emsp; Porém, como parte da decisão de todos os integrantes, a equipe alterou o que iria ser desenvolvido e alinhou os artefatos para a próxima entrega, os quais são:
 
 - 2 a 3 Padrões GRASPs (usando engenharia reversa a partir dos GoFs)
 - 6 Padrões GoF (Adapter, Factory, Mediator); e
@@ -58,7 +58,7 @@ Dessa forma, a Tabela 1 ilustra os grupos (criados na [primeira reunião](AtaReu
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | 
-| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | - | 05/06 |
+| 1.0    | Criando Ata de Reunião   | Leonardo Vitoriano | Adne Moretti | 05/06 |
 
 
 

@@ -1,22 +1,17 @@
-from avaliation import Avaliation
+from interface.avaliation import Avaliation
+from buyer import Buyer
+from product import Product
 
 class TechAvaliation(Avaliation):
+    __buyerId: int
+    __productId: int
+    __score: float
+    __questions = ["Avalie as características"]
     def __init__(self, buyerId: int, productId: int, score: float, questions: list[str]):
-        self.buyerId = buyerId
-        self.productId = productId
+        super().__init__(buyerId, productId)
         self.score = score
-        self.questions = questions
 
-    def avaliate(self, b: Buyer, p: Product, score: float) -> bool:
+    def avaliate(self, buyer: Buyer, product: Product, score: float) -> "TechAvaliation":
     
-        if score < 0:
-            score = 0
-        elif score > 5:
-            score = 5
-
-        buyer_name = b.name  
-        seller = p.sellerId  
-        product = p.productId  
-
-        return True
-        #nao to sabendo criar a instancia da avaliacao a partir do score ser setado
+        score = self._validate_score(score)
+        return TechAvaliation(buyer.id, product.id, score)

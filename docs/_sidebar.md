@@ -47,7 +47,7 @@
       - [3.2.2 Decorator](/PadroesDeProjeto/GOFS/decorator.md)
       - [3.2.3 Strategy e Decorator](/PadroesDeProjeto/GOFS/strategy_e_decorator.md)
       - [3.2.4 Template Method](/PadroesDeProjeto/GOFS/template.md)
-      - [3.2.5 Observer e Abstract Factory](./PadroesDeProjeto/GOFS/observer_e_abstract_factory.md)
+      - [3.2.5 Observer e Abstract Factory](/PadroesDeProjeto/GOFS/observer_e_abstract_factory.md)
     - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/Extra/3.3.PadroesExtra.md)
 
       - [3.3.1 Injeção de Dependências e Factory](/PadroesDeProjeto/Extra/3.3.1.InjecaoDeDependenciasEFactory.md)

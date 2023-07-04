@@ -36,16 +36,16 @@ A partir da funcionalidade de notificação automática de vendedores, por meio 
 </figcaption> </center>
 
 
-## UML
+## [UML](https://lucid.app/lucidchart/83ee6b70-cfa0-4468-bb01-5e730f96dbcf/edit?invitationId=inv_b1c483f5-2a0d-4ad3-a693-9fb3eae15d97&page=0_0#)
 
-![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/ca872f81-e1e4-4020-a885-645b4c156033)
+![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/175b908d-9a0b-4e0a-b556-60cb482498ea)
 
 <figcaption align='center'>
     <b>Figura 2: Diagrama do padrão Observer e Abstract Factory</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption> </center>
 
-## Código
+## [Código](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/7040c559f925995cfcbfc0df98fa635875d8fa05/src/observerAbstract)
 
 Para acessar a implementação em código do Observer e Abstract Factory, basta clicar [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/tree/7040c559f925995cfcbfc0df98fa635875d8fa05/src/observerAbstract).
 
@@ -54,14 +54,24 @@ Nesta pasta podemos encontrar todos os arquivos que irão servir de base para o 
 A seguir os códigos para cada classe:
 
 * clothesAvaliation:
-  ![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/ee8327f8-723d-4b1f-9f31-eb68124f0252)
+  
+![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/c9398ea3-b553-4710-8298-c9b5aca25b28)
+
 * techAvaliation:
-  ![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/8eaf1078-7ee2-462b-b689-c14d14dc3699)
+  
+![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/583b44e3-5efd-401e-9283-ed6d2b69d94a)
+
 * avaliationNotifier:
-  ![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/83798379-a3e9-44a6-ae51-40ba527133cf)
+  
+![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/b81efc5a-acbe-4aad-ae9a-f46bc0570812)
+
+* avaliation:
+  
+![image](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/assets/72623771/7fcd8db1-8e5c-404e-804b-5552abd352fc)
+
 ## Conclusão
 
-
+Em resumo, a combinação dos padrões Observer e Abstract Factory proporcionou uma solução eficiente e flexível para a notificação automática de vendedores em um sistema de avaliação de produtos. Essa abordagem demonstra o uso adequado dos padrões de projeto e contribui para a qualidade do software desenvolvido.
 
 ## Referências
 
@@ -72,4 +82,5 @@ A seguir os códigos para cada classe:
 
 | Versão |                  Alteração                   |    Responsável     |      Revisor       | Data  |
 | :----: | :------------------------------------------: | :----------------: | :----------------: | :---: |
-|  1.0   | Criação do Documento e Adição de Conteúdo | Letícia Aires |   Matheus Pimentel | 03/07/23  |
+|  1.0   | Criação do Documento e Adição de Conteúdo    | Letícia Aires      |   Matheus Pimentel | 03/07/23  |
+|  2.0   | Atualização UML e de Código                  | Letícia Aires      |   Matheus Pimentel | 04/07/23  |

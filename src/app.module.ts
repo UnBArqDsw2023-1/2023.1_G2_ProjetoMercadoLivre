@@ -1,15 +1,14 @@
 import { Module } from '@nestjs/common';
-import { TypeOrmModule } from '@nestjs/typeorm';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
-import { EvaluationModule } from './evaluation/evaluation.module';
+import { EvaluationModule } from './avaliation.module';
+import { PrismaService } from './prisma/prisma.service';
+import { AvaliationController } from './avaliation.controller';
+
 
 @Module({
   imports: [
-    TypeOrmModule.forRoot(),
     EvaluationModule,
   ],
-  controllers: [AppController],
-  providers: [AppService],
+  controllers: [AvaliationController],
+  providers: [PrismaService],
 })
 export class AppModule {}

@@ -1,0 +1,110 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Comment {
+  idComment    Int     @id @default(autoincrement())
+  likes        BigInt
+  dislikes     BigInt
+  text         String?
+  idAvaliation String
+  avaliation   Avaliation? @relation(fields: [idAvaliation], references: [idAvaliation])
+}
+
+model Avaliation {
+  idAvaliation      String   @id @default(cuid())
+  classification    Float
+  avaliationDate    DateTime @default(now())
+  idComment         Int
+  idBuyer Int
+  idSeller Int
+  comment           Comment[]
+  buyer             Buyer  @relation(fields: [idBuyer], references: [idBuyer])
+  seller            Seller @relation(fields: [idSeller], references: [idSeller])
+}
+
+model Phone {
+  number       BigInt
+  cpfUser      BigInt
+
+  user         User     @relation(fields: [cpfUser], references: [cpfUser])
+  @@unique([number, cpfUser])
+}
+
+model User {
+  cpfUser       BigInt
+  cep           BigInt
+  street        String
+  number        String
+  city          String
+  state         String
+  name          String
+  email         String
+  neighborhood  String
+  phone         Phone[]
+  buyer         Buyer[]
+  seller        Seller?
+  @@id([cpfUser])
+}
+
+model Buyer {
+  idBuyer       Int      @id @default(autoincrement())
+  orderAmount   Int
+
+  user          User     @relation(fields: [cpfUser], references: [cpfUser])
+  cpfUser       BigInt
+  avaliations   Avaliation[]
+  orders        Order[]
+  @@unique([cpfUser])
+}
+
+model Seller {
+  idSeller      Int      @id @default(autoincrement())
+  cpfUser       BigInt
+  reputation    Int
+
+  user          User     @relation(fields: [cpfUser], references: [cpfUser])
+  products      Product[]
+  avaliations   Avaliation[]
+  @@unique([cpfUser])
+}
+
+model Product {
+  idProduct     Int      @id @default(autoincrement())
+  idSeller      Int
+  name          String
+  price         Float
+  description   String?
+  caracteristic String
+  stock         BigInt
+
+  seller          Seller   @relation(fields: [idSeller], references: [idSeller])
+  orders        owns[]
+}
+
+model Order {
+  idOrder       Int      @id @default(autoincrement())
+  idProduct     Int
+  orderAmount   Int
+
+  product       owns[]
+  buyers        Buyer[]
+}
+
+model owns {
+  idOrder Int 
+  idProduct Int
+
+  order Order @relation(fields: [idOrder], references: [idOrder])
+  product Product @relation(fields: [idProduct], references: [idProduct])
+
+  @@unique([idOrder, idProduct])
+}

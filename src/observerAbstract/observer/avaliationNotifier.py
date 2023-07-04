@@ -1,17 +1,19 @@
+from interface.avaliation import Avaliation
 
 class AvaliationNotifier:
+    __avaliations: list[Avaliation]
     def __init__(self):
         self.avaliations = []
 
-    def subscribe(self, avaliation):
+    def subscribe(self, avaliation: Avaliation):
         self.avaliations.append(avaliation)
+        self._notifyProduct()
+        self._notifySeller()
 
-    def notifyProduct(self):
+    def _notifyProduct(self):
         for avaliation in self.avaliations:
             avaliation.updateProduct()
 
-    def notifySeller(self):
+    def _notifySeller(self):
         for avaliation in self.avaliations:
             avaliation.updateSeller()
-# fiquei um pouco trava nesse código.
-# preciso dar uma olhada melhor depois para continuar o desenvolvimento.

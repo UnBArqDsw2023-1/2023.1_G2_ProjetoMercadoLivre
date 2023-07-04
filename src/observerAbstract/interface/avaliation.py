@@ -8,6 +8,5 @@ class Avaliation(ABC):
     def avaliate(self, buyer: Buyer, product: Product, score: float):
         """Generate the avaliation that the buyer has answered"""
         pass
-    def _validate_score(self, score: float):
+    def _validate_score(self, score: float) -> float:
         return max(0, min(score, 5))
-
